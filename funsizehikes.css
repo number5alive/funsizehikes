@@ -1,0 +1,28 @@
+
+.jumbotron {
+    #background-image: url('https://lh3.googleusercontent.com/7JXyyMKEyj3_cCoDYsNiYRvXQlrXn9oMy7_Txdz1x1Lfqz5L4SC3vIktKmbE9XRGMc5on8KkdNw-X8NYIEACUySBIX6aZtGyCzs1yqcknpujcGrqAkRiZBROptmpoKoe0ewG8VpHm5Y=w2400');
+    background-image: url('https://lh3.googleusercontent.com/pbUx-d077rAWlkTEV1q6tdju4IVbG7bl2cBzqfVgACf75vMvHS2SocDBQIyrSvInwhmuP_FZEcn5Cd4sj2GMmcVu3KtRU4kqyELuWf9lMiB_AGDAq8KsXeyOd_BzLxWBJOOT8VJVW7A=w2400'); 
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    background-size: cover;
+}
+
+.jumbotron .container {
+  max-width: 40rem;
+  background: rgba(255,255,255,0.2);
+  padding: 2rem;
+  color: white;
+}
+
+.jumbotron p {
+  color: white;
+  text-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+.card {
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    background-size: cover;
+}
+ 
+ 
