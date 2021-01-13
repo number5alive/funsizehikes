@@ -1,9 +1,6 @@
 
 .jumbotron {
-    #background-image: url('https://lh3.googleusercontent.com/7JXyyMKEyj3_cCoDYsNiYRvXQlrXn9oMy7_Txdz1x1Lfqz5L4SC3vIktKmbE9XRGMc5on8KkdNw-X8NYIEACUySBIX6aZtGyCzs1yqcknpujcGrqAkRiZBROptmpoKoe0ewG8VpHm5Y=w2400');
-    #background-image: url('https://lh3.googleusercontent.com/pbUx-d077rAWlkTEV1q6tdju4IVbG7bl2cBzqfVgACf75vMvHS2SocDBQIyrSvInwhmuP_FZEcn5Cd4sj2GMmcVu3KtRU4kqyELuWf9lMiB_AGDAq8KsXeyOd_BzLxWBJOOT8VJVW7A=w2400'); 
-    #background-image: url('https://lh3.googleusercontent.com/nFncLxg_rFdtR9Tf_ElnP_ibXDMGs_cd4xdxDB03SnmsJ3h6f7OPY7ORNbuYvnVbfL_GV-O0TMIIi1xDz_KjbLY4_b2rm1lmjRlI5y9MKfZs-T8rfszMexRTTrr2F8mygGXP7CTOKuo=w2400'); 
-    background-image: url('https://lh3.googleusercontent.com/dZoOLZldeKaEjXbUEUsSeThWFLhVsLhRrm235lqNYG99kiuGUMWnkdIjIwMr4IOQ2mOPypoaTL3IYyaeGY2nLXXRJy3SSW2tDppaay29V9TMoLHOKSZv0MRlk-9LD4uM8qHmacFImLg=w2400'); 
+    background-image: url('./images/withfs/thewinds-1024.jpg');
     background-repeat: no-repeat;
     background-position: top left;
     background-size: cover;
