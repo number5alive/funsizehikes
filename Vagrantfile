@@ -65,7 +65,7 @@ Vagrant.configure("2") do |config|
   # documentation for more information about their specific syntax and use.
   config.vm.provision "shell", inline: <<-SHELL
     apt-get update
-    apt-get install -y python3.8 python3.8-venv python3-pip ipython3 git
+    apt-get install -y git imagemagick exiftool
   SHELL
    
   config.vm.provision "shell", path: "./gcloud.sh"
