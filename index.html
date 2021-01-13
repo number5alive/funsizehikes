@@ -67,7 +67,14 @@
         <div class="col">
           <div class="card shadow-sm">
             <div class="bg-image">
-              <img src="https://lh3.googleusercontent.com/U_veoOPfnY4gNReK2oEJEZcw3IrPfWr4y6vdPnBWIE62SXuZFhKhhUDX-0FfEcfBPtjDLkPsNol7BfUz2DgreVxrYgWxbnX4_-l7YJeYXYAYl3Lh5MWWWMQMF8Xhhb1M7x560uU1Pvg=w2400" class="img-fluid" alt="Professional Writing Background"/>
+              <picture>
+                <!-- Somewhat non-intuitively, this picture is bigger at smaller resolutions 
+                     because it gets "stacked" -->
+                <source type="image/webp" media="(max-width:350px)" srcset="./images/withfs/patagonia-320.webp">
+                <source type="image/webp" media="(max-width:550px)" srcset="./images/withfs/patagonia-1024.webp">
+                <source type="image/webp" media="(min-width:551px)" srcset="./images/withfs/patagonia-640.webp">
+                <img src="./images/withfs/patagonia-1024.jpg" class="img-fluid" alt="Professional Writing Background"/>
+              </picture>
               <div class="mask" style="background-color: rgba(0, 0, 0, 0.6)">
                 <div class="d-flex justify-content-center align-items-center h-100">
                   <p class="text-white mb-0">Professional Writing</p>
