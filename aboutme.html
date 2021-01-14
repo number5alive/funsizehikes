@@ -1,6 +1,16 @@
 <!doctype html>
 <html lang="en">
   <head>
+     <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-DBB52DEL3E"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-DBB52DEL3E');
+    </script>    
+     
     <link rel='icon' href='./favicon.ico' type='image/svg' />
      
     <!-- Required meta tags -->
@@ -17,9 +27,86 @@
     <title>Fun Size Hikes</title>
   </head>
   <body>
-<p>Eloise Robbins is a long distance adventurer who completed the Triple Crown of hiking in just over two years. She has hiked the Pacific Crest Trail, Continental Divide Trail, Appalachian Trail and Long Trail, in addition to many shorter distance treks. Eloise is passionate about human powered travel, and also enjoys canoeing, bikepacking, rock climbing and various forms of winter exploration. Eloise has lived in Scotland, Alaska, and now makes her home in Canada.</p>
-<p>Eloise has worked as a writer, editor and communications manager for diverse companies, including book publishers, nonprofits and law firms.  Her writing has appeared in multiple outdoor publications, including on Dirtbag Diaries and noted thru-hiking website The Trek.</p>
-<br>
-<p>Contact Eloise to enquire about writing and editing services.</p>
+     
+<header>
+  <div class="collapse bg-dark" id="navbarHeader">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-8 col-md-7 py-4">
+          <h4 class="text-white">About Me</h4>
+          <p class="text-muted">I'm a triple crowner (PCT 2016, CDT 2017, AT 2018) with over two decades of backpacking experience. On trail, I go by Fun Size. I love everything from thirty mile days to sitting in a hammock with a beer. In 2019, I hiked Vermont's Long Trail with Chester the nine pound dog, and I'm planning on thru-hiking the Great Divide Trail in 2021.</p>
+        </div>
+        <div class="col-sm-4 offset-md-1 py-4">
+          <h4 class="text-white">Contact</h4>
+          <ul class="list-unstyled">
+            <li><a href="https://instagram.com/eloisefunsize" class="text-white">Follow on Twitter</a></li>
+            <li><a href="https://eloiserobbins.wordpress.com" class="text-white">Follow on Wordpress</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="navbar navbar-dark bg-dark shadow-sm">
+    <div class="container">
+      <a href="./index.html" class="navbar-brand d-flex align-items-center">
+        <svg xmlns="https://www.w3.org/2000/svg" width="20" height="20" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" aria-hidden="true" class="me-2" viewBox="0 0 24 24"><path d="M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z"/><circle cx="12" cy="13" r="4"/></svg>
+        <strong>Fun Size - Eloise Robbins</strong>
+      </a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarHeader" aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+    </div>
+  </div>
+</header>
+     
+    <script>
+      const ACTION_HTML_START='<div class="container infocard"> <div class="row "> <div class="col-LEFT"> ';
+      const ACTION_HTML_MIDDLE='</div><div class="col-RIGHT">';
+      const ACTION_HTML_IMG='<img style="width:100%" class="card-img-bottom" src="ACTION_IMG" alt="ACTION">';
+      const ACTION_HTML_TITLE='<h1 class="align-middle">ACTION</h1> ';
+      const ACTION_HTML_END='</div> </div> <div class="row" style="margin: 10px 5px"> <div class="col-12"> <p class="card-text">ACTION_TEXT</p> </div> </div> </div> ';
+       
+      var numcards=0;
+      function addActionCard(action, image, text) {
+        // Construct the HMTL for the block as either image on the right or image on the left
+        var bLeft = numcards++ % 2;
+        var html=ACTION_HTML_START + (bLeft ? ACTION_HTML_IMG : ACTION_HTML_TITLE) +
+                 ACTION_HTML_MIDDLE + (bLeft ? ACTION_HTML_TITLE : ACTION_HTML_IMG) +
+                 ACTION_HTML_END;
+
+        // Now replace the magic flags in that text, with this specific block data
+        html=html.replace(/LEFT/g,bLeft ? 4 : 8);
+        html=html.replace(/RIGHT/g,bLeft ? 8 : 4);
+        html=html.replace(/ACTION_IMG/g,image);
+        html=html.replace(/ACTION_TEXT/g,text);
+        html=html.replace(/ACTION/g,action);
+        return html;
+      }
+    </script>
+     
+     
+    <p>Eloise Robbins is a long distance adventurer who completed the Triple Crown of hiking in just over two years. She has hiked the Pacific Crest Trail, Continental Divide Trail, Appalachian Trail and Long Trail, in addition to many shorter distance treks. Eloise is passionate about human powered travel, and also enjoys canoeing, bikepacking, rock climbing and various forms of winter exploration. Eloise has lived in Scotland, Alaska, and now makes her home in Canada.</p>
+    <p>Eloise has worked as a writer, editor and communications manager for diverse companies, including book publishers, nonprofits and law firms.  Her writing has appeared in multiple outdoor publications, including on Dirtbag Diaries and noted thru-hiking website The Trek.</p>
+    <br>
+    <p>Contact Eloise to enquire about writing and editing services.</p>
+     
+    <div id="actioncards"> 
+      // Will be auto-populated by the calls to addActionCard in the script
+    </div>
+
+    <script>
+      // build up the HTML for all of the cards we actually want to make
+      var allcards="";
+      allcards = allcards + addActionCard("Hiking", "./images/withfs/thewinds-320.webp", "This is a bunch of text to add into the mix");
+      allcards = allcards + addActionCard("Dorking", "./images/withoutfs/tentcarcajoue-320.webp", "This is a bunch of text to add into the mix");
+      allcards = allcards + addActionCard("Biking", "./images/withoutfs/tentcarcajoue-320.webp", "This is a bunch of text to add into the mix");
+      allcards = allcards + addActionCard("Morking", "./images/withoutfs/tentcarcajoue-320.webp", "This is a bunch of text to add into the mix");
+       
+      // This actually adds it the page
+      var el=document.getElementById("actioncards");
+      el.innerHTML=allcards;
+    </script>
+
+ 
   </body>
 </html>
