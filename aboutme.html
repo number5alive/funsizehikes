@@ -49,7 +49,6 @@
   <div class="navbar navbar-dark bg-dark shadow-sm">
     <div class="container">
       <a href="./index.html" class="navbar-brand d-flex align-items-center">
-        <svg xmlns="https://www.w3.org/2000/svg" width="20" height="20" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" aria-hidden="true" class="me-2" viewBox="0 0 24 24"><path d="M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z"/><circle cx="12" cy="13" r="4"/></svg>
         <strong>Fun Size - Eloise Robbins</strong>
       </a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarHeader" aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">
@@ -84,11 +83,23 @@
       }
     </script>
      
-     
-    <p>Eloise Robbins is a long distance adventurer who completed the Triple Crown of hiking in just over two years. She has hiked the Pacific Crest Trail, Continental Divide Trail, Appalachian Trail and Long Trail, in addition to many shorter distance treks. Eloise is passionate about human powered travel, and also enjoys canoeing, bikepacking, rock climbing and various forms of winter exploration. Eloise has lived in Scotland, Alaska, and now makes her home in Canada.</p>
-    <p>Eloise has worked as a writer, editor and communications manager for diverse companies, including book publishers, nonprofits and law firms.  Her writing has appeared in multiple outdoor publications, including on Dirtbag Diaries and noted thru-hiking website The Trek.</p>
-    <br>
-    <p>Contact Eloise to enquire about writing and editing services.</p>
+    <div class="row row-cols-1 row-cols-sm-2 p-3">
+      <div class="col-sm-4">
+        <picture>
+          <source type="image/webp" media="(max-width:350px)" srcset="./images/justfs/inwinterfood-320.webp">
+          <source type="image/webp" media="(max-width:580px)" srcset="./images/justfs/inwinterfood-1024.webp">
+          <source type="image/webp" media="(min-width:551px)" srcset="./images/justfs/inwinterfood-640.webp">
+          <img src="./images/justfs/inwinterfood-1024.jpg" class="img-fluid" alt="Adventure Blogs"/>
+        </picture>
+      </div>
+      <div class="col-sm-8">
+          <p>Eloise Robbins is a long distance adventurer who completed the Triple Crown of hiking in just over two years. She has hiked the Pacific Crest Trail, Continental Divide Trail, Appalachian Trail and Long Trail, in addition to many shorter distance treks. Eloise is passionate about human powered travel, and also enjoys canoeing, bikepacking, rock climbing and various forms of winter exploration. Eloise has lived in Scotland, Alaska, and now makes her home in Canada.</p>
+          <p>Eloise has worked as a writer, editor and communications manager for diverse companies, including book publishers, nonprofits and law firms.  Her writing has appeared in multiple outdoor publications, including on Dirtbag Diaries and noted thru-hiking website The Trek.</p>
+      </div>
+    </div>
+    <div class="row row-cols-1">
+      <p class="text-center fs-6 fst-italic">Contact Eloise to enquire about writing and editing services.</p>
+    </div>
      
     <div id="actioncards"> 
       // Will be auto-populated by the calls to addActionCard in the script
