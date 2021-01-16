@@ -1,6 +1,18 @@
 <!doctype html>
 <html lang="en">
   <head>
+     <!-- Helper script for common-look-and-feel, allows us to import other html files -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>     
+    <script>   
+       $(function () {
+        var includes = $('[data-include]')
+        $.each(includes, function () {
+          var file = $(this).data('include')
+          $(this).load(file)
+        })
+      })  
+    </script>
+     
      <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-DBB52DEL3E"></script>
     <script>
@@ -28,35 +40,7 @@
   </head>
   <body>
      
-<header>
-  <div class="collapse bg-dark" id="navbarHeader">
-    <div class="container">
-      <div class="row">
-        <div class="col-sm-8 col-md-7 py-4">
-          <h4 class="text-white">About Me</h4>
-          <p class="text-muted">I'm a triple crowner (PCT 2016, CDT 2017, AT 2018) with over two decades of backpacking experience. On trail, I go by Fun Size. I love everything from thirty mile days to sitting in a hammock with a beer. In 2019, I hiked Vermont's Long Trail with Chester the nine pound dog, and I'm planning on thru-hiking the Great Divide Trail in 2021.</p>
-        </div>
-        <div class="col-sm-4 offset-md-1 py-4">
-          <h4 class="text-white">Contact</h4>
-          <ul class="list-unstyled">
-            <li><a href="https://instagram.com/eloisefunsize" class="text-white">Follow on Twitter</a></li>
-            <li><a href="https://eloiserobbins.wordpress.com" class="text-white">Follow on Wordpress</a></li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="navbar navbar-dark bg-dark shadow-sm">
-    <div class="container">
-      <a href="./index.html" class="navbar-brand d-flex align-items-center">
-        <strong>Fun Size - Eloise Robbins</strong>
-      </a>
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarHeader" aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-    </div>
-  </div>
-</header>
+    <header data-include="header.html"></header>
      
     <script>
       const ACTION_HTML_START='<div class="container infocard"><div class="row">';
@@ -122,6 +106,11 @@
       var el=document.getElementById("actioncards");
       el.innerHTML=allcards;
     </script>
+
+<footer data-include="footer.html" class="text-muted py-5"></footer>
+ 
+    <!-- Option 1: Bootstrap Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
 
  
   </body>
