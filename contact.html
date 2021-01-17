@@ -1,0 +1,150 @@
+<!doctype html>
+<html lang="en">
+  <head>
+     <!-- Helper script for common-look-and-feel, allows us to import other html files -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>     
+    <script>   
+       $(function () {
+        var includes = $('[data-include]')
+        $.each(includes, function () {
+          var file = $(this).data('include')
+          $(this).load(file)
+        })
+      })  
+    </script>
+     
+     <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-DBB52DEL3E"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-DBB52DEL3E');
+    </script>    
+     
+    <link rel='icon' href='./favicon.ico' type='image/svg' />
+     
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Eloise Robbins (FunSize) is a writer, triple crown thru hiker (PCT, CDT and AT), and adventurer. She is lover of the outdoors, hiking, canoeing, and most of all mountains!">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+
+    <!-- Page-specific styles -->
+    <link rel="stylesheet" href="funsizehikes.css">
+    <link rel="stylesheet" href="contact.css">
+     
+    <title>Fun Size Hikes</title>
+  </head>
+  <body>
+    <header data-include="header.html"></header>
+
+    <!-- ################################################################## -->
+    <div class="container-contact100">
+      <div class="wrap-contact100">
+
+      <!-- Write side of page - Contact Form -->
+      <form class="contact100-form validate-form">
+        <span class="contact100-form-title">
+          Send Me a Message
+        </span>
+         
+        <label class="label-input100" for="first-name">Name *</label>
+        <div class="wrap-input100 validate-input" data-validate="Type name">
+          <input id="name" class="input100" type="text" name="name" placeholder="Your Name">
+          <span class="focus-input100"></span>
+        </div>
+         
+        <label class="label-input100" for="email">Email *</label>
+        <div class="wrap-input100 validate-input" data-validate="Valid email is required: ex@abc.xyz">
+          <input id="email" class="input100" type="text" name="email" placeholder="Eg. example@email.com">
+          <span class="focus-input100"></span>
+        </div>
+         
+        <label class="label-input100" for="message">Message *</label>
+        <div class="wrap-input100 validate-input" data-validate="Message is required">
+          <textarea id="message" class="input100" name="message" placeholder="Write your message here"></textarea>
+          <span class="focus-input100"></span>
+        </div>
+         
+        <div class="container-contact100-form-btn">
+          <button class="contact100-form-btn">
+            Send Message
+          </button>
+        </div>
+      </form>
+       
+      <!-- Left side of page - Picture and Contact details -->
+      <div class="contact100-more flex-col-c-m" style="background-image: url('images/justfs/inwinterfood-1024.webp');">
+
+        <!-- don't need this 
+        <div class="flex-w size1 p-b-47">
+          <div class="txt1 p-r-25">
+            <span class="lnr lnr-map-marker"></span>
+          </div>
+           
+          <div class="flex-col size2">
+            <span class="txt1 p-b-20">
+              Address
+            </span>
+            <span class="txt2">
+              Mada Center 8th floor, 379 Hudson St, New York, NY 10018 US
+            </span>
+          </div>
+        </div>
+         -->        
+         
+        <div class="dis-flex size1 p-b-47">
+          <div class="txt1 p-r-25">
+            <span class="lnr lnr-phone-handset"></span>
+          </div>
+          <div class="flex-col size2">
+            <span class="txt1 p-b-20">
+              <i class="fab fa-instagram"></i> Follow or Contact me on Instagram
+            </span>
+            <span class="txt3">
+              <a href="https://instagram.com/eloisefunsize" title="Instagram" class="text-decoration-none">
+                @eloisefunsize
+              </a>
+            </span>
+          </div>
+        </div>
+         
+        <!-- or this
+        <div class="dis-flex size1 p-b-47">
+          <div class="txt1 p-r-25">
+            <span class="lnr lnr-envelope"></span>
+          </div>
+          <div class="flex-col size2">
+            <span class="txt1 p-b-20">
+              General Support
+            </span>
+            <span class="txt3">
+              <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="6c0f0302180d0f182c09140d011c0009420f0301">[email&#160;protected]</a>
+            </span>
+          </div>
+        </div>
+        -->
+      </div>
+       
+      </div>
+    </div>
+     
+     
+     
+     
+     
+     
+    <!-- ################################################################## -->
+     
+    <footer data-include="footer.html" class="text-muted py-5"></footer>
+ 
+    <!-- Option 1: Bootstrap Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
+
+ 
+  </body>
+</html>
