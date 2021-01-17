@@ -1,0 +1,29 @@
+
+  <!-- Adds our instagram block to the page 
+
+      NOTE: Caller must include this before including this file
+       <script src="jquery.instagramFeed.min.js"></script>
+           I can't do it here or it tosses an error as it tries to do something something?
+           I dunno, just listen to me dammit
+   -->      
+  <div class="container infocard">
+    <div class="text-center fst-italic text-decoration-underline">Recent Adventures (from Instagram)</div>
+    <div id="instagram-feed-demo" class="instagram_feed"></div>
+  </div>
+  <script>
+    $(window).on('load', function(){
+      $.instagramFeed({
+            'username': 'eloisefunsize',
+            'container': "#instagram-feed-demo",
+            'items': 8,
+            'items_per_row': 4,
+            'display_profile': false,
+            'display_biography': false,
+            'display_igtv': false,
+            'loading': 'lazy',
+
+            //'display_captions': true,
+            'tag': 'wintercamping',
+          });
+      });
+  </script>
