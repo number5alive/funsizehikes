@@ -3,6 +3,13 @@
   --jumbotron-padding-y: 3rem;
 }
 
+.fs-header {
+  background-image: url('./images/icons/topoppl-1024.webp');
+  background-repeat: no-repeat;
+  background-position: top left;
+  background-size: cover;
+}
+
 .jumbotron {
   padding-top: var(--jumbotron-padding-y);
   padding-bottom: var(--jumbotron-padding-y);
