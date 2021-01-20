@@ -6,3 +6,19 @@ NOTE: Using jQuery to include header.html and footer.html into every page. This 
 
 mkdir ~/.gchrometest
 /c/Program Files/Google/Chrome/Application/chrome.exe --disable-web-security --user-data-dir=.gchrometest
+
+# Making images appropriate for this site
+# images are in subfolders of images
+# convert them via the guest vm and the helper script go to the folder with the base image and type
+# ../makewebready.sh <filenamenoextension>
+# I.e. take the extension off the filename
+
+# NEW - Switching over to Jekyll
+# For local testing and development use the vagrant setup
+# $ vagrant up
+# $ gem install bundler
+# $ cd /vagrant
+# $ vagrant server --host-name 0.0.0.0
+
+# You'll now be able to view the page from your host OS via http://127.0.0.1:4000
+
