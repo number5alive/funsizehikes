@@ -18,7 +18,8 @@ mkdir ~/.gchrometest
 # $ vagrant up
 # $ gem install bundler
 # $ cd /vagrant
-# $ vagrant server --host-name 0.0.0.0
+# $ gem build
+# $ vagrant server --host 0.0.0.0
 
 # You'll now be able to view the page from your host OS via http://127.0.0.1:4000
 
