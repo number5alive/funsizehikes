@@ -28,7 +28,7 @@ Vagrant.configure("2") do |config|
   # Create a forwarded port mapping which allows access to a specific port
   # within the machine from a port on the host machine and only allow access
   # via 127.0.0.1 to disable public access
-  # config.vm.network "forwarded_port", guest: 5000, host: 5000, host_ip: "127.0.0.1"
+  config.vm.network "forwarded_port", guest: 4000, host: 4000, host_ip: "127.0.0.1"
 
   # Create a private network, which allows host-only access to the machine
   # using a specific IP.
@@ -66,9 +66,11 @@ Vagrant.configure("2") do |config|
   config.vm.provision "shell", inline: <<-SHELL
     apt-get update
     apt-get install -y git imagemagick exiftool
+    apt-get install -y ruby-full build-essential zlib1g-dev
   SHELL
    
-  config.vm.provision "shell", path: "./gcloud.sh"
+  $script = "/bin/bash --login /vagrant/setupruby.sh"
+  config.vm.provision "shell", privileged: false, inline: $script
    
   config.vm.provision "file", source: "~/.gitconfig", destination: ".gitconfig"
   config.vm.provision "file", source: "~/.vimrc", destination: ".vimrc"
