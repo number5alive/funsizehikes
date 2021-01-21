@@ -106,9 +106,7 @@ title: Home
   <div data-include="horizon.html"></div>
   {% include horizon.html %}
    
-  <!-- Add our block of instagram pictures to this page 
-  <script src="InstagramFeed.min.js"></script>
-  <div data-include="instagram.html"></div>
- -->  
+  <!-- Add our block of instagram pictures to this page -->  
+  {% include instagram.html %}
 
 </main>
