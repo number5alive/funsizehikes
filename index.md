@@ -1,47 +1,8 @@
-<!doctype html>
-<html lang="en">
-  <head>
-     <!-- Helper script for common-look-and-feel, allows us to import other html files -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>     
-    <script>   
-       $(function () {
-        var includes = $('[data-include]')
-        $.each(includes, function () {
-          var file = $(this).data('include')
-          $(this).load(file)
-        })
-      })  
-    </script>
- 
-     <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-DBB52DEL3E"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
+---
+layout: default
+title: Home
+---
 
-      gtag('config', 'G-DBB52DEL3E');
-    </script>    
-     
-    <link rel='icon' href='./favicon.ico' type='image/svg' />
-     
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Eloise Robbins (FunSize) is a writer, triple crown thru hiker (PCT, CDT and AT), and adventurer. She is lover of the outdoors, hiking, canoeing, and most of all mountains!">
-
-    <!-- Bootstrap CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
-
-    <!-- Page-specific styles -->
-    <link rel="stylesheet" href="funsizehikes.css">
-     
-    <title>Fun Size Hikes</title>
-  </head>
-  <body>
-    
-  <!-- Add our header to this page -->
-  <header data-include="header.html"></header>
 <main>
 
   <section class="py-5 text-center jumbotron" id="jumbotron">
@@ -114,7 +75,7 @@
         <div class="col">
           <div class="card shadow-sm">
             <div class="bg-image">
-              <a href="./aboutme.html">
+              <a href="./about.html">
               <picture>
                 <!-- Somewhat non-intuitively, this picture is bigger at middle screen sizes
                      because the cards get stacked -->
@@ -143,18 +104,11 @@
 
   <!-- Add a small section on the adventures on our horizon -->
   <div data-include="horizon.html"></div>
+  {% include horizon.html %}
    
-  <!-- Add our block of instagram pictures to this page -->
+  <!-- Add our block of instagram pictures to this page 
   <script src="InstagramFeed.min.js"></script>
   <div data-include="instagram.html"></div>
-
+ -->  
 
 </main>
-
-<footer data-include="footer.html" class="text-muted py-5"></footer>
-
-    <!-- Option 1: Bootstrap Bundle with Popper -->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
-
-  </body>
-</html>
