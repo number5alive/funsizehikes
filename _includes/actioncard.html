@@ -1,0 +1,25 @@
+
+{% capture imagepart %}
+    <div class="col-3">
+      <img style="width:100%" class="card-img-bottom" src="{{ include.image }}" alt="{{ include.title }}">
+    </div>
+{% endcapture %}
+ 
+<div class="container infocard">
+  {% if include.link %}
+    <a class="text-decoration-none" style="color:inherit" href="{{ include.link }}">
+  {% endif %}
+  <div class="row">
+  {% if include.leftimg %}
+    {{ imagepart }}
+  {% endif %}
+    <div class="col-9">
+      <p class="fs-3 fw-bolder align-middle">{{ include.title }}</p>
+      <p class="card-text">{{ include.text }}</p>
+    </div>
+  {% unless include.leftimg %}
+    {{ imagepart }}
+  {% endunless %}
+  </div>
+{% if include.link %}</a>{% endif %}
+</div>

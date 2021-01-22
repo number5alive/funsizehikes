@@ -26,88 +26,66 @@ title: Writing
  
  
 <div id="actioncards"> 
-  // Will be auto-populated by the calls to addActionCard in the script
+{% include actioncard.html 
+      title="Dirtbag Diaries (Coming Soon!)" 
+      image="./images/withfs/dirtylegs-320.webp"
+      leftimg=true
+      text="Coming Soon..."
+%}
+{% include actioncard.html 
+      title="Five Things I Wish I’d Known Before Hiking the Triple Crown" 
+      image="https://is.thetrek.co/w600-h400-cfill/wp-content/uploads/2020/08/26164311/Five-Things-Before-the-Triple-Crown-The-Trek.png"
+      leftimg=false
+      link="https://thetrek.co/five-things-i-wish-id-known-before-hiking-the-triple-crown/"
+      text="I hiked the Triple Crown in two years and two months, starting with the PCT, CDT and then the AT. Here’s what I wish I’d known before I started."
+%}
+{% include actioncard.html 
+      title="Is an AT Winter Thru-Hike Right For You?" 
+      image="https://is.thetrek.co/w600-h400-cfill/wp-content/uploads/2020/10/08131927/Winter-AT-Hiking-Featured-Image-scaled-e1602184848866.png"
+      leftimg=true
+      link="https://thetrek.co/appalachian-trail/should-you-start-the-at-in-winter/" 
+      text="Are you planning an AT thru-hike for next year and wondering if you should start early? A winter start is hard, cold, and not right for everyone. But it’s also incredibly rewarding, and allows you to hike NOBO and still miss the crowds."
+%}
+{% include actioncard.html 
+      title="Last Minute Gift Ideas for the Hiker who Already Has Everything" 
+      image="https://is.thetrek.co/w600-h400-cfill/wp-content/uploads/2020/12/14185800/TheTrek-LastMinuteGifts-2.jpg"
+      leftimg=false
+      link="https://thetrek.co/last-minute-gift-ideas-for-the-thru-hiker-who-already-has-everything/" 
+      text="This article has plenty of gift suggestions that don’t weigh an ounce, can be bought last minute, and will be appreciated by any hiker."
+%}
+{% include actioncard.html 
+      title="Gear Suggestions for an Appalachian Trail Winter Thru HIke" 
+      image="https://is.thetrek.co/w600-h400-cfill/wp-content/uploads/2020/11/18082454/Winter-AT-Gear-List-Featured-Image2-1.png"
+      leftimg=true
+      link="https://thetrek.co/appalachian-trail/gear-suggestions-for-an-appalachian-trail-winter-thru-hike/" 
+      text="If you have your sights set on a thru-hike, section hike, or even just an overnight on the AT this winter, this article will help you figure out what to bring. "
+%}
+{% include actioncard.html 
+      title="Five Tips to Help You Choose a Perfect Campsite Every Time" 
+      image="https://is.thetrek.co/w600-h400-cfill/wp-content/uploads/2020/10/24090343/Perfect-Campsite-featured-image-scaled.png"
+      leftimg=false
+      link="https://thetrek.co/five-tips-to-help-you-choose-a-perfect-campsite-every-time/" 
+      text="These tips will help you choose the perfect camp spot, no matter what type of shelter you use or what the weather is doing."
+%}
+{% include actioncard.html 
+      title="Which Triple Crown Trail is Right For You?" 
+      image="https://is.thetrek.co/w600-h400-cfill/wp-content/uploads/2020/11/03085809/Which-Triple-Crown-Trail-Featured-Image-1.png"
+      leftimg=true
+      link="https://thetrek.co/which-triple-crown-trail-should-you-hike/" 
+      text="At almost 8,000 miles, the Triple Crown trails of the Appalachian Trail, Pacific Crest Trail and Continental Divide Trail are some of the best hiking in the world. No matter which trail you choose to hike, it will change your life."
+%}
+{% include actioncard.html 
+      title="How to Lose Base Weight Without Replacing Your Big Three" 
+      image="https://is.thetrek.co/w600-h400-cfill/wp-content/uploads/2020/09/24080925/baseweight-resize.png"
+      leftimg=false
+      link="https://thetrek.co/how-to-lose-base-weight-without-replacing-your-big-three/" 
+      text="If you're not ready to replace your tent, sleeping bag and backpack don’t worry! There’s still plenty you can do to reduce your base weight. "
+%}
+{% include actioncard.html 
+      title="Why $20 Frogg Toggs Are the Ideal Rain Gear for a Thru-Hike" 
+      image="https://is.thetrek.co/w600-h400-cfill/wp-content/uploads/2020/08/18114043/20170725_062705-scaled.jpg"
+      leftimg=true
+      link="https://thetrek.co/why-20-frogg-toggs-are-the-ideal-rain-gear-for-a-thru-hike/" 
+      text="Outside of your tent and sleep system, rain gear can be one of the most expensive items to purchase for a thru-hike. Prices range from $100 to over $400 for a jacket alone, with most ultralight options finding a sweet spot between $150 and $200. So, can a $20 rain jacket really measure up to pricier options?"
+%}
 </div>
-
-<script>
-  // build up the HTML for all of the cards we actually want to make
-  var numcards=0;
-  var allcards="";
-  allcards = allcards + addActionCard(
-   /*title*/    "Dirtbag Diaries (Coming Soon!)",
-   /*image*/    "./images/withfs/dirtylegs-320.webp",
-   /*bLeft*/    numcards++ % 2,
-   /*text*/     "Coming Soon...",
-   /*link*/     ""
-        ); 
-   
-  allcards = allcards + addActionCard(
-   /*title*/    "Five Things I Wish I’d Known Before Hiking the Triple Crown",
-   /*image*/    "https://is.thetrek.co/w600-h400-cfill/wp-content/uploads/2020/08/26164311/Five-Things-Before-the-Triple-Crown-The-Trek.png ",
-   /*bLeft*/    numcards++ % 2,
-   /*text*/     "I hiked the Triple Crown in two years and two months, starting with the PCT, CDT and then the AT. Here’s what I wish I’d known before I started.",
-   /*link*/     "https://thetrek.co/five-things-i-wish-id-known-before-hiking-the-triple-crown/"
-        ); 
-   
-  allcards = allcards + addActionCard(
-   /*title*/    "Is an AT Winter Thru-Hike Right For You?", 
-   /*image*/    "https://is.thetrek.co/w600-h400-cfill/wp-content/uploads/2020/10/08131927/Winter-AT-Hiking-Featured-Image-scaled-e1602184848866.png",
-   /*bLeft*/    numcards++ % 2,
-   /*text*/     "Are you planning an AT thru-hike for next year and wondering if you should start early? A winter start is hard, cold, and not right for everyone. But it’s also incredibly rewarding, and allows you to hike NOBO and still miss the crowds.",
-   /*link*/     "https://thetrek.co/appalachian-trail/should-you-start-the-at-in-winter/"
-        ); 
-   
-  allcards = allcards + addActionCard(
-   /*title*/    "Last Minute Gift Ideas for the Hiker who Already Has Everything", 
-   /*image*/    "https://is.thetrek.co/w600-h400-cfill/wp-content/uploads/2020/12/14185800/TheTrek-LastMinuteGifts-2.jpg",
-   /*bLeft*/    numcards++ % 2,
-   /*text*/     "This article has plenty of gift suggestions that don’t weigh an ounce, can be bought last minute, and will be appreciated by any hiker.",
-   /*link*/     "https://thetrek.co/last-minute-gift-ideas-for-the-thru-hiker-who-already-has-everything/"
-        ); 
-   
-  allcards = allcards + addActionCard(
-   /*title*/    "Gear Suggestions for an Appalachian Trail Winter Thru HIke", 
-   /*image*/    "https://is.thetrek.co/w600-h400-cfill/wp-content/uploads/2020/11/18082454/Winter-AT-Gear-List-Featured-Image2-1.png",
-   /*bLeft*/    numcards++ % 2,
-   /*text*/     "If you have your sights set on a thru-hike, section hike, or even just an overnight on the AT this winter, this article will help you figure out what to bring. ",
-   /*link*/     "https://thetrek.co/appalachian-trail/gear-suggestions-for-an-appalachian-trail-winter-thru-hike/"
-        ); 
-   
-  allcards = allcards + addActionCard(
-   /*title*/    "Five Tips to Help You Choose a Perfect Campsite Every Time", 
-   /*image*/    "https://is.thetrek.co/w600-h400-cfill/wp-content/uploads/2020/10/24090343/Perfect-Campsite-featured-image-scaled.png",
-   /*bLeft*/    numcards++ % 2,
-   /*text*/     "These tips will help you choose the perfect camp spot, no matter what type of shelter you use or what the weather is doing.",
-   /*link*/     "https://thetrek.co/five-tips-to-help-you-choose-a-perfect-campsite-every-time/"
-        ); 
-   
-  allcards = allcards + addActionCard(
-   /*title*/    "Which Triple Crown Trail is Right For You?", 
-   /*image*/    "https://is.thetrek.co/w600-h400-cfill/wp-content/uploads/2020/11/03085809/Which-Triple-Crown-Trail-Featured-Image-1.png",
-   /*bLeft*/    numcards++ % 2,
-   /*text*/     "At almost 8,000 miles, the Triple Crown trails of the Appalachian Trail, Pacific Crest Trail and Continental Divide Trail are some of the best hiking in the world. No matter which trail you choose to hike, it will change your life.",
-   /*link*/     "https://thetrek.co/which-triple-crown-trail-should-you-hike/"
-        ); 
-   
-  allcards = allcards + addActionCard(
-   /*title*/    "How to Lose Base Weight Without Replacing Your Big Three", 
-   /*image*/    "https://is.thetrek.co/w600-h400-cfill/wp-content/uploads/2020/09/24080925/baseweight-resize.png",
-   /*bLeft*/    numcards++ % 2,
-   /*text*/     "If you're not ready to replace your tent, sleeping bag and backpack don’t worry! There’s still plenty you can do to reduce your base weight. ",
-   /*link*/     "https://thetrek.co/how-to-lose-base-weight-without-replacing-your-big-three/"
-        ); 
-   
-  allcards = allcards + addActionCard(
-   /*title*/    "Why $20 Frogg Toggs Are the Ideal Rain Gear for a Thru-Hike", 
-   /*image*/    "https://is.thetrek.co/w600-h400-cfill/wp-content/uploads/2020/08/18114043/20170725_062705-scaled.jpg",
-   /*bLeft*/    numcards++ % 2,
-   /*text*/     "Outside of your tent and sleep system, rain gear can be one of the most expensive items to purchase for a thru-hike. Prices range from $100 to over $400 for a jacket alone, with most ultralight options finding a sweet spot between $150 and $200. So, can a $20 rain jacket really measure up to pricier options?",
-   /*link*/     "https://thetrek.co/why-20-frogg-toggs-are-the-ideal-rain-gear-for-a-thru-hike/"
-        ); 
-   
-   
-   
-  // This actually adds it the page
-  var el=document.getElementById("actioncards");
-  el.innerHTML=allcards;
-</script>

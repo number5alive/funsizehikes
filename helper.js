@@ -10,7 +10,7 @@
        ***/
       const ACTION_HTML_START='<div class="container infocard"><div class="row">';
       const ACTION_HTML_IMG='<div class="col-3"><img style="width:100%" class="card-img-bottom" src="ACTION_IMG" alt="ACTION"></div>';
-      const ACTION_HTML_TITLE='<h1 class="align-middle">ACTION_TITLE</h1>';
+      const ACTION_HTML_TITLE='<p class="fs-3 fw-bolder align-middle">ACTION_TITLE</p>';
       const ACTION_HTML_TEXT='<p class="card-text">ACTION_TEXT</p>';
       const ACTION_HTML_LINK='<a class="text-decoration-none" style="color:inherit" href="ACTION_LINK">';
       const ACTION_HTML_END='</div> </div> ';
