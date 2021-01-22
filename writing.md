@@ -3,7 +3,6 @@ layout: default
 title: Writing
 ---
 
-
 <div class="row p-3">
   <!--
   <div class="col-sm-4">
@@ -19,11 +18,8 @@ title: Writing
     <!-- <p>... blogging for fun ... writing professionally ...</p> -->
     <p> I have worked as a writer, editor and communications manager for a diverse set of companies, including book publishers, nonprofits and law firms. My writing has appeared in multiple outdoor publications, including noted thru-hiking website <a href="https://thetrek.co/author/eloise-robbins/">The Trek</a> and will soon be featured on <a href="https://dirtbagdiaries.com/">Dirtbag Diaries</a>.</p>
     <p>My writing has also been featured in Alaska themed <a href="https://alaskabooksandcalendars.com/#!/Alaska-Wildlife-A-Photo-Memory-2nd-Ed/p/13049780/category=3004107">books</a> and calendars.</p> 
-     
-     
   </div>
 </div>
- 
  
 <div id="actioncards"> 
 {% include actioncard.html 
