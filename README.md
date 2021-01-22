@@ -1,25 +1,26 @@
-The first iteration of funsizehikes.com
+#FunSize's Website - now in Jekyll
+See it live at funsizehikes.com
 
-Build with bootstrap 5, and designed to be run from GitHub Pages (so static hosting)
+The page leverages:
+ * jekyll to put it all together
+ * bootstrap 5 to make it look pretty 
+ * GitHub Pages (so static hosting) to make it available to the world
 
-NOTE: Using jQuery to include header.html and footer.html into every page. This triggers a CORS error in Chrome when testing locally (because of the file:/// path). So... Now we need to test it with Chrome running with web security turned off (just for testing, cool your jets!)
+# For local testing and development use the vagrant setup
+I have Vagrant set up so it can start a development VM for testing
+Provided you have Vagrant, VirtualBox and Git installed, the following should work
+$ vagrant up
+$ vagrant ssh
+$ gem install bundler
+$ cd /vagrant
+$ gem build
+$ build exec jekyll serve --host 0.0.0.0
 
-mkdir ~/.gchrometest
-/c/Program Files/Google/Chrome/Application/chrome.exe --disable-web-security --user-data-dir=.gchrometest
+You'll now be able to view the page from your host OS via http://127.0.0.1:4000
 
 # Making images appropriate for this site
-# images are in subfolders of images
-# convert them via the guest vm and the helper script go to the folder with the base image and type
-# ../makewebready.sh <filenamenoextension>
-# I.e. take the extension off the filename
-
-# NEW - Switching over to Jekyll
-# For local testing and development use the vagrant setup
-# $ vagrant up
-# $ gem install bundler
-# $ cd /vagrant
-# $ gem build
-# $ vagrant server --host 0.0.0.0
-
-# You'll now be able to view the page from your host OS via http://127.0.0.1:4000
+Images are in subfolders of 'images'
+convert them via the guest vm and the helper script go to the folder with the base image and type
+../makewebready.sh <filenamenoextension>
+I.e. take the extension off the filename
 
