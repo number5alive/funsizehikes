@@ -20,7 +20,7 @@ $ build exec jekyll serve --host 0.0.0.0
 }
 ```
 
-You'll now be able to view the page from your host OS via [](http://127.0.0.1:4000)
+You'll now be able to view the page from your host OS via <http://127.0.0.1:4000>
 
 ## Making images appropriate for this site
 Images are in subfolders of 'images'
