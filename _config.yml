@@ -2,4 +2,14 @@
 title: Fun Size Hikes
 baseurl: ""
 url: "funsizehikes.com"
-
+ 
+ 
+# Leave off the development files and any other cruft so it doesn't go into the page
+exclude:
+  - Vagrantfile
+  - dbgchrome.sh
+  - gcloud.sh
+  - setupruby.sh
+  - CNAME
+  - README.md
+  - wordcloudwords.txt
