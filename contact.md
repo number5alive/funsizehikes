@@ -2,7 +2,7 @@
 layout: default
 title: Contact Me
 ---
-<link rel="stylesheet" href="contact.css">
+<link rel="stylesheet" href="/assets/contact.css">
 <main>
 
     <div class="container-contact100">
