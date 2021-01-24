@@ -13,7 +13,10 @@ title: Home
   </div>
 </section>
 
-<div class="album py-5 bg-light">
+<!-- Show last news item (if it's less than a week old) -->
+{% include newsitems.html limit="1" %}
+
+<div class="album py-2 bg-light">
   <div class="container">
 
     <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
