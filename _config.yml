@@ -2,6 +2,8 @@
 title: Fun Size Hikes
 baseurl: ""
 url: "funsizehikes.com"
+
+permalink: /:categories/:title:output_ext
  
  
 # Leave off the development files and any other cruft so it doesn't go into the page

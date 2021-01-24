@@ -28,10 +28,10 @@ title: Home
             <picture>
               <!-- Somewhat non-intuitively, this picture is bigger at middle screen sizes
                    because the cards get stacked -->
-              <source type="image/webp" media="(max-width:350px)" srcset="./images/withfs/patagonia-320.webp">
-              <source type="image/webp" media="(max-width:580px)" srcset="./images/withfs/patagonia-1024.webp">
-              <source type="image/webp" media="(min-width:551px)" srcset="./images/withfs/patagonia-640.webp">
-              <img src="./images/withfs/patagonia-1024.jpg" class="img-fluid" alt="Professional Writing Background"/>
+              <source type="image/webp" media="(max-width:350px)" srcset="/images/withfs/patagonia-320.webp">
+              <source type="image/webp" media="(max-width:580px)" srcset="/images/withfs/patagonia-1024.webp">
+              <source type="image/webp" media="(min-width:551px)" srcset="/images/withfs/patagonia-640.webp">
+              <img src="/images/withfs/patagonia-1024.jpg" class="img-fluid" alt="Professional Writing Background"/>
             </picture>
             <div class="mask" style="background-color: rgba(0, 0, 0, 0.6)">
               <div class="d-flex justify-content-center align-items-center h-100">
@@ -54,10 +54,10 @@ title: Home
             <picture>
               <!-- Somewhat non-intuitively, this picture is bigger at middle screen sizes
                    because the cards get stacked -->
-              <source type="image/webp" media="(max-width:350px)" srcset="./images/withoutfs/tentcarcajoue-320.webp">
-              <source type="image/webp" media="(max-width:580px)" srcset="./images/withoutfs/tentcarcajoue-1024.webp">
-              <source type="image/webp" media="(min-width:551px)" srcset="./images/withoutfs/tentcarcajoue-640.webp">
-              <img src="./images/withoutfs/tentcarcajoue-1024.jpg" class="img-fluid" alt="Adventure Blogs"/>
+              <source type="image/webp" media="(max-width:350px)" srcset="/images/withoutfs/tentcarcajoue-320.webp">
+              <source type="image/webp" media="(max-width:580px)" srcset="/images/withoutfs/tentcarcajoue-1024.webp">
+              <source type="image/webp" media="(min-width:551px)" srcset="/images/withoutfs/tentcarcajoue-640.webp">
+              <img src="/images/withoutfs/tentcarcajoue-1024.jpg" class="img-fluid" alt="Adventure Blogs"/>
             </picture>
             <div class="mask" style="background-color: rgba(0, 0, 0, 0.6)">
               <div class="d-flex justify-content-center align-items-center h-100">
@@ -80,10 +80,10 @@ title: Home
             <picture>
               <!-- Somewhat non-intuitively, this picture is bigger at middle screen sizes
                    because the cards get stacked -->
-              <source type="image/webp" media="(max-width:350px)" srcset="./images/justfs/atshelter-320.webp">
-              <source type="image/webp" media="(max-width:580px)" srcset="./images/justfs/atshelter-1024.webp">
-              <source type="image/webp" media="(min-width:551px)" srcset="./images/justfs/atshelter-640.webp">
-              <img src="./images/justfs/atshelter-1024.jpg" class="img-fluid" alt="More About Me"/>
+              <source type="image/webp" media="(max-width:350px)" srcset="/images/justfs/atshelter-320.webp">
+              <source type="image/webp" media="(max-width:580px)" srcset="/images/justfs/atshelter-1024.webp">
+              <source type="image/webp" media="(min-width:551px)" srcset="/images/justfs/atshelter-640.webp">
+              <img src="/images/justfs/atshelter-1024.jpg" class="img-fluid" alt="More About Me"/>
             </picture>
             <div class="mask" style="background-color: rgba(0, 0, 0, 0.6)">
               <div class="d-flex justify-content-center align-items-center h-100">

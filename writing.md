@@ -7,10 +7,10 @@ title: Writing
   <!--
   <div class="col-sm-4">
     <picture style="max-width:200px" >
-      <source type="image/webp" media="(max-width:350px)" srcset="./images/justfs/inwinterfood-320.webp">
-      <source type="image/webp" media="(max-width:580px)" srcset="./images/justfs/inwinterfood-1024.webp">
-      <source type="image/webp" media="(min-width:551px)" srcset="./images/justfs/inwinterfood-640.webp">
-      <img src="./images/justfs/inwinterfood-1024.jpg" class="img-fluid" alt="Adventure Blogs"/>
+      <source type="image/webp" media="(max-width:350px)" srcset="/images/justfs/inwinterfood-320.webp">
+      <source type="image/webp" media="(max-width:580px)" srcset="/images/justfs/inwinterfood-1024.webp">
+      <source type="image/webp" media="(min-width:551px)" srcset="/images/justfs/inwinterfood-640.webp">
+      <img src="/images/justfs/inwinterfood-1024.jpg" class="img-fluid" alt="Adventure Blogs"/>
     </picture>
   </div>
   -->
@@ -24,7 +24,7 @@ title: Writing
 <div id="actioncards"> 
 {% include actioncard.html 
       title="Dirtbag Diaries (Coming Soon!)" 
-      image="./images/withfs/dirtylegs-320.webp"
+      image="/images/withfs/dirtylegs-320.webp"
       leftimg=true
       text="Coming Soon..."
 %}
