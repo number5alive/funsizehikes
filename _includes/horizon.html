@@ -2,19 +2,24 @@
 <div class="container infocard">
   <div class="text-center fst-italic">Adventures on the Horizon</div>
   <div class="row p-0 gx-1 gx-md-2">
-
-    <div class="col-3" data-toggle="tooltip" data-placement="top" title="Great Divide Trail (2021)">
-      <img src="/images/icons/GDT.png" class="img-fluid" alt="Great Divide Trail"/>
+   
+<!-- The Featured "upcoming adventure" will always show on the left -->
+{% assign featuredposts = site.categories.upcoming | where:'featured','true' %}
+{% for post in featuredposts limit:1 %}
+    <div class="col-3" data-toggle="tooltip" data-placement="top" title="{{ post.title }}">
+      <div class="picturecard" style="background-image:url('{{ post.tagimg }}')"></div>
     </div>
-     
-    <div class="col-3" data-toggle="tooltip" data-placement="top" title="Exploring Winter Camping (Now)">
-      <div class="picturecard" style="background-image:url('/images/withoutfs/wintertent-320.webp')"></div>
+{% endfor %}
+   
+    <!-- The two most-recent adventures (that aren't the featured one) will show up next 
+         TODO: filter _out_ the featured ones or they could show twice :( -->
+{% for post in site.categories.upcoming limit:2 %}
+    <div class="col-3" data-toggle="tooltip" data-placement="top" title="{{ post.title }}">
+      <div class="picturecard" style="background-image:url('{{ post.tagimg }}')"></div>
     </div>
+{% endfor %}
      
-    <div class="col-3" data-toggle="tooltip" data-placement="top" title="Nahanni (2022)">
-      <div class="picturecard" style="background-image:url('/images/withoutfs/nahanni-320.webp')"></div>
-    </div>
-     
+    <!-- The adventure wordcloud will always show on the right -->
     <div class="col-3" data-toggle="tooltip" data-placement="top" title="Adventure! (Always)">
       <div class="picturecard" style="background-image:url('/images/withoutfs/wordcloud-320.webp')"></div>
     </div>
