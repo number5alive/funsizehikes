@@ -16,10 +16,13 @@ title: About Me
     <p> I am a long distance adventurer and writer, who loves being outside more than just about anything else. I completed the Triple Crown of hiking in just over two years. I’ve hiked the Pacific Crest Trail, Continental Divide Trail, Appalachian Trail, Long Trail, and many other shorter treks. I love any form of human powered transport, but particularly canoeing, bikepacking, rock climbing, and various types of winter exploration. I have also completed a 24 day raft trip on the Colorado river through the Grand Canyon.  I have lived in Scotland and Alaska, although I now make my home in Canada.  </p>
 
     <p> I have worked as a writer, editor and communications manager for a diverse set of companies, including book publishers, nonprofits and law firms. My writing has appeared in multiple outdoor publications, including noted thru-hiking website <a href="https://thetrek.co/author/eloise-robbins/">The Trek</a> and will soon be featured on <a href="https://dirtbagdiaries.com/">Dirtbag Diaries</a>.</p>
+
+    <p> You can read about why they call me "Fun Size" in my blog post: <a class="fst-italic" href="/blog/TheyCallMeFunSize.html">How I got my trail name</a>
+    </p>
   </div>
 </div>
 <div class="row row-cols-1">
-  <p class="text-center fs-6 fst-italic"><a href="./contact.html">Contact me</a> to enquire about writing and editing services. </p>
+  <p class="text-center fs-6 fst-italic"><a href="/contact.html">Contact me</a> to enquire about writing and editing services. </p>
 </div>
  
 <div id="actioncards"> 

@@ -1,10 +1,12 @@
 ---
 layout: list
 title: News
+sitemap:
+ changefreq: 'weekly'
+ priority: 0.7
 ---
 
-Here is the latest news... actually, this is
- 
+<div class="row p-3">
 {% for post in site.categories.news %}
   {% if post.categories contains 'news' %}
    
@@ -18,3 +20,4 @@ Here is the latest news... actually, this is
    
   {% endif %}
 {% endfor %}
+</div>

@@ -1,6 +1,9 @@
 ---
 layout: default
 title: Home
+sitemap:
+ changefreq: 'weekly'
+ priority: 0.7
 ---
 
 <section class="py-5 text-center jumbotron" id="jumbotron">
@@ -24,7 +27,7 @@ title: Home
       <div class="col">
         <div class="card shadow-sm">
           <div class="bg-image">
-            <a href="./writing.html">
+            <a href="/writing.html">
             <picture>
               <!-- Somewhat non-intuitively, this picture is bigger at middle screen sizes
                    because the cards get stacked -->
@@ -50,7 +53,7 @@ title: Home
       <div class="col">
         <div class="card shadow-sm">
           <div class="bg-image">
-            <a href="https://eloiserobbins.wordpress.com">
+            <a href="/blog.html">
             <picture>
               <!-- Somewhat non-intuitively, this picture is bigger at middle screen sizes
                    because the cards get stacked -->
@@ -76,7 +79,7 @@ title: Home
       <div class="col">
         <div class="card shadow-sm">
           <div class="bg-image">
-            <a href="./about.html">
+            <a href="/about.html">
             <picture>
               <!-- Somewhat non-intuitively, this picture is bigger at middle screen sizes
                    because the cards get stacked -->
