@@ -5,6 +5,11 @@ url: "funsizehikes.com"
 
 permalink: /:categories/:title:output_ext
  
+defaults:
+ - scope:
+    path: "images/banners"
+   values:
+    bannerimg: true
  
 # Leave off the development files and any other cruft so it doesn't go into the page
 exclude:

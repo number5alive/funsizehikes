@@ -37,7 +37,7 @@
 }
 
 .jumbotron .container {
-  max-width: 40rem;
+  max-width: 70%;
   background: rgba(200,200,200,0.6);
   border-radius: 10px;
   padding: 2rem;

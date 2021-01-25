@@ -1,0 +1,32 @@
+{% if page.titleimg %}
+  {% capture bgimg %}style="background-image:url('{{page.titleimg}}');"{% endcapture %}
+{% endif %}
+
+{% capture bannerid %}bannerid.{{page.title | truncate: 20 | slugify }} {% endcapture %}
+
+<section class="py-3 text-center jumbotron" {{bgimg}} id="{{bannerid}}">
+  <div class="row py-lg-3">
+    <div class="col-12 mx-auto container">
+      <h1 class="fw-light fs-1"><b>{{ page.title }}</b></h1>
+    </div>
+  </div>
+</section>
+
+{% if page.titleimg %}
+{% else %}
+<!-- Since there's not specific title image, load one at random on every load -->
+<script>
+{% assign image_files = site.static_files | where: "bannerimg", true %}
+  var possibleBanners=[
+{%- for myimage in image_files -%}
+    "{{myimage.path}}",
+{%- endfor -%}
+  ];
+  if( possibleBanners.length > 0 ) {
+    var selectedBanner=possibleBanners[Math.floor(Math.random() * possibleBanners.length)];
+    var elTitle=document.getElementById("{{bannerid}}")
+    elTitle.style.backgroundImage = "url(" + selectedBanner + ")";
+    console.log("changed background to: " + selectedBanner);
+  }
+</script>
+{% endif %}
