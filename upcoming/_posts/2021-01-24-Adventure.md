@@ -1,5 +1,5 @@
 ---
-layout: null
+layout: withbanner
 title: "Adventure! (Always)"
 tagimg: "/images/withoutfs/wordcloud-320.webp"
 ---

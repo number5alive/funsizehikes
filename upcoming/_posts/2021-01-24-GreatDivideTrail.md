@@ -1,5 +1,5 @@
 ---
-layout: null
+layout: withbanner
 title: "Great Divide Trail (2021)"
 tagimg: "/images/icons/GDT.png"
 featured: true

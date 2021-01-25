@@ -1,5 +1,5 @@
 ---
-layout: null
+layout: withbanner
 title: "Winter Camping (Now)"
 tagimg: "/images/withoutfs/wintertent-320.webp"
 ---
