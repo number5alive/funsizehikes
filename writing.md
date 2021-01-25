@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: withbanner
 title: Writing
+titleimg: /images/banners/glaciercalves-1024.webp
 ---
 
 <div class="row p-3">

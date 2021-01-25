@@ -1,6 +1,7 @@
 ---
 layout: list
 title: Blog
+titleimg: /images/banners/windriverpanorama-1024.webp
 sitemap:
  changefreq: 'weekly'
  priority: 0.8
