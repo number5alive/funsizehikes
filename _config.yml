@@ -1,7 +1,7 @@
 
 title: Fun Size Hikes
 baseurl: ""
-url: "funsizehikes.com"
+url: "https://funsizehikes.com"
 
 permalink: /:categories/:title:output_ext
  
