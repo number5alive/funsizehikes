@@ -1,7 +1,7 @@
 ---
 layout: withbanner
 title: About Me
-titleimg: /images/banners/desertroad-1024.webp
+titleimg: /images/banners/glaciercalves-2048.jpg
 ---
 
 <div class="row row-cols-1 row-cols-sm-2 p-3">

@@ -17,7 +17,8 @@
   background-color: #fff;
   background-image: url('/images/withfs/thewinds-1024.jpg');
   background-repeat: no-repeat;
-  background-position: top left;
+/*  background-position: top left; */
+  background-position: middle left;
   background-size: cover;
 }
 @media (min-width: 768px) {

@@ -19,7 +19,9 @@
 {% assign image_files = site.static_files | where: "bannerimg", true %}
   var possibleBanners=[
 {%- for myimage in image_files -%}
+  {%- if myimage.path contains ".jpg" -%}
     "{{myimage.path}}",
+  {%- endif -%}
 {%- endfor -%}
   ];
   if( possibleBanners.length > 0 ) {

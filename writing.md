@@ -1,7 +1,7 @@
 ---
 layout: withbanner
 title: Writing
-titleimg: /images/banners/glaciercalves-1024.webp
+titleimg: /images/banners/roundislandlake-2048.jpg
 ---
 
 <div class="row p-3">
