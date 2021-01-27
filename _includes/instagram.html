@@ -1,5 +1,4 @@
   <!-- Adds our instagram block to the page -->      
-  <script src="/assets/InstagramFeed.min.js"></script>
   <div class="container infocard">
     <div class="text-center fst-italic">Follow some of my most recent adventures 
       <a href="https://instagram.com/eloisefunsize" title="Instagram" class="text-decoration-none">
@@ -7,22 +6,26 @@
     </div>
     <div id="instagram-feed-demo" class="instagram_feed"></div>
   </div>
-  <script>
-         (function() {
-            new InstagramFeed({
+   
+   
+<script src="assets/jquery.instagramFeed.min.js"></script>
+<script>
+    (function($){
+        $(window).on('load', function(){
+            $.instagramFeed({
                 'username': 'eloisefunsize',
-                'container': "#instagram-feed-demo",
-                'display_profile': true,
-                'display_biography': true,
+                'container': "#instagram-feed",
+                'display_profile': false,
+                'display_biography': false,
                 'display_gallery': true,
-                'display_captions': true,
+                'display_captions': false,
                 'callback': null,
                 'styling': true,
                 'items': 8,
                 'items_per_row': 4,
-                'margin': 1,
-                'lazy_load': true,
-                'on_error': console.error
+                'margin': 1 
             });
-         })();
-  </script>
+        });
+    })(jQuery);
+</script>
+   
