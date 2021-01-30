@@ -14,7 +14,10 @@
     {{ imagepart }}
   {% endif %}
     <div class="col-9">
-      <p class="fs-3 fw-bolder align-middle">{{ include.title }}</p>
+      <p class="fs-3 fw-bolder align-middle mb-0">{{ include.title }}</p>
+  {% if include.postdate %}
+  <p class="text-muted gy-0 py-0 my-0 fs-6 fst-italic">Posted on: {{ include.postdate | date: "%A %B %-d, %Y"}}</p>
+  {% endif %}
       <p class="card-text">{{ include.text }}</p>
     </div>
   {% unless include.leftimg %}

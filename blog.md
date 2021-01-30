@@ -16,6 +16,7 @@ sitemap:
           leftimg=true
           text=post.excerpt
           link=post.url
+          postdate=post.date
     %}
    
   {% endif %}

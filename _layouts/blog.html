@@ -2,4 +2,5 @@
 layout: withbanner
 ---
 
+<h1 class="fw-light fs-6 fst-italic">Posted on: {{ page.date | date: "%A %B %-d, %Y" }}</h1>
 {{ content | remove_first:page.excerpt }}
