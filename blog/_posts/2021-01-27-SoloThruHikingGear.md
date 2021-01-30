@@ -2,10 +2,10 @@
 layout: blog
 title: Solo Thru-Hiking Gear List
 tagimg: '/images/withfs/tombstonepack-320.webp'
+titleimg: /images/banners/windriverpanorama-2048.jpg
 ---
 
 This is my go-to thru-hiking gear. I carried a lot of this gear on the Long Trail, Appalachian Trail and Continental Divide Trail. I did use different gear on the Pacific Crest Trail, but the gear I carry now is definitely an upgrade.
-
 
 This is my go-to thru-hiking gear. I carried a lot of this gear on the Long Trail, Appalachian Trail and Continental Divide Trail. I did use different gear on the Pacific Crest Trail, but the gear I carry now is definitely an upgrade. The contents of my pack varies a little based on the trail and the season. My base weight is roughly ten pounds: I don’t track it too accurately. As long as it’s not much above ten pounds, I’m a happy camper. Ultralight gear is important to me, but not to the point of sacrificing comfort! If I hike with my husband, I swap out the tarp for our Big Agnes Copper Spur.
 
@@ -46,3 +46,5 @@ This is my go-to thru-hiking gear. I carried a lot of this gear on the Long Trai
 - Sunscreen
 - Deuce of spades trowel
 - Various cuben fiber stuff sacks
+ 
+Check out my [Canoeing Gear List post](/blog/CanoeingGearList.html) to see how this compares.
