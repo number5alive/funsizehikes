@@ -55,6 +55,11 @@ footer p {
   margin-bottom: .25rem;
 }
 
+.authorbio img {
+  margin: auto;
+  display: block;
+}
+
 
 .infocard {
     border-style: solid;
