@@ -5,7 +5,7 @@ layout: withbanner
 <h1 class="fw-light fs-6 fst-italic">Posted on: {{ page.date | date: "%A %B %-d, %Y" }}</h1>
 {{ content | remove_first:page.excerpt }}
 
-<div class="container py-5">
+<div class="container py-3">
   <div class="row">
     <div class="col-md-2"></div>
     <div class="col authorbio">
@@ -18,5 +18,9 @@ layout: withbanner
       </div>
     </div>
     <div class="col-md-2"></div>
+  </div>
+
+  <div class="row">
+    {% include comments.md %}
   </div>
 </div>
