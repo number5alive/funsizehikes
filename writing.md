@@ -26,8 +26,15 @@ titleimg: /images/banners/roundislandlake-2048.jpg
 {% include actioncard.html 
       title="Dirtbag Diaries (Coming Soon!)" 
       image="/images/withfs/dirtylegs-320.webp"
-      leftimg=true
+      leftimg=false
       text="Coming Soon..."
+%}
+{% include actioncard.html 
+      title="12 Time-Saving Tips So You Can Hike More Miles" 
+      image="https://is.thetrek.co/w600-h400-cfill/wp-content/uploads/2021/02/03081659/Time-Saving-Tips-Featured-Image-e1612365471838.jpg"
+      leftimg=true
+      link="https://thetrek.co/12-time-saving-tips-so-you-can-hike-more-miles/"
+      text="There comes a time in every thru-hike where you have to hike a high mileage day. These tips will help you find more time in your day to hike."
 %}
 {% include actioncard.html 
       title="Five Things I Wish I’d Known Before Hiking the Triple Crown" 
