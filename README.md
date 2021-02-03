@@ -16,7 +16,7 @@ $ vagrant ssh
 $ gem install bundler
 $ cd /vagrant
 $ gem build
-$ build exec jekyll serve --host 0.0.0.0
+$ bundle exec jekyll serve --host 0.0.0.0 --force-polling
 }
 ```
 

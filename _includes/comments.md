@@ -1,4 +1,9 @@
 {% assign id={{page.id | replace:'/',''}} %}
+{% if jekyll.environment == 'production' %}
+{% assign brainsurl="https://funsizehikes-brains.nn.r.appspot.com" %}
+{% else %}
+{% assign brainsurl="http://localhost:5200" %}
+{% endif %}
 
 <nav class="navbar navbar-light bg-light border-top">
   <div class="container-fluid">
@@ -7,7 +12,7 @@
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
-      <form action="http://localhost:5100/comment/{{id}}" method="POST" target="_blank">
+      <form action="{{brainsurl}}/comments/{{id}}" method="POST" target="_blank">
         <div class="mb-3">
           <input class="form-control" type="text" name="name" placeholder="Name" aria-label="default input example">
         </div>
@@ -25,7 +30,7 @@
 <h1 class="fs-5">Comments</h1>
 {% for comment in site.data.comments[{{id}}] %}
   <div class="row border-bottom">
-      <p class="fst-italic my-0">{{ comment.name }}</p>
+      <p class="fst-italic my-0">{{ comment.name }} - <span class="text-muted fs-6 fw-lighter">{{ comment.datetime | date: "%B %-d, %Y %H:%M"}}</span></p>
       <p>{{ comment.comment }}</p>
   </div>
 {% endfor %}
