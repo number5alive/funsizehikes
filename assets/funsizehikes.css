@@ -81,31 +81,12 @@ footer p {
     background-size: cover;
 }
 
-/*
-
-.card {
-    background-repeat: no-repeat;
-    background-position: bottom center;
-    background-size: cover;
+.accordion-button:focus {
+  outline: 0 !important;
+  box-shadow: none;
 }
 
-.container {
-  margin: 0px 5px;
+.accordion-button:not(.collapsed) {
+  background-color: #f8f9fa !important;
 }
-
-.infocard {
-    border-style: solid;
-    border-color: lightgrey;
-    border-radius: 5px;
-    padding: 10px 10px;
-    margin: 20px 10px;
-    width: 100%;
-}
-
-.infocard h1 {
-  text-align: center;
-  padding-top: 25px
-}
- 
-*/ 
  
