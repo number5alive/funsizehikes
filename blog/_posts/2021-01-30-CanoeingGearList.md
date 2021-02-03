@@ -44,4 +44,4 @@ Ultralight and canoe gear might seem like a contradiction. What’s the point in
 - Various cuben fiber stuff sacks
 - Way more luxuries! Including books, booze and much better food.
 
-Check out my [Solo Thru Hiking Gear page](/blog/SoloThruHikingGear.html) to see how this compares.
+Check out my [Solo Thru Hiking Gear page](/blog/SoloThruHikingGear.html) or my [Winter Adventure Gear List post](/blog/WinterAdventureGear.html) to see how this compares.

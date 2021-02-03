@@ -47,4 +47,4 @@ This is my go-to thru-hiking gear. I carried a lot of this gear on the Long Trai
 - Deuce of spades trowel
 - Various cuben fiber stuff sacks
  
-Check out my [Canoeing Gear List post](/blog/CanoeingGearList.html) to see how this compares.
+Check out my [Canoeing Gear List post](/blog/CanoeingGearList.html) or my [Winter Adventure Gear List post](/blog/WinterAdventureGear.html) to see how this compares.
