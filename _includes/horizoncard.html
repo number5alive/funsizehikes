@@ -1,7 +1,7 @@
 {% assign id={{post.id | replace:'/',''}} %}
  
 <div class="col-3" data-toggle="tooltip" data-placement="top" title="{{ post.title }}">
-  <button type="button" class="btn btn-primary picturecard" data-bs-toggle="modal" data-bs-target="#modal_{{id}}" style="background-image:url('{{ post.tagimg }}')"></button>
+  <button type="button" class="btn btn-primary picturecard" data-bs-toggle="modal" data-bs-target="#modal_{{id}}" aria-label="{{post.title}}" style="background-image:url('{{ post.tagimg }}')"></button>
 </div>
    
 <div class="modal fade" id="modal_{{id}}" tabindex="-1" aria-labelledby="modal_{{id}}Title" aria-hidden="true">
