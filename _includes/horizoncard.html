@@ -1,0 +1,23 @@
+{% assign id={{post.id | replace:'/',''}} %}
+ 
+<div class="col-3" data-toggle="tooltip" data-placement="top" title="{{ post.title }}">
+  <button type="button" class="btn btn-primary picturecard" data-bs-toggle="modal" data-bs-target="#modal_{{id}}" style="background-image:url('{{ post.tagimg }}')"></button>
+</div>
+   
+<div class="modal fade" id="modal_{{id}}" tabindex="-1" aria-labelledby="modal_{{id}}Title" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1>{{post.title}}</h1>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        {{post.content}}
+        <div class="picturecard" style="background-image:url('{{ post.tagimg }}')"></div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
