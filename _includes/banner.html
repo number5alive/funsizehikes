@@ -28,7 +28,6 @@
     var selectedBanner=possibleBanners[Math.floor(Math.random() * possibleBanners.length)];
     var elTitle=document.getElementById("{{bannerid}}")
     elTitle.style.backgroundImage = "url(" + selectedBanner + ")";
-    console.log("changed background to: " + selectedBanner);
   }
 </script>
 {% endif %}

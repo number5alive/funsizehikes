@@ -40,7 +40,6 @@
 
 <script>
 function onSubmit() {
-  console.log("yep, you got the javascript running!");
   var elform=document.getElementById("commentform");
   var elmsg=document.getElementById("commentresponse");
 
