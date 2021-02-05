@@ -1,0 +1,42 @@
+---
+layout: null
+---
+
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>{{ site.title }}</title>
+  <link href="{{ site.url }}/feed.xml" rel="self"/>
+  <id>{{ site.url }}</id>
+  <description>Covering the adventures and the writings of Eloise Robbins (Fun Size)</description>
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <language>en-us</language>
+
+  <author>
+   <name>Eloise Robbins</name>
+   <email>eloise@funsizehikes.com</email>
+  </author>
+
+  <image>
+    <url>{{site.url}}/images/icons/favicon2.png</url>
+    <title>{{ site.title }}</title>
+    <link>{{ site.url }}</link>
+  </image>
+    
+  <!-- Add the latest news if it's less than a week old -->
+  {% assign timeframe = 604800 %}
+  {% for post in site.categories.news %}
+    {% assign post_in_seconds = post.date | date: "%s" | plus: 0 %}
+    {% assign recent_posts = "now" | date: "%s" | minus: timeframe  %}
+     
+    {% if post_in_seconds > recent_posts %}
+      {% include feedentry.html %}
+    {% endif %}
+  {% endfor %}       
+
+  <!-- add the last ten blog posts -->
+  {% for post in site.categories.blog limit: 10 %}
+    {% include feedentry.html %}
+  {% endfor %}
+
+</feed>

@@ -10,6 +10,12 @@ defaults:
     path: "images/banners"
    values:
     bannerimg: true
+       
+author:
+  - name: Eloise Robbins
+  - email: eloise@funsizehikes.com
+  - url: "https://funsizehikes.com"
+
  
 # Leave off the development files and any other cruft so it doesn't go into the page
 exclude:
