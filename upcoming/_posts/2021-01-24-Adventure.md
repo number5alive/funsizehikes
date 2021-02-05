@@ -1,7 +1,7 @@
 ---
 layout: withbanner
 title: "Adventure! (Always)"
-tagimg: "/images/withoutfs/wordcloud-320.webp"
+tagimg: "/images/withoutfs/wordcloud-640.webp"
 adventure: true
 ---
 
