@@ -6,6 +6,11 @@ sitemap:
  changefreq: 'weekly'
  priority: 0.8
 ---
+ 
+  <div class="container infocard">
+    <div class="text-center fst-italic">Do you want to be notified when there are new blog posts? <a href="https://feedburner.google.com/fb/a/mailverify?uri=FunSizeHikes&amp;loc=en_US" title="Subscribe">Click here for email notifications</a>.
+    </div>
+  </div>
 
 {% for post in site.categories.blog %}
   {% if post.categories contains 'blog' %}
