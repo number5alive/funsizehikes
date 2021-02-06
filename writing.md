@@ -1,6 +1,6 @@
 ---
-layout: withbanner
-title: Writing
+layout: list 
+title: Professional Writing
 titleimg: /images/banners/roundislandlake-2048.jpg
 ---
 
@@ -22,7 +22,6 @@ titleimg: /images/banners/roundislandlake-2048.jpg
   </div>
 </div>
  
-<div id="actioncards"> 
 {% include actioncard.html 
       title="Dirtbag Diaries (Coming Soon!)" 
       image="/images/withfs/dirtylegs-320.webp"
@@ -92,4 +91,3 @@ titleimg: /images/banners/roundislandlake-2048.jpg
       link="https://thetrek.co/why-20-frogg-toggs-are-the-ideal-rain-gear-for-a-thru-hike/" 
       text="Outside of your tent and sleep system, rain gear can be one of the most expensive items to purchase for a thru-hike. Prices range from $100 to over $400 for a jacket alone, with most ultralight options finding a sweet spot between $150 and $200. So, can a $20 rain jacket really measure up to pricier options?"
 %}
-</div>

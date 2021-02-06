@@ -4,13 +4,15 @@
 
 {% capture bannerid %}bannerid.{{page.title | truncate: 20 | slugify }} {% endcapture %}
 
+<div class="container-fluid" style="padding:0px">
 <section class="py-3 text-center jumbotron" {{bgimg}} id="{{bannerid}}">
-  <div class="row py-lg-3">
-    <div class="col-12 mx-auto container">
+  <div class="row py-lg-3" style="width:95%">
+    <div class="col-10 mx-auto textcontainer">
       <h1 class="fw-light fs-1"><b>{{ page.title }}</b></h1>
     </div>
   </div>
 </section>
+</div>
 
 {% if page.titleimg %}
 {% else %}

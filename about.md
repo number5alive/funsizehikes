@@ -26,7 +26,6 @@ titleimg: /images/banners/glaciercalves-2048.jpg
   <p class="text-center fs-6 fst-italic"><a href="/contact.html">Contact me</a> to enquire about writing and editing services. </p>
 </div>
  
-<div id="actioncards"> 
 {% include actioncard.html 
       title="Thru-Hiking" 
       image="/images/withfs/dirtylegs-320.webp"
@@ -51,4 +50,3 @@ titleimg: /images/banners/glaciercalves-2048.jpg
       leftimg=false
       text="Winter is the best time of year for camping. I love playing in the snow and exploring away from the usual summer trails. I have recently enjoyed upgrading my skills and spending a lot more time outside when the temperatures get low."
 %}
-</div>

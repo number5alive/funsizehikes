@@ -37,7 +37,7 @@
   font-weight: 300;
 }
 
-.jumbotron .container {
+.jumbotron .textcontainer {
   max-width: 70%;
   background: rgba(200,200,200,0.6);
   border-radius: 10px;
@@ -66,8 +66,8 @@ footer p {
     border-color: lightgrey;
     border-radius: 5px;
     padding: 10px 10px;
-    max-width: 95%;
-    margin-bottom: 20px;
+    width: 95%;
+    margin: 5px 20px 20px 20px;
 }
 
 .picturecard {
