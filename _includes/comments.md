@@ -5,7 +5,7 @@
 {% assign brainsurl="http://localhost:5200" %}
 {% endif %}
  
-<div class="accordion accordion-flush" id="accordionComments">
+<div class="accordion " id="accordionComments">
   <div class="accordion-item">
     <h2 class="accordion-header" id="headingOne">
       <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseCommentForm" aria-expanded="true" aria-controls="collapseCommentForm">
@@ -52,10 +52,16 @@ function onSubmit() {
 }
 </script>
 
-<h1 class="fs-5">Comments</h1>
-{% for comment in site.data.comments[{{id}}] %}
-  <div class="row border-bottom">
-      <p class="fst-italic my-0">{{ comment.name }} - <span class="text-muted fs-6 fw-lighter">{{ comment.datetime | date: "%B %-d, %Y %H:%M"}}</span></p>
-      <p>{{ comment.comment }}</p>
-  </div>
-{% endfor %}
+<h1 class="fs-5 my-1">Comments</h1>
+  {% assign numcomments = 0 %}
+  {% for comment in site.data.comments[{{id}}] %}
+    {% increment numcomments %}
+    <div class="row border-bottom">
+        <p class="fst-italic my-0">{{ comment.name }} - <span class="text-muted fs-6 fw-lighter">{{ comment.datetime | date: "%B %-d, %Y %H:%M"}}</span></p>
+        <p>{{ comment.comment }}</p>
+    </div>
+  {% endfor %}
+   
+{% if numcomments == 0 %}
+  <p>None yet</p>
+{% endif %}
