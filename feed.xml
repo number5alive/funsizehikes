@@ -9,6 +9,9 @@ layout: null
   <subtitle>Covering the adventures and the writings of Eloise Robbins (Fun Size)</subtitle>
   <link href="{{ site.url }}/feed.xml" rel="self"/>
   <id>{{ site.url }}/</id>
+  <category term="outdoors"/>
+  <category term="hiking"/>
+  <category term="adventure"/>
      
   {% comment %}
     Ooof... this is gross! Loop through once to find the latest update time
