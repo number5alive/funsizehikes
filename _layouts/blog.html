@@ -3,7 +3,10 @@ layout: withbanner
 ---
 
 <h1 class="fw-light fs-6 fst-italic">Posted on: {{ page.date | date: "%A %B %-d, %Y" }}</h1>
+
+<div class="blog">
 {{ content | remove_first:page.excerpt }}
+</div>
 
 <div class="container py-3">
   <div class="row">

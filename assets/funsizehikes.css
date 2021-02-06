@@ -109,3 +109,8 @@ footer p {
   background-color: #f8f9fa !important;
 }
  
+.blog p img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
