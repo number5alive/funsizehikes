@@ -1,0 +1,50 @@
+- name: PCT
+  description: Pacific Crest Trail
+  bgcolor: '#a89ea8'
+  fgcolor: black
+
+- name: CDT
+  description: Continental Divide Trail
+  bgcolor: '#a89ea8'
+  fgcolor: black
+
+- name: AT
+  description: Appalacian Trail
+  bgcolor: '#a89ea8'
+  fgcolor: black
+
+- name: LT
+  description: Long Trail (Vermont)
+  bgcolor: '#a89ea8'
+  fgcolor: black
+
+- name: GDT
+  description: Great Divide Trail
+  bgcolor: '#a89ea8'
+  fgcolor: black
+
+- name: tips
+  description: Outdoor Tips
+  bgcolor: lightblue
+  fgcolor: black
+
+- name: gear
+  description: Gear Lists
+  bgcolor: lightblue
+  fgcolor: black
+
+- name: stories
+  description: Stories from Adventures
+  bgcolor: lightblue
+  fgcolor: black
+
+- name: canoeing
+  description: Canoeing Adventures
+  bgcolor: lightblue
+  fgcolor: black
+
+- name: hiking
+  description: Hiking Adventures
+  bgcolor: lightblue
+  fgcolor: black
+

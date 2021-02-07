@@ -2,6 +2,7 @@
 layout: blog
 title: How I got my trail name - Fun Size
 tagimg: '/images/justfs/atshelter-320.webp'
+tags: hiking PCT stories
 ---
 
 Almost every thru-hiker ends up with a trail name. Trail names are little nicknames, normally based on something unique about each hiker. Do something stupid and you’ll find it quickly becomes your trail name. It took me two hundred miles to get mine, but it was worth waiting for. I’ve kept my trail name for all of my thru-hikes, and it’s become as much a part of me as my real name.

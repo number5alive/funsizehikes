@@ -3,6 +3,7 @@ layout: blog
 title: Canoeing Gear List
 tagimg: https://lh3.googleusercontent.com/pw/ACtC-3eOVZJU7GLwt7YOlYlX2l5E_F5x8jVLY0v9VXsWWqD0PtYLIsByYE6MvS1cVhYQWXBnw3h1mhlLUHkz7Na2VT_xqcbyTmsCySY-LQnGM6qe1RQhzEsoTb_X2iSvOfdlyEWrA6sOIhoU0O1RIX8S63kj5g=w320-no?authuser=0
 titleimg: /images/banners/roundislandlake-2048.jpg
+tags: gear canoeing
 ---
 
 Ultralight and canoe gear might seem like a contradiction. What’s the point in going lightweight when you have a 40 pound canoe to carry? Still, we’ve managed to find a balance that allows us to travel fast and light on canoe expeditions.

@@ -2,6 +2,7 @@
 layout: blog
 title: Want to Go for a Walk? Tips for Thru-Hiking with Dogs
 tagimg: https://lh3.google.com/pw/ACtC-3f0uzG6uq694-FNoJL1s6KouCvwmdsghyjuqwxtVUqulPmVyIKKXotnDAlw7AB6i40U6sJZJ6bTt665kR_Uy0t_VjTCn3I=w320-no?authuser=0
+tags: tips LT
 ---
 
 Chester and I thru-hiked Vermont’s Long Trail in 2019. Chester is a nine pound Biewer Terrier: hardly your typical trail dog. But every day on the trail was the best day of his life.

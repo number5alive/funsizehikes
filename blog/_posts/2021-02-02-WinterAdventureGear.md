@@ -2,6 +2,7 @@
 layout: blog
 title: Winter Adventure Gear List
 tagimg: https://lh3.googleusercontent.com/pw/ACtC-3dFcN-UZzKW5QC2JDp9LfOQhtL-TmIqX3uxgVRfn0ns7MGjMnmCIDdlLMjecrQjOTJSqTgZwZopucBY_m7KEA9Ze_-sQ_z34S6oHY8NkdjCJGK2nMT_3lSRcA42mLHrxUXxDSjublbbvQhZUCx1CXKLZg=w320-no?authuser=0
+tags: gear
 ---
 
 This is the gear I use for winter camping in Canada. It’s heavy in comparison to my thru hiking set up. But it’s warm, so it’s worth the weight.

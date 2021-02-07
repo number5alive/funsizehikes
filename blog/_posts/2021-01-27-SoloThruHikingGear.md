@@ -3,6 +3,7 @@ layout: blog
 title: Solo Thru-Hiking Gear List
 tagimg: '/images/withfs/tombstonepack-320.webp'
 titleimg: /images/banners/windriverpanorama-2048.jpg
+tags: PCT CDT AT LT gear hiking 
 ---
 
 This is my go-to thru-hiking gear. I carried a lot of this gear on the Long Trail, Appalachian Trail and Continental Divide Trail. I did use different gear on the Pacific Crest Trail, but the gear I carry now is definitely an upgrade.
