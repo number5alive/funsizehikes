@@ -8,6 +8,7 @@
   </div>
    
    
+{% if jekyll.environment == 'production' %}
 <script src="assets/jquery.instagramFeed.min.js"></script>
 <script>
     (function($){
@@ -28,4 +29,5 @@
         });
     })(jQuery);
 </script>
+{% endif %}
    
