@@ -19,7 +19,7 @@
   <p class="text-muted gy-0 py-0 my-0 fs-6 fst-italic">Posted on: {{ include.postdate | date: "%A %B %-d, %Y"}}
    
   {% for ptag in post.tags %}
-  <span class="badge rounded-pill tagfmt tagfmt-{{ptag}}">{{ptag}}</span>
+    {% include tagpill.html tag=ptag %}
   {% endfor %}
   
   </p>

@@ -1,0 +1,16 @@
+{% assign tooltip="" %}
+{% for ptag in site.data.tags %}
+  {% if ptag.name == include.tag %}
+    {% assign tooltip="bs-data-toggle='tooltip' data-bs-placement='top' title='" | append: ptag.description | append: "'" %}
+  {% endif %}
+{% endfor %}
+<span class="badge rounded-pill tagfmt tagfmt-{{include.tag}}" {{tooltip}}>{{include.tag}}</span>
+{% unless pagehasscript %}
+  <script>
+    var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'))
+    var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
+      return new bootstrap.Tooltip(tooltipTriggerEl)
+    })
+  </script>
+  {% assign pagehasscript=true %}
+{% endunless %}

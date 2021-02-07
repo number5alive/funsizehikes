@@ -7,18 +7,20 @@ sitemap:
  priority: 0.8
 ---
  
+{% comment %}
   <div class="container text-center mb-1">
     <span class="fst-italic">Filter Posts: </span>
      
     {% for page in site.pages %}
       {% if page.layout == "blogcategory" %}
         <a href="{{page.url}}" alt="{{page.title}}" class="text-decoration-none">
-        <span class="badge rounded-pill tagfmt tagfmt-{{page.filter}}">{{page.filter}}</span>
+        {% include tagpill tag=page.filter %}
         </a>
       {% endif %}
     {% endfor %}
      
   </div>
+{% endcomment %}
    
   <div class="container infocard">
     <div class="text-center fst-italic">Do you want to be notified when there are new blog posts? <a href="https://feedburner.google.com/fb/a/mailverify?uri=FunSizeHikes&amp;loc=en_US" title="Subscribe">Click here for email notifications</a>.
