@@ -8,7 +8,7 @@ slug: front-royal-to-duncannon
 title: Front Royal to Duncannon
 wordpress_id: 1497
 tags:
-- Appalacian Trail
+- Appalachian Trail
 tagimg: 'https://eloiserobbins.files.wordpress.com/2018/04/20180409_103316.jpg'
 ---
 

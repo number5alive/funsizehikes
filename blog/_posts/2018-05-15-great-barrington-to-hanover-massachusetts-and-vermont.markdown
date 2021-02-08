@@ -8,7 +8,7 @@ slug: great-barrington-to-hanover-massachusetts-and-vermont
 title: Great Barrington to Hanover (Massachusetts and Vermont)
 wordpress_id: 1547
 tags:
-- Appalacian Trail
+- Appalachian Trail
 tagimg: 'https://eloiserobbins.files.wordpress.com/2018/05/20180506_081355.jpg'
 ---
 

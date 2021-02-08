@@ -8,7 +8,7 @@ slug: how-not-to-listen-to-your-body-gorham-to-monson
 title: How not to listen to your body (Gorham to Monson)
 wordpress_id: 1620
 tags:
-- Appalacian Trail
+- Appalachian Trail
 tagimg: 'https://eloiserobbins.files.wordpress.com/2018/05/20180525_160504.jpg'
 ---
 

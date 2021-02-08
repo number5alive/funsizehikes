@@ -8,7 +8,7 @@ slug: delaware-water-gap-to-great-barrington-new-jersey-new-york-and-connecticut
 title: Delaware Water Gap to Great Barrington (New Jersey, New York and Connecticut)
 wordpress_id: 1545
 tags:
-- Appalacian Trail
+- Appalachian Trail
 tagimg: 'https://eloiserobbins.files.wordpress.com/2018/05/20180426_061637.jpg'
 ---
 

@@ -8,7 +8,7 @@ slug: the-end
 title: The end. (100 mile Wilderness and Katahdin)
 wordpress_id: 1646
 tags:
-- Appalacian Trail
+- Appalachian Trail
 tagimg: 'https://eloiserobbins.files.wordpress.com/2018/06/20180605_160519.jpg'
 ---
 

@@ -8,7 +8,7 @@ slug: the-amazing-snow-slackpacking-massie-gap-to-pearisburg
 title: 'The amazing snow slackpacking:  Massie Gap to Pearisburg'
 wordpress_id: 1399
 tags:
-- Appalacian Trail
+- Appalachian Trail
 tagimg: 'https://eloiserobbins.files.wordpress.com/2018/03/20180312_1344392.jpg'
 ---
 

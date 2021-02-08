@@ -8,7 +8,7 @@ slug: the-smokeys-fontana-to-hot-springs
 title: The Smokeys (Fontana to Hot Springs)
 wordpress_id: 1344
 tags:
-- Appalacian Trail
+- Appalachian Trail
 tagimg: 'https://eloiserobbins.files.wordpress.com/2018/02/20180216_095808.jpg'
 ---
 

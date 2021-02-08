@@ -8,7 +8,7 @@ slug: pennsylvania-is-not-my-favorite-duncannon-to-delaware-water-gap
 title: 'Pennsylvania is not my favorite: Duncannon to Delaware Water Gap.'
 wordpress_id: 1498
 tags:
-- Appalacian Trail
+- Appalachian Trail
 tagimg: 'https://eloiserobbins.files.wordpress.com/2018/04/20180417_151228.jpg'
 ---
 
