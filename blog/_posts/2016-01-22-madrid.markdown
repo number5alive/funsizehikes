@@ -9,6 +9,7 @@ title: Madrid
 wordpress_id: 169
 tags:
 - Travel
+tagimg: 'https://eloiserobbins.files.wordpress.com/2016/01/image29.jpeg'
 ---
 
 Madrid feels the most foreign out of all the places I have been so far. There are almost no tourists. Even at the tourist attractions, you are lucky to find someone who speaks English. It lacks the familiar culture of France, Germany or the UK.

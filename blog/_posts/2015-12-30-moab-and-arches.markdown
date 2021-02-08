@@ -10,9 +10,13 @@ wordpress_id: 116
 tags:
 - South West
 - Travel
+tagimg: 'https://eloiserobbins.files.wordpress.com/2015/12/image18.jpeg'
 ---
 
 We find bikes to rent in Moab. It's a short drive to a trailhead, with a good mix of trails. We don't read the descriptions too closely and start on a trail named EZ. Turns out that name is not such a great description. Rock is very different to ride on than snow and it takes a little adjusting. By the time we reach the end of that trail, we're feeling a little more comfortable and decide to take a slickrock trail around. It's fun- the trail is super grippy and the scenery is beautiful. We ride until we can't ride anymore.
+ 
+ 
+ 
 ![image](https://eloiserobbins.files.wordpress.com/2015/12/image18.jpeg)
 
 

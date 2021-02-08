@@ -9,6 +9,7 @@ title: Germany
 wordpress_id: 150
 tags:
 - Travel
+tagimg: 'https://eloiserobbins.files.wordpress.com/2016/01/image20.jpeg'
 ---
 
 The first thing we see as we leave Munich airport to find a train into the city is a Christmas market. It looks almost identical to the other markets we've seen, but this is finally a real German market.

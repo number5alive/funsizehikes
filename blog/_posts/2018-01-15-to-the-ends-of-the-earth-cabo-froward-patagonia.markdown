@@ -12,11 +12,13 @@ tags:
 - Travel
 tagimg: 'https://eloiserobbins.files.wordpress.com/2018/01/20180114_115231.jpg'
 ---
-
-[![](https://eloiserobbins.files.wordpress.com/2018/01/20180111_143621.jpg)](https://eloiserobbins.files.wordpress.com/2018/01/20180111_143621.jpg)
-
+The sea surges to my knees as I wade around the slippery rocks. The salt stings a thousand tiny cuts on my legs. The wind throws fistfulls of rain in my face. You are made up of mostly water, I remind myself. This is your element. 
+ 
 
 [![](https://eloiserobbins.files.wordpress.com/2018/01/20180114_115231.jpg)](https://eloiserobbins.files.wordpress.com/2018/01/20180114_115231.jpg)
+ 
+The sea surges to my knees as I wade around the slippery rocks. The salt stings a thousand tiny cuts on my legs. The wind throws fistfulls of rain in my face. You are made up of mostly water, I remind myself. This is your element. 
+ 
 [![](https://eloiserobbins.files.wordpress.com/2018/01/20180111_143621.jpg)](https://eloiserobbins.files.wordpress.com/2018/01/20180111_143621.jpg)
 
 Cabo Froward lies some thirty kilometers south of where the road ends. It's the furthest south point on the American continent. It's not easy to get to- three large rivers, two only crossable at low tide, bushwacking, scrambling and the ever present changing tide lie between us and the white cross that marks the end of the world.

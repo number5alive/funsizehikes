@@ -9,6 +9,7 @@ title: Woah-oh, we're halfway there. Tahoe to Chester.
 wordpress_id: 435
 tags:
 - Pacific Crest Trail
+tagimg: 'http://eloiserobbins.files.wordpress.com/2016/07/wp-image-1299919470jpg.jpg'
 ---
 
 North California is not what I expect. We've been told it is most people's least favorite section of trail, it's not as pretty as the rest, and that most people drop out here. Mentally, I have been preparing for a tough section since the desert.

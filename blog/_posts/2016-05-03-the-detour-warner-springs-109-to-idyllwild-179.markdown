@@ -9,6 +9,7 @@ title: The detour (Warner Springs 109 to Idyllwild 179)
 wordpress_id: 286
 tags:
 - Pacific Crest Trail
+tagimg: 'http://eloiserobbins.files.wordpress.com/2016/05/wp-1462308300982.jpg'
 ---
 
 We leave the tent city at Warner Springs and hike up to camp at Agua Caliente Creek. The name is a misnomer- my steripen flashes it's snowflake at me when I treat my water.

@@ -12,8 +12,8 @@ tags:
 tagimg: 'https://eloiserobbins.files.wordpress.com/2017/06/img_20170605_145010_975.jpg'
 ---
 
-![](https://eloiserobbins.files.wordpress.com/2017/04/img_20170414_1047461.jpg)
-
+I didn't realize how spoiled I was on the PCT. Beautiful trail the entire way. Little roadwalking. No cows. And I didn't camp alone a single night. A bad day on the PCT is a good day on the CDT. The CDT is not a nice trail. And while several people have congratulated me on conquering it, I didn't. I survived it.
+ 
 
 [![](https://eloiserobbins.files.wordpress.com/2017/06/img_20170605_145010_975.jpg)](https://eloiserobbins.files.wordpress.com/2017/06/img_20170605_145010_975.jpg)
 ![](https://eloiserobbins.files.wordpress.com/2017/04/img_20170414_1047461.jpg)

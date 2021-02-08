@@ -9,6 +9,7 @@ title: Pinedale to Dubois
 wordpress_id: 1067
 tags:
 - Continental Divide Trail
+tagimg: 'https://eloiserobbins.files.wordpress.com/2017/07/20170724_195953.jpg'
 ---
 
 We zero in Pinedale. My body heals almost instantly from a long section, but my mind still struggles. We get ready to leave and I feel my anxiety building with the thunderclouds over the mountains. The CDT makes me scared in a way I've never been before. But quitting scares me too. I know I'll regret it too much. This was never a fun hike, but I can't back down from the challenge. And as the CDT gives me new fears, it breaks down old ones.

@@ -9,6 +9,7 @@ title: Campo to Mile 77
 wordpress_id: 272
 tags:
 - Pacific Crest Trail
+tagimg: 'http://eloiserobbins.files.wordpress.com/2016/04/wp-1461637835251.jpg'
 ---
 
 The wind is like a living creature. It shakes the tent so hard I am sure it will break my poles. Every few hours it rips out a tent stake, or snaps a guy line, forcing me to try to fix it from my sleeping bag. Then it is light and the wind isn't dropping, so there is nothing to do but hike.

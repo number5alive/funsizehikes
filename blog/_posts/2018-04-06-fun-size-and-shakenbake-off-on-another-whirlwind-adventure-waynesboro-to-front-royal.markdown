@@ -13,10 +13,13 @@ tags:
 tagimg: 'https://eloiserobbins.files.wordpress.com/2018/04/20180405_143006.jpg'
 ---
 
-[![](https://eloiserobbins.files.wordpress.com/2018/04/20180331_152744.jpg)](https://eloiserobbins.files.wordpress.com/2018/04/20180331_152744.jpg)
+I poke my head out of the hotel room long after hiker midnight. A car pulls into the parking lot and a familiar head leans out of the window. "First star!" Shake n Bake shouts. 
 
 
 [![](https://eloiserobbins.files.wordpress.com/2018/04/20180405_143006.jpg)](https://eloiserobbins.files.wordpress.com/2018/04/20180405_143006.jpg)
+ 
+I poke my head out of the hotel room long after hiker midnight. A car pulls into the parking lot and a familiar head leans out of the window. "First star!" Shake n Bake shouts. 
+ 
 [![](https://eloiserobbins.files.wordpress.com/2018/04/20180331_152744.jpg)](https://eloiserobbins.files.wordpress.com/2018/04/20180331_152744.jpg)
 
 We spend most of the day resupplying, and shuttling Shake n Bake's car 100 miles down the trail. He tells the shuttle driver his bear arms joke and it's like no time has passed since the PCT. We are dropped back at the trail, where it's a short seven miles through the sunshine to the first shelter. It's a Saturday, so tents are everywhere. I am the only thru hiker, but still feel like I've stepped back into the bubble.

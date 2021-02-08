@@ -9,6 +9,7 @@ title: Red's Meadow to Tahoe
 wordpress_id: 426
 tags:
 - Pacific Crest Trail
+tagimg: 'http://eloiserobbins.files.wordpress.com/2016/07/wp-image-348453703jpg.jpg'
 ---
 
 We take the Devil's Postpone detour from Red's Meadow, heading past day hikers to the rock formation. Then, we are back on the trail. I'm hot and tired and it is easy to lay my Z light by a fallen tree and nap for a few hours. Then, I am racing to catch my friends back up, through the lupine and cow parsnip, across the mosquito filled meadows. I find them high on a ridge and set up my bug net as the sun goes down.

@@ -11,6 +11,7 @@ tags:
 - Grand Canyon
 - Rafting
 - South West
+tagimg: 'https://eloiserobbins.files.wordpress.com/2015/12/image4.jpeg'
 ---
 
 We're running out of big rapids. We run Upset (well, some people do. Thankfully there is a walk around.) and then it is comparatively smooth until Lava Falls. But before Lava, we have the most beautiful part of the canyon to experience- Havasu Falls. Havasu is so perfect it doesn't look real. It reminds me of the waterfalls we saw outside of some of the hotels in Vegas- each rock is perfectly placed and the milky blue water spills between them like someone has engineered the whole thing. It's real though. The side canyon is cool and quiet and we walk a long way before we have to turn around. Jerami and I promise ourselves we will come back one day, hike back from the top of the canyon and down, and explore properly.

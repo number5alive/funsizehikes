@@ -9,6 +9,7 @@ title: Gearing up for something big
 wordpress_id: 260
 tags:
 - Pacific Crest Trail
+tagimg: 'https://eloiserobbins.files.wordpress.com/2016/03/dsc_9559-1.jpg'
 ---
 
 In a little under a month, I plan to turn my back on the rusty fence that marks the US- Mexico border. Under the hot desert sun, I'll make my way north. It's 2650 miles to Canada along the Pacific Crest Trail. I don't know if I'll make it all the way. I'm not sure I care if I don't. I just want to spend as many nights as possible under the stars and explore three beautiful states that I have barely visited.

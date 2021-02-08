@@ -9,6 +9,7 @@ title: San Jacinto
 wordpress_id: 295
 tags:
 - Pacific Crest Trail
+tagimg: 'http://eloiserobbins.files.wordpress.com/2016/05/wp-14625779249381.jpg'
 ---
 
 We are itchy in Idyllwild, impatient to hike. Our motel gives us a ride to the trailhead. I pull out my camera to take a photo and it gives me an error message. I turn it off and back on again. Still no luck. Great. The most beautiful part of the trail and I have to rely on my cell phone. I chase Shake and Bake and Bear Bait down the trail, asking them to take photos for me.

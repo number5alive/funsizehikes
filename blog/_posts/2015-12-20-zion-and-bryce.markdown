@@ -10,11 +10,15 @@ wordpress_id: 100
 tags:
 - South West
 - Travel
+tagimg: 'https://eloiserobbins.files.wordpress.com/2015/12/image10.jpeg'
 ---
 
 We arrive at Zion early, before the fee station is open. There's no self pay option, so we just go on in. We stop at an overlook trail and hike for a mile, up the side of a canyon, through a small cavern, until we reach the overlook. Zion Canyon is laid out below us and it's beautiful- so different from anything we've seen in the Grand Canyon.
+ 
+ 
+ 
+ 
 ![image](https://eloiserobbins.files.wordpress.com/2015/12/image10.jpeg)
-
 
 We arrive at Zion early, before the fee station is open. There's no self pay option, so we just go on in. We stop at an overlook trail and hike for a mile, up the side of a canyon, through a small cavern, until we reach the overlook. Zion Canyon is laid out below us and it's beautiful- so different from anything we've seen in the Grand Canyon.
 ![image](https://eloiserobbins.files.wordpress.com/2015/12/image10.jpeg)

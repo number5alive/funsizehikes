@@ -9,6 +9,7 @@ title: Denmark
 wordpress_id: 137
 tags:
 - Travel
+tagimg: 'https://eloiserobbins.files.wordpress.com/2016/01/image7.jpeg'
 ---
 
 Traveling is so different when you know someone in a city. I meet Alison, who spent three years in Denmark. My time in Copenhagen is very different because of her. I meet Danish people (generous, kind, but very loud when they are drunk) and try the best Danish foods.

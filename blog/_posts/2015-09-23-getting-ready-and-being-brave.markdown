@@ -14,6 +14,7 @@ wordpress_id: 9
 categories:
 - preperation
 - thailand
+tagimg: 'https://eloiserobbins.files.wordpress.com/2015/09/906081_10155259669930364_3988960667973065612_o.jpg?w=169'
 ---
 
 Over the past six years, I have saved as much money as possible. I haven't had a car. No smart phone. No TV. Now my bank account, while by no means full, is full enough for a few months of thrifty travel. I'm paring down my belongings, booking flights and getting ready to go explore.  

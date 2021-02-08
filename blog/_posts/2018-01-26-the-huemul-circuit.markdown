@@ -12,11 +12,14 @@ tags:
 - Travel
 tagimg: 'https://eloiserobbins.files.wordpress.com/2018/01/20180123_202754.jpg'
 ---
+ 
+The Huemul Circuit may be the best short hike I've ever done. Featuring zip line river crossings, a glacial traverse, high passes and a commanding view of the southern Patagonia ice field, it's just challenging enough to be fun.
 
-[![](https://eloiserobbins.files.wordpress.com/2018/01/20180123_122702.jpg)](https://eloiserobbins.files.wordpress.com/2018/01/20180123_122702.jpg)
-
-
+ 
 [![](https://eloiserobbins.files.wordpress.com/2018/01/20180123_202754.jpg)](https://eloiserobbins.files.wordpress.com/2018/01/20180123_202754.jpg)
+ 
+The Huemul Circuit may be the best short hike I've ever done. Featuring zip line river crossings, a glacial traverse, high passes and a commanding view of the southern Patagonia ice field, it's just challenging enough to be fun.
+ 
 [![](https://eloiserobbins.files.wordpress.com/2018/01/20180123_122702.jpg)](https://eloiserobbins.files.wordpress.com/2018/01/20180123_122702.jpg)
 
 One of the hardest parts of the Huemel circuit is getting the permit. The paperwork itself is easy- free and you just walk into the ranger station when you are ready to head out. But the required gear is difficult to find. Everyone needs two caribeaners, a safety line and a harness, and we need a 30ft cord per group.

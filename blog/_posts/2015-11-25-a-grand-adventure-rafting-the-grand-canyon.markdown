@@ -11,6 +11,7 @@ tags:
 - Grand Canyon
 - Rafting
 - South West
+tagimg: 'https://eloiserobbins.files.wordpress.com/2015/11/image1.jpg'
 ---
 
 Twenty four days is a long time to spend in one place. But when each bend of the river reveals a new vista- towering limestone, menacing shist, gentle green slopes - it is hard to be sick of anything. The canyon is full of small, magical moments. The silhouette of a big horn sheep on a ridge line. The spicy-sweet smell of mormon tea. The perfect beauty of Havasu - so wonderful that it looks fake, as surely something that perfect can't exist. The stars winking out one by one as first dawn paints the canyon. Time unspools like an eddy line and a minute, an hour, a day; none of it is long enough to truly get to know the canyon.

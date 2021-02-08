@@ -5,14 +5,11 @@ date: 2018-01-01 23:18:28+00:00
 layout: blog
 link: https://eloiserobbins.wordpress.com/2018/01/01/gear-2/
 slug: gear-2
-title: Current Gear List
+title: Current Gear List - take 2
 wordpress_id: 1684
 tags:
 - Gear
 ---
-
-This is my most current gear list:
-
 
 This is my most current gear list:
 

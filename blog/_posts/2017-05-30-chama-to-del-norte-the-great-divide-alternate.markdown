@@ -9,6 +9,7 @@ title: Chama to Del Norte (The Great Divide Alternate)
 wordpress_id: 861
 tags:
 - Continental Divide Trail
+tagimg: 'https://eloiserobbins.files.wordpress.com/2017/05/img_20170526_162241.jpg'
 ---
 
 Chama is where people go their separate ways... Flipping, plowing through the San Juans or taking an alternate. It's here that Snow, Thunder, Tennesteve and I will split up. Snow and Thunder will ski the San Juans. Tennesteve will snowshoe. And I'll go my own way.

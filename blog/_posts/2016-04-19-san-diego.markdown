@@ -9,6 +9,7 @@ title: San Diego
 wordpress_id: 267
 tags:
 - Travel
+tagimg: 'http://eloiserobbins.files.wordpress.com/2016/04/wp-1461106857482.jpg'
 ---
 
 San Diego is grittier than I expect. I arrive exhausted from an early flight, and from a long few days in Alaska. We petsit a husky and her bulldog friend for four days. She is full of energy, desperate to be outside and run. I have never identified more with an animal. I just want to be on the trail already.

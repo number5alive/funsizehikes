@@ -9,6 +9,7 @@ title: Julian to Warner Springs
 wordpress_id: 277
 tags:
 - Pacific Crest Trail
+tagimg: 'http://eloiserobbins.files.wordpress.com/2016/04/wp-1461874764048.jpg'
 ---
 
 We climb up into the San Felipe hills. I say hello to my old friends The barrel cactus and the Ocotillos. The Ocotillos look burnt and dead, but explode into fiery flowers at the end of their stems.
