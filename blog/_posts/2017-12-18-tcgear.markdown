@@ -4,7 +4,6 @@ comments: true
 date: 2017-12-18 21:32:06+00:00
 layout: blog
 link: https://eloiserobbins.wordpress.com/2017/12/18/gear/
-slug: gear
 title: Post Triple Crown Gear
 wordpress_id: 1208
 tags:

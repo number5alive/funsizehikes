@@ -8,7 +8,7 @@ slug: the-long-trail
 title: The long trail.
 wordpress_id: 1729
 tags:
-- Appalacian Trail
+- Long Trail
 tagimg: 'https://eloiserobbins.files.wordpress.com/2019/08/p_20190804_070508_vhdr_auto_hp2552120280468959516.jpg'
 ---
 

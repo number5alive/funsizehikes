@@ -8,7 +8,7 @@ slug: long-trail-part-two
 title: Long Trail Part Two
 wordpress_id: 1761
 tags:
-- Appalacian Trail
+- Long Trail
 tagimg: 'https://eloiserobbins.files.wordpress.com/2019/08/p_20190819_163606_vhdr_auto6953127007732163901.jpg'
 ---
 
