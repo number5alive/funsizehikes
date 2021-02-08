@@ -42,7 +42,7 @@ We part ways in the morning. Thatch needs to drive home and Katahdin is calling 
 [![](https://eloiserobbins.files.wordpress.com/2018/04/20180422_080301.jpg)](https://eloiserobbins.files.wordpress.com/2018/04/20180422_080301.jpg)
 After lunch, I climb up exposed Lehigh gap. There's no trees and my pack is heavy with water. I chug, and at the top, a man gives me half a litre, still cold from his fridge. The trail is nice, then worse and worse, rocks and boulders making me step strangely, which in turn causes all sorts of aches and pains. Early this section, my feet hurt like I'd been pounding them with a hammer. Then my inner thigh muscles burned and ached. Now I've strained a muscle in my right calf. These aches are like the rocks themselves: nothing big, nothing serious, but a major annoyance. 
 [![](https://eloiserobbins.files.wordpress.com/2018/04/20180422_140348.jpg)](https://eloiserobbins.files.wordpress.com/2018/04/20180422_140348.jpg)
-I have another day of rocks, but the beautiful weather keeps my mood balenced. I make it to Delaware Water Gap and the end of Pennsylvania just before the rain is predicted to start.
+I have another day of rocks, but the beautiful weather keeps my mood balanced. I make it to Delaware Water Gap and the end of Pennsylvania just before the rain is predicted to start.
 [![](https://eloiserobbins.files.wordpress.com/2018/04/20180422_163400.jpg)](https://eloiserobbins.files.wordpress.com/2018/04/20180422_163400.jpg)
 [![](https://eloiserobbins.files.wordpress.com/2018/04/20180423_161121.jpg)](https://eloiserobbins.files.wordpress.com/2018/04/20180423_161121.jpg)
 ![](/data/user/0/org.wordpress.android/cache/20180423_1620581006713591.jpg)

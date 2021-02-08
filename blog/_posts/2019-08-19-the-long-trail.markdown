@@ -59,7 +59,7 @@ Dusk is falling when I hear something crashing in the bushes, right where I left
 ![](https://eloiserobbins.files.wordpress.com/2019/08/p_20190815_063703_vhdr_auto_hp7458011090904330318.jpg)
 The trail is easier the next day. We do fourteen miles, and while Chester is still tired, I feel like the trail is getting easier for him too. Either that or he's getting his little puppy trail legs. There are people at the shelter that night, which I'm greatful for when a massive thunderstorm rolls in and lightning strikes near the shelter.
 ![](https://eloiserobbins.files.wordpress.com/2019/08/p_20190815_081830_vhdr_auto4662625219387946033.jpg)
-The trail is even easier the next day. We crush 18 miles, a huge distance for Chester, so I can Nero into town the next day. We camp just 0.4 miles from Maine junction, where the long trail joins the at.
+The trail is even easier the next day. We crush 18 miles, a huge distance for Chester, so I can Nero into town the next day. We camp just 0.4 miles from Maine junction, where the Long Trail joins the AT.
 ![](https://eloiserobbins.files.wordpress.com/2019/08/p_20190815_103627_vhdr_auto_hp2501783957272125734.jpg)
-And then in the morning, I finish the long trail. There's still a hundred miles to the Massachusetts border though and that sounds like a fun way to spend a week....
+And then in the morning, I finish the Long Trail. There's still a hundred miles to the Massachusetts border though and that sounds like a fun way to spend a week.
 ![](https://eloiserobbins.files.wordpress.com/2019/08/p_20190819_063611_vhdr_auto1390373942212193079.jpg)
