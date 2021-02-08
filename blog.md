@@ -7,19 +7,19 @@ sitemap:
  priority: 0.8
 ---
  
-{% comment %}
   <div class="container text-center mb-1">
     <span class="fst-italic">Filter Posts: </span>
      
     {% for page in site.pages %}
       {% if page.layout == "blogcategory" %}
         <a href="{{page.url}}" alt="{{page.title}}" class="text-decoration-none">
-        {% include tagpill tag=page.filter %}
+        {% include tagpill.html tag=page.filter %}
         </a>
       {% endif %}
     {% endfor %}
      
   </div>
+{% comment %}
 {% endcomment %}
    
   <div class="container infocard">
