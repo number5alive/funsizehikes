@@ -116,7 +116,13 @@ footer p {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  width: 50%;
 }
+
+.infocard img {
+  width: 50%;
+}
+
 
 .tagfmt {
   background-color: pink;

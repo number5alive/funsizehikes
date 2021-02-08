@@ -13,7 +13,7 @@ sitemap:
 
 {% for post in site.categories.blog %}
   {% if post.tags contains page.filter %}
-   
+
     {% include actioncard.html 
           title=post.title
           image=post.tagimg
