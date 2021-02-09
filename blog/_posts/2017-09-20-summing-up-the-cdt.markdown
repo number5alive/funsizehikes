@@ -15,7 +15,7 @@ tagimg: 'https://eloiserobbins.files.wordpress.com/2017/06/img_20170605_145010_9
 I didn't realize how spoiled I was on the PCT. Beautiful trail the entire way. Little roadwalking. No cows. And I didn't camp alone a single night. A bad day on the PCT is a good day on the CDT. The CDT is not a nice trail. And while several people have congratulated me on conquering it, I didn't. I survived it.
  
 
-[![](https://eloiserobbins.files.wordpress.com/2017/06/img_20170605_145010_975.jpg)](https://eloiserobbins.files.wordpress.com/2017/06/img_20170605_145010_975.jpg)
+![summing-up-the-cdt](https://eloiserobbins.files.wordpress.com/2017/06/img_20170605_145010_975.jpg)
 ![](https://eloiserobbins.files.wordpress.com/2017/04/img_20170414_1047461.jpg)
 
 I didn't realize how spoiled I was on the PCT. Beautiful trail the entire way. Little roadwalking. No cows. And I didn't camp alone a single night. A bad day on the PCT is a good day on the CDT. The CDT is not a nice trail. And while several people have congratulated me on conquering it, I didn't. I survived it.
@@ -45,4 +45,4 @@ Take an umbrella. There is so much less shade on this trail. I think there were 
 If you live somewhere that thunderstorms are common, you probably don't need this warning. But we don't have them in Scotland or Alaska, so the CDT storms were terrifying for me. They are every. Single. Day. And they can hit at any time- that whole get low before noon thing does not help. Never mind that often on the CDT, you can't get low, or into treeline. 
 ![](https://eloiserobbins.files.wordpress.com/2017/09/20170901_175513.jpg)
 I don't mean to be discouraging. The CDT is not the fun hike the PCT is. But if you go into it willing to embrace the brutality (a phrase I thought was exaggerated before I hiked), you might enjoy the challenge.
-[![](https://eloiserobbins.files.wordpress.com/2017/09/20170903_1025201.jpg)](https://eloiserobbins.files.wordpress.com/2017/09/20170903_1025201.jpg)
+![summing-up-the-cdt](https://eloiserobbins.files.wordpress.com/2017/09/20170903_1025201.jpg)

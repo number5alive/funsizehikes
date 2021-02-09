@@ -15,7 +15,7 @@ tagimg: 'https://eloiserobbins.files.wordpress.com/2017/04/img_20170419_091718.j
 We're out of the hotel by 8am, which has to be a record for us. Shake n Bake repeatedly tries to "snooze" me in the morning, but I've been awake since 5am and I'm ready to hike! We road walk out of town and then cut cross country. There are signs warning us to stay within ten feet of the trail. It's funny because there's no real trail and the only way I think I could stick that close to the trail in this section is if I check my GPS every five seconds.
 
 
-[![](https://eloiserobbins.files.wordpress.com/2017/04/img_20170419_091718.jpg)](https://eloiserobbins.files.wordpress.com/2017/04/img_20170419_091718.jpg)
+![lordsburg-to-silver-city](https://eloiserobbins.files.wordpress.com/2017/04/img_20170419_091718.jpg)
 We're out of the hotel by 8am, which has to be a record for us. Shake n Bake repeatedly tries to "snooze" me in the morning, but I've been awake since 5am and I'm ready to hike! We road walk out of town and then cut cross country. There are signs warning us to stay within ten feet of the trail. It's funny because there's no real trail and the only way I think I could stick that close to the trail in this section is if I check my GPS every five seconds.
 
 ![IMG_20170419_142615](https://eloiserobbins.files.wordpress.com/2017/04/img_20170419_142615.jpg)

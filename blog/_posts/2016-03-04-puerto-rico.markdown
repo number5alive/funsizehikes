@@ -16,7 +16,7 @@ tagimg: 'https://eloiserobbins.files.wordpress.com/2016/03/image10.jpeg'
 ![image](https://eloiserobbins.files.wordpress.com/2016/03/image.jpeg)
 
 
-[![](https://eloiserobbins.files.wordpress.com/2016/03/image10.jpeg)](https://eloiserobbins.files.wordpress.com/2016/03/image10.jpeg)
+![puerto-rico](https://eloiserobbins.files.wordpress.com/2016/03/image10.jpeg)
 ![image](https://eloiserobbins.files.wordpress.com/2016/03/image.jpeg)
 
 Piecing together my flight home was like solving Jig saw puzzle. Norwegian would only fly to certain US cities and they would not connect with any US airlines. I'd need a layover somewhere of at least 12 hours, and if I was going to have to go through security anyway, it might as well be somewhere I wanted to visit so I could leave the airport.

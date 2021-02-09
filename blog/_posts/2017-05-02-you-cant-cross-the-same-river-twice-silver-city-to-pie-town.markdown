@@ -15,7 +15,7 @@ tagimg: 'https://eloiserobbins.files.wordpress.com/2017/05/img_20170422_181656.j
 We road walk out of Silver City in the heat. At a campground, Shake n Bake Yogi's water at a children's birthday party. We climb and drop, watching the landscape change. Sandstone hoodoos, like the ones at Bryce Canyon, rise out of the scrub. It's not quite time to stop yet, but we can't resist the view. We scramble up a spire and sit, watching the sunset.
 
 
-[![](https://eloiserobbins.files.wordpress.com/2017/05/img_20170422_181656.jpg)](https://eloiserobbins.files.wordpress.com/2017/05/img_20170422_181656.jpg)
+![you-cant-cross-the-same-river-twice-silver-city-to-pie-town](https://eloiserobbins.files.wordpress.com/2017/05/img_20170422_181656.jpg)
 We road walk out of Silver City in the heat. At a campground, Shake n Bake Yogi's water at a children's birthday party. We climb and drop, watching the landscape change. Sandstone hoodoos, like the ones at Bryce Canyon, rise out of the scrub. It's not quite time to stop yet, but we can't resist the view. We scramble up a spire and sit, watching the sunset.
 
 ![IMG_20170422_191924](https://eloiserobbins.files.wordpress.com/2017/05/img_20170422_191924.jpg)

@@ -15,7 +15,7 @@ tagimg: 'https://eloiserobbins.files.wordpress.com/2016/01/image.jpeg'
 I've heard bad things about Paris, even before the terrorist attacks. It's dirty. It's smelly. The people are rude. As I get on the plane, I'm a little worried I've picked a bad first destination. Never mind all of the horrific events that we missed while we were on the river.
 
 
-[![](https://eloiserobbins.files.wordpress.com/2016/01/image.jpeg)](https://eloiserobbins.files.wordpress.com/2016/01/image.jpeg)
+![paris](https://eloiserobbins.files.wordpress.com/2016/01/image.jpeg)
 I've heard bad things about Paris, even before the terrorist attacks. It's dirty. It's smelly. The people are rude. As I get on the plane, I'm a little worried I've picked a bad first destination. Never mind all of the horrific events that we missed while we were on the river.
 
 ![image](https://eloiserobbins.files.wordpress.com/2016/01/image2.jpeg)

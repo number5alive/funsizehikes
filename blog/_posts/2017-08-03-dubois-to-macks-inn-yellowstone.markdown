@@ -15,7 +15,7 @@ tagimg: 'https://eloiserobbins.files.wordpress.com/2017/08/img_20170802_183636_0
 There are so many hikers in Dubois. Seven of us and a southbounder roll in. I am the only woman, but I'm still happy to be with so many others. We go to the bar- someone has bought shots for hikers and Wild land, who doesn't drink, hands me his. The Brits keep buying beers and soon I am the drunkest I've been so far on the trail. We stay up late chatting and in the morning, I feel like death.
 
 
-[![](https://eloiserobbins.files.wordpress.com/2017/08/img_20170802_183636_021.jpg)](https://eloiserobbins.files.wordpress.com/2017/08/img_20170802_183636_021.jpg)
+![dubois-to-macks-inn-yellowstone](https://eloiserobbins.files.wordpress.com/2017/08/img_20170802_183636_021.jpg)
 There are so many hikers in Dubois. Seven of us and a southbounder roll in. I am the only woman, but I'm still happy to be with so many others. We go to the bar- someone has bought shots for hikers and Wild land, who doesn't drink, hands me his. The Brits keep buying beers and soon I am the drunkest I've been so far on the trail. We stay up late chatting and in the morning, I feel like death.
 
 I chug coffees and Gatorade and still feel awful. I have to call the Yellowstone permit office and it takes forever, first for the lady to assign campsites and then for her to email me my permit. We rush out of town, as the thunderstorms build. 13 miles go by fast and By the time we reach the highway, the entire sky is black. We hitch two rides back to town, even though we had intended to continue. Our second ride is Billy Snodgrass, an Iditarod musher. I feel a little guilty about bailing, but when a huge thunderstorm pounds town at 3am, I'm very glad to be inside.

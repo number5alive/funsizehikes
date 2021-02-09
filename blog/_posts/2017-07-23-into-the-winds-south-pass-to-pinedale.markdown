@@ -15,7 +15,7 @@ tagimg: 'https://eloiserobbins.files.wordpress.com/2017/07/img_20170722_161213_2
 Lightning flashes all night, but I sleep well despite it. In the morning, neither Wild Land nor I feel like hiking. There's water and shade everywhere: a luxury after the basin. We've been pushing big miles too and our bodies are telling us to slow down.
 
 
-[![](https://eloiserobbins.files.wordpress.com/2017/07/img_20170722_161213_235.jpg)](https://eloiserobbins.files.wordpress.com/2017/07/img_20170722_161213_235.jpg)
+![into-the-winds-south-pass-to-pinedale](https://eloiserobbins.files.wordpress.com/2017/07/img_20170722_161213_235.jpg)
 Lightning flashes all night, but I sleep well despite it. In the morning, neither Wild Land nor I feel like hiking. There's water and shade everywhere: a luxury after the basin. We've been pushing big miles too and our bodies are telling us to slow down.
 
 ![](/storage/5D7C-6FFD/DCIM/Camera/20170720_082701.jpg)

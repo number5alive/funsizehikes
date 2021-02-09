@@ -17,20 +17,20 @@ tagimg: 'https://eloiserobbins.files.wordpress.com/2017/07/20170713_1746581.jpg'
 We zero in Rawlins, eating food, bumping into other hikers, and watching bad movies. I ice my feet, stretch and eat kale- all the things I should do on trail but never do. In the morning, we get a late start. It's 8am by the time we leave and it's already roasting. Right out of town, Wild Land asks to borrow one of my trekking poles. He's  talked about eating rattlesnake, since he normally supplements his diet on trail with fish, and I'm curious to try it.
 
 
-[![](https://eloiserobbins.files.wordpress.com/2017/07/20170713_1746581.jpg)](https://eloiserobbins.files.wordpress.com/2017/07/20170713_1746581.jpg)
+![rawlins-to-south-pass](https://eloiserobbins.files.wordpress.com/2017/07/20170713_1746581.jpg)
 We zero in Rawlins, eating food, bumping into other hikers, and watching bad movies. I ice my feet, stretch and eat kale- all the things I should do on trail but never do. In the morning, we get a late start. It's 8am by the time we leave and it's already roasting. Right out of town, Wild Land asks to borrow one of my trekking poles. He's  talked about eating rattlesnake, since he normally supplements his diet on trail with fish, and I'm curious to try it.
 
-[![](https://eloiserobbins.files.wordpress.com/2017/07/20170713_1054441.jpg)](https://eloiserobbins.files.wordpress.com/2017/07/20170713_1054441.jpg)
+![rawlins-to-south-pass](https://eloiserobbins.files.wordpress.com/2017/07/20170713_1054441.jpg)
 Wild Land almost steps on the first snake, a baby, that slithers between us. He spends the next half hour jumping at the crickets that hiss when they fly away. I'm a bad person, so I laugh so hard I almost pee myself and have to stop to make sure I don't. I see Wild Land stop up ahead and back away, a sure sign he's found a snake. Then THWACK! My trekking pole hits the snake, breaking it's neck. Soon it is decapitated, skinned and gutted and we're hiking on.
-[![](https://eloiserobbins.files.wordpress.com/2017/07/20170713_0959151.jpg)](https://eloiserobbins.files.wordpress.com/2017/07/20170713_0959151.jpg)
+![rawlins-to-south-pass](https://eloiserobbins.files.wordpress.com/2017/07/20170713_0959151.jpg)
 I picked up a $3 umbrella and I quickly fall in love. As a hat hater, it gives me shade and drops the temperature. I'm still sweating as we go along, but it's more bearable. 
-[![](https://eloiserobbins.files.wordpress.com/2017/07/20170713_124631.jpg)](https://eloiserobbins.files.wordpress.com/2017/07/20170713_124631.jpg)
+![rawlins-to-south-pass](https://eloiserobbins.files.wordpress.com/2017/07/20170713_124631.jpg)
 We stop under some rare trees for lunch. I nap fitfully while Wild Land cooks the snake. He hands me a strip when it's done. It tastes like stringy chicken, but stringy in a good way, like string cheese. 
-[![](https://eloiserobbins.files.wordpress.com/2017/07/20170713_160149.jpg)](https://eloiserobbins.files.wordpress.com/2017/07/20170713_160149.jpg)
+![rawlins-to-south-pass](https://eloiserobbins.files.wordpress.com/2017/07/20170713_160149.jpg)
 We meet Navi as we're walking along a highway. It soon turns into dirt road. I put on the Sexy Butt Sexy Legs playlist Chips and Guac sent me and dance along. Wild Land looks at me and tries not to laugh. It's hot, my water tastes like frog pee, but the basin isn't bad so far. We camp at a spring 28 miles from town. I cowboy for the first time since new mexico.
-[![](https://eloiserobbins.files.wordpress.com/2017/07/20170713_180725.jpg)](https://eloiserobbins.files.wordpress.com/2017/07/20170713_180725.jpg)
+![rawlins-to-south-pass](https://eloiserobbins.files.wordpress.com/2017/07/20170713_180725.jpg)
 It is instantly hot in the morning. It's also extremely flat and boring. I watch Elk and Pronghorn and Wild horses run. We do 15 before noon where there's a resevoir. Navi, Wild Land and I all jump in. Storm clouds build during our lunch and by the time we're leaving, thunder rolls loud and low.
-[![](https://eloiserobbins.files.wordpress.com/2017/07/20170714_175008.jpg)](https://eloiserobbins.files.wordpress.com/2017/07/20170714_175008.jpg)
+![rawlins-to-south-pass](https://eloiserobbins.files.wordpress.com/2017/07/20170714_175008.jpg)
 You might have guessed I'm scared of thunderstorms by now and a storm in the basin is my worst nightmare. There is no where to hide, no low route to take. We're in and out of rain, setting up my tarp to ride out the worst of it. Wild Land names the two competing storms in An effort to distract me and I construct an epic romance for them.
 The storms clear enough for us to continue, although we are still surrounded on all sides. We reach a spring, where two wild horses come to check us out. And a few miles past that, somewhere out of the sage brush to call home for the night. 
 The wind whips up at dark. It switches direction and my tarp billows like a sail before pegs fly in every direction. I rip it down and watch clouds race overhead. Lightening flashes on every horizon, bright enough I can see it with my eyes closed.

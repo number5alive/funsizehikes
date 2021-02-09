@@ -15,7 +15,7 @@ tagimg: 'https://eloiserobbins.files.wordpress.com/2017/06/img_20170607_063434.j
 Salida is cute and artsy and I'm half in love with it just because it's not the CDT. My hitch drops me at the hostel and I do my chores. They have a scale and I weigh myself. I'm down 11 pounds already- my entire buffer of extra weight that I worked so hard to put on is gone. So out I go and I eat and eat and eat.
 
 
-[![](https://eloiserobbins.files.wordpress.com/2017/06/img_20170607_063434.jpg)](https://eloiserobbins.files.wordpress.com/2017/06/img_20170607_063434.jpg)
+![salida-to-leadville](https://eloiserobbins.files.wordpress.com/2017/06/img_20170607_063434.jpg)
 Salida is cute and artsy and I'm half in love with it just because it's not the CDT. My hitch drops me at the hostel and I do my chores. They have a scale and I weigh myself. I'm down 11 pounds already- my entire buffer of extra weight that I worked so hard to put on is gone. So out I go and I eat and eat and eat.
 
 ![IMG_20170611_073301](https://eloiserobbins.files.wordpress.com/2017/06/img_20170611_073301.jpg)

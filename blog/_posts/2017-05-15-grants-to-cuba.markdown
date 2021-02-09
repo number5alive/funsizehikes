@@ -15,7 +15,7 @@ tagimg: 'https://eloiserobbins.files.wordpress.com/2017/05/img_20170511_130106.j
 I stay in Grants for far too long. A months worth of phone and internet chores, including replacing a bank card that my bank decided to replace two days after I left, keeps me occupied for a day and a half. By that point, a storm is rolling in. I sit in my motel room watching tornado warnings roll across my screen.
 
 
-[![](https://eloiserobbins.files.wordpress.com/2017/05/img_20170511_130106.jpg)](https://eloiserobbins.files.wordpress.com/2017/05/img_20170511_130106.jpg)
+![grants-to-cuba](https://eloiserobbins.files.wordpress.com/2017/05/img_20170511_130106.jpg)
 I stay in Grants for far too long. A months worth of phone and internet chores, including replacing a bank card that my bank decided to replace two days after I left, keeps me occupied for a day and a half. By that point, a storm is rolling in. I sit in my motel room watching tornado warnings roll across my screen.
 
 I head out in the tail end of the storm. Thunderclouds roll black across the sky. I road walk for six miles and then eat lunch at the trailhead. It starts to rain, so I string up my tarp. Then I am cold, so I unroll my sleeping bag. Before I know it, I wake up three hours later. The CDT has already left me tired to my bones.

@@ -17,7 +17,7 @@ tagimg: 'https://eloiserobbins.files.wordpress.com/2017/05/img_20170504_174649.j
 Pie Town is full of characters. We're sitting on the porch of the Toaster House drinking beer when a man stops by. He tells us his wife is cooking stir fry and we should come over. Ten people have trickled into town by now, and we round them up and head over. Jeremy and Jennifer cook us dinner and play guitar and sing for us. Nita, the Toaster House owner stops by and says hello. For some reason, trail angel interactions on the CDT feel much more genuine. Maybe they are less burned out by the sheer number of hikers.
 
 
-[![](https://eloiserobbins.files.wordpress.com/2017/05/img_20170504_174649.jpg)](https://eloiserobbins.files.wordpress.com/2017/05/img_20170504_174649.jpg)
+![pie-town-to-grants](https://eloiserobbins.files.wordpress.com/2017/05/img_20170504_174649.jpg)
 Pie Town is full of characters. We're sitting on the porch of the Toaster House drinking beer when a man stops by. He tells us his wife is cooking stir fry and we should come over. Ten people have trickled into town by now, and we round them up and head over. Jeremy and Jennifer cook us dinner and play guitar and sing for us. Nita, the Toaster House owner stops by and says hello. For some reason, trail angel interactions on the CDT feel much more genuine. Maybe they are less burned out by the sheer number of hikers.
 
 ![IMG_20170503_093637](https://eloiserobbins.files.wordpress.com/2017/05/img_20170503_093637.jpg)

@@ -15,7 +15,7 @@ tagimg: 'https://eloiserobbins.files.wordpress.com/2017/05/img_20170517_115625.j
 I roll into Cuba with Tennesteve. It doesn't take long before other hikers follow. Everyone was right behind me the whole time! I go to dinner with Tennesteve, Hurricane, Thunder and Snow. Snow is a woman, and as always I am super excited to hang out with other ladies!
 
 
-[![](https://eloiserobbins.files.wordpress.com/2017/05/img_20170517_115625.jpg)](https://eloiserobbins.files.wordpress.com/2017/05/img_20170517_115625.jpg)
+![cuba-to-ghost-ranch](https://eloiserobbins.files.wordpress.com/2017/05/img_20170517_115625.jpg)
 I roll into Cuba with Tennesteve. It doesn't take long before other hikers follow. Everyone was right behind me the whole time! I go to dinner with Tennesteve, Hurricane, Thunder and Snow. Snow is a woman, and as always I am super excited to hang out with other ladies!
 
 ![IMG_20170517_103827](https://eloiserobbins.files.wordpress.com/2017/05/img_20170517_103827.jpg)

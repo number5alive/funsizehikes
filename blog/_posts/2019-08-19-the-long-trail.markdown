@@ -15,7 +15,7 @@ tagimg: 'https://eloiserobbins.files.wordpress.com/2019/08/p_20190804_070508_vhd
 Shake n Bake drops me off at the trailhead for the long trail. It's only 2 miles on a side trail to the start, but I stop at the shelter a mile in. So much has happened in the past few weeks that I want a night to process. Physically, I'm ready to hike, but I need to let my emotions settle first.
 
 
-[![](https://eloiserobbins.files.wordpress.com/2019/08/p_20190804_070508_vhdr_auto_hp2552120280468959516.jpg)](https://eloiserobbins.files.wordpress.com/2019/08/p_20190804_070508_vhdr_auto_hp2552120280468959516.jpg)
+![the-long-trail](https://eloiserobbins.files.wordpress.com/2019/08/p_20190804_070508_vhdr_auto_hp2552120280468959516.jpg)
 Shake n Bake drops me off at the trailhead for the long trail. It's only 2 miles on a side trail to the start, but I stop at the shelter a mile in. So much has happened in the past few weeks that I want a night to process. Physically, I'm ready to hike, but I need to let my emotions settle first.
 
 ![](https://eloiserobbins.files.wordpress.com/2019/08/p_20190804_070925_vhdr_auto_hp5738221002912883052.jpg)

@@ -15,7 +15,7 @@ tagimg: 'https://eloiserobbins.files.wordpress.com/2016/02/image1.jpeg'
 Even when you're traveling solo, seldom are you truly alone. Throughout my trip I've met people in hostels, in classes, in bars. Whether it's a conversation for a few minutes, or a continuation of a ten year friendship, you will meet people. So even if you are on your own, it is difficult to ever be lonely.
 
 
-[![](https://eloiserobbins.files.wordpress.com/2016/02/image1.jpeg)](https://eloiserobbins.files.wordpress.com/2016/02/image1.jpeg)
+![roma](https://eloiserobbins.files.wordpress.com/2016/02/image1.jpeg)
 Even when you're traveling solo, seldom are you truly alone. Throughout my trip I've met people in hostels, in classes, in bars. Whether it's a conversation for a few minutes, or a continuation of a ten year friendship, you will meet people. So even if you are on your own, it is difficult to ever be lonely.
 
 ![image](https://eloiserobbins.files.wordpress.com/2016/02/image2.jpeg)

@@ -15,7 +15,7 @@ tagimg: 'https://eloiserobbins.files.wordpress.com/2019/08/p_20190819_163606_vhd
 I get a room at the inn at the long trail. I shower and do laundry, which I haven't done in two weeks, charge my almost dead electronics, and, most importantly, talk to Shake n Bake. Talking to him helps, but when I head out in the morning after breakfast, that hollow pool of missing him builds inside my heart again.
 
 
-[![](https://eloiserobbins.files.wordpress.com/2019/08/p_20190819_163606_vhdr_auto6953127007732163901.jpg)](https://eloiserobbins.files.wordpress.com/2019/08/p_20190819_163606_vhdr_auto6953127007732163901.jpg)
+![long-trail-part-two](https://eloiserobbins.files.wordpress.com/2019/08/p_20190819_163606_vhdr_auto6953127007732163901.jpg)
 I get a room at the inn at the long trail. I shower and do laundry, which I haven't done in two weeks, charge my almost dead electronics, and, most importantly, talk to Shake n Bake. Talking to him helps, but when I head out in the morning after breakfast, that hollow pool of missing him builds inside my heart again.
 
 ![](https://eloiserobbins.files.wordpress.com/2019/08/p_20190820_112259_vhdr_auto_hp8161453390831152584.jpg)

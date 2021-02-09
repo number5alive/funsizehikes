@@ -15,7 +15,7 @@ tagimg: 'https://eloiserobbins.files.wordpress.com/2017/04/img_20170414_1047462.
 The first 80 miles of desert are brutal. There's no water. No shade. Half the time, there's no trail and we connect posts cross country. Everything has spikes. By day two, a thousand tiny cuts crisscross my legs. Everything hurts.
 
 
-[![](https://eloiserobbins.files.wordpress.com/2017/04/img_20170414_1047462.jpg)](https://eloiserobbins.files.wordpress.com/2017/04/img_20170414_1047462.jpg)
+![back-to-the-start](https://eloiserobbins.files.wordpress.com/2017/04/img_20170414_1047462.jpg)
 The first 80 miles of desert are brutal. There's no water. No shade. Half the time, there's no trail and we connect posts cross country. Everything has spikes. By day two, a thousand tiny cuts crisscross my legs. Everything hurts.
 
 ![IMG_20170417_105318](https://eloiserobbins.files.wordpress.com/2017/04/img_20170417_105318.jpg)

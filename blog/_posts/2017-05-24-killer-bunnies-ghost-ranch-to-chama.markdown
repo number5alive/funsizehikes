@@ -15,7 +15,7 @@ tagimg: 'https://eloiserobbins.files.wordpress.com/2017/05/img_20170519_151534.j
 I plan on heading out of Ghost Ranch before dark, but Thunder and Snow have a room and we pile on in. I eat breakfast and lunch and then am so full I can barely move. There are a lot of calories to replace. Ghost Ranch is not what I expected. It's a strange, hippy, artsy place. Georgia O'Keefe spent a lot of time here and now other artists follow in her footsteps. Still, artists are a nice crowd and everyone seems genuinely interested in what we are doing. Ghost Ranch is also where a lot of dinosaur fossils were found and I spend a few hours exploring the museum here.
 
 
-[![](https://eloiserobbins.files.wordpress.com/2017/05/img_20170519_151534.jpg)](https://eloiserobbins.files.wordpress.com/2017/05/img_20170519_151534.jpg)
+![killer-bunnies-ghost-ranch-to-chama](https://eloiserobbins.files.wordpress.com/2017/05/img_20170519_151534.jpg)
 I plan on heading out of Ghost Ranch before dark, but Thunder and Snow have a room and we pile on in. I eat breakfast and lunch and then am so full I can barely move. There are a lot of calories to replace. Ghost Ranch is not what I expected. It's a strange, hippy, artsy place. Georgia O'Keefe spent a lot of time here and now other artists follow in her footsteps. Still, artists are a nice crowd and everyone seems genuinely interested in what we are doing. Ghost Ranch is also where a lot of dinosaur fossils were found and I spend a few hours exploring the museum here.
 
 ![IMG_20170520_094602](https://eloiserobbins.files.wordpress.com/2017/05/img_20170520_094602.jpg)

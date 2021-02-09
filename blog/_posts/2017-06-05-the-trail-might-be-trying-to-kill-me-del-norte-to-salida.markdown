@@ -15,7 +15,7 @@ tagimg: 'https://eloiserobbins.files.wordpress.com/2017/06/img_20170601_105752.j
 I zero in a cute little hostel in Del Norte. No one else shows up, so I have the entire house to myself for two nights. I eat and sleep and try and take care of myself.
 
 
-[![](https://eloiserobbins.files.wordpress.com/2017/06/img_20170601_105752.jpg)](https://eloiserobbins.files.wordpress.com/2017/06/img_20170601_105752.jpg)
+![the-trail-might-be-trying-to-kill-me-del-norte-to-salida](https://eloiserobbins.files.wordpress.com/2017/06/img_20170601_105752.jpg)
 I zero in a cute little hostel in Del Norte. No one else shows up, so I have the entire house to myself for two nights. I eat and sleep and try and take care of myself.
 
 The weather forecast has changed overnight. I eat breakfast and then head out. The sky is black and angry and I run from one storm and then another. Somehow I dodge the rain, although I can't see the other side of the San Luis valley and the Sangre de Christos as it's raining so hard. I hike hard and hit a canyon before dark, which I hope will shelter me a little.
