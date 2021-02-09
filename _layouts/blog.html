@@ -8,8 +8,20 @@ layout: withbanner
   {% endfor %}
 </h1>
 
-<div class="blog">
-{{ content | remove_first:page.excerpt }}
+{% if page.wordpress_id %}
+<div class="container-fluid mb-2 p-0">
+  <p class="text-center fst-italic text-muted m-0 p-0 fs-6">
+This post was written in my sleeping bag at the end of a long day. Please excuse any errors.
+  </p>
+</div>
+{% endif %}
+
+<div class="blog p-5 row">
+  <div class="col-lg-2"></div>
+  <div class="col">
+    {{ content | remove_first:page.excerpt }}
+  </div>
+  <div class="col-lg-2"></div>
 </div>
 
 <div class="container py-3">
