@@ -8,7 +8,7 @@ slug: reds-meadow-to-tahoe
 title: Red's Meadow to Tahoe
 wordpress_id: 426
 tags:
-- Pacific Crest Trail
+- PCT
 tagimg: 'http://eloiserobbins.files.wordpress.com/2016/07/wp-image-348453703jpg.jpg'
 ---
 

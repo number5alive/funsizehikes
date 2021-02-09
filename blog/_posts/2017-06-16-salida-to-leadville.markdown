@@ -8,7 +8,7 @@ slug: salida-to-leadville
 title: Salida to Leadville
 wordpress_id: 933
 tags:
-- Continental Divide Trail
+- CDT
 tagimg: 'https://eloiserobbins.files.wordpress.com/2017/06/img_20170607_063434.jpg'
 ---
 

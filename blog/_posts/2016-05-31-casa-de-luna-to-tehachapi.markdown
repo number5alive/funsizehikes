@@ -8,7 +8,7 @@ slug: casa-de-luna-to-tehachapi
 title: Casa de Luna to Tehachapi.
 wordpress_id: 365
 tags:
-- Pacific Crest Trail
+- PCT
 tagimg: 'http://eloiserobbins.files.wordpress.com/2016/05/wp-14646162030401.jpg'
 ---
 

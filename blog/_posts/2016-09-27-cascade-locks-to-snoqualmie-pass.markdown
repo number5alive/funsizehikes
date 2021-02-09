@@ -8,7 +8,7 @@ slug: cascade-locks-to-snoqualmie-pass
 title: Cascade Locks to Snoqualmie Pass
 wordpress_id: 511
 tags:
-- Pacific Crest Trail
+- PCT
 tagimg: 'http://eloiserobbins.files.wordpress.com/2016/09/wp-image-56751203jpg.jpg'
 ---
 

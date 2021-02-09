@@ -8,7 +8,7 @@ slug: killer-bunnies-ghost-ranch-to-chama
 title: Killer Bunnies- Ghost Ranch to Chama
 wordpress_id: 835
 tags:
-- Continental Divide Trail
+- CDT
 tagimg: 'https://eloiserobbins.files.wordpress.com/2017/05/img_20170519_151534.jpg'
 ---
 

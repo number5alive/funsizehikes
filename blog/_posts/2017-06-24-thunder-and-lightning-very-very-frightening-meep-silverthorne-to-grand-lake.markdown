@@ -8,7 +8,7 @@ slug: thunder-and-lightning-very-very-frightening-meep-silverthorne-to-grand-lak
 title: Thunder and lightning, very very frightening- meep! Silverthorne to Grand Lake
 wordpress_id: 979
 tags:
-- Continental Divide Trail
+- CDT
 tagimg: 'https://eloiserobbins.files.wordpress.com/2017/06/img_20170619_1317311.jpg'
 ---
 

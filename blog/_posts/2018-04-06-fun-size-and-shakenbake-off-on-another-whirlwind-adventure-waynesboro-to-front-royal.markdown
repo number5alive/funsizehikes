@@ -9,7 +9,7 @@ title: 'Fun Size and Shake''nBake, off on another whirlwind adventure: Waynesbor
   to Front Royal'
 wordpress_id: 1474
 tags:
-- Appalachian Trail
+- AT
 tagimg: 'https://eloiserobbins.files.wordpress.com/2018/04/20180405_143006.jpg'
 ---
 

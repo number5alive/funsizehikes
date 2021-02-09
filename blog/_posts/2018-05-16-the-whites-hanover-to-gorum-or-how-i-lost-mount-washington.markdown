@@ -8,7 +8,7 @@ slug: the-whites-hanover-to-gorum-or-how-i-lost-mount-washington
 title: 'The Whites: Hanover to Gorum (or how I lost Mount Washington)'
 wordpress_id: 1578
 tags:
-- Appalachian Trail
+- AT
 tagimg: 'https://eloiserobbins.files.wordpress.com/2018/05/20180517_171032.jpg'
 ---
 

@@ -8,7 +8,7 @@ slug: kearsarge-to-reds-meadow
 title: Kearsarge to Red's Meadow.
 wordpress_id: 411
 tags:
-- Pacific Crest Trail
+- PCT
 tagimg: 'http://eloiserobbins.files.wordpress.com/2016/06/img_20160623_161320.jpg'
 ---
 

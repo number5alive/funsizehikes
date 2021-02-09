@@ -8,7 +8,7 @@ slug: roma
 title: Roma
 wordpress_id: 189
 tags:
-- Travel
+- travel
 tagimg: 'https://eloiserobbins.files.wordpress.com/2016/02/image1.jpeg'
 ---
 

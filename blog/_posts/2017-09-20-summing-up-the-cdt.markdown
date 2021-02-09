@@ -8,7 +8,7 @@ slug: summing-up-the-cdt
 title: Summing up the CDT
 wordpress_id: 1207
 tags:
-- Continental Divide Trail
+- CDT
 tagimg: 'https://eloiserobbins.files.wordpress.com/2017/06/img_20170605_145010_975.jpg'
 ---
 

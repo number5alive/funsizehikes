@@ -1,6 +1,6 @@
 ---
 layout: blogcategory
 title: Long Trail Posts
-filter: 'Long Trail'
+filter: LT
 permalink: blog/lt
 ---

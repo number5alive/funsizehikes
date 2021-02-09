@@ -8,7 +8,7 @@ slug: pinedale-to-dubois
 title: Pinedale to Dubois
 wordpress_id: 1067
 tags:
-- Continental Divide Trail
+- CDT
 tagimg: 'https://eloiserobbins.files.wordpress.com/2017/07/20170724_195953.jpg'
 ---
 

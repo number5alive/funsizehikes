@@ -8,7 +8,7 @@ slug: hostel-hopping-erwin-to-watuaga-lake
 title: Hostel hopping- Erwin to Watuaga Lake
 wordpress_id: 1378
 tags:
-- Appalachian Trail
+- AT
 tagimg: 'https://eloiserobbins.files.wordpress.com/2018/03/20180302_075036.jpg'
 ---
 

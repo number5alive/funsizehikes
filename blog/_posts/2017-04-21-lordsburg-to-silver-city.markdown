@@ -8,7 +8,7 @@ slug: lordsburg-to-silver-city
 title: Lordsburg to Silver City
 wordpress_id: 679
 tags:
-- Continental Divide Trail
+- CDT
 tagimg: 'https://eloiserobbins.files.wordpress.com/2017/04/img_20170419_091718.jpg'
 ---
 

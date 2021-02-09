@@ -1,50 +1,55 @@
 - name: PCT
   description: Pacific Crest Trail
-  bgcolor: '#a89ea8'
+  bgcolor: '#d1cfd1'
   fgcolor: black
 
 - name: CDT
   description: Continental Divide Trail
-  bgcolor: '#a89ea8'
+  bgcolor: '#d1cfd1'
   fgcolor: black
 
 - name: AT
   description: Appalachian Trail
-  bgcolor: '#a89ea8'
+  bgcolor: '#d1cfd1'
   fgcolor: black
 
 - name: LT
   description: Long Trail
-  bgcolor: '#a89ea8'
+  bgcolor: '#d1cfd1'
   fgcolor: black
 
 - name: GDT
   description: Great Divide Trail
-  bgcolor: '#a89ea8'
+  bgcolor: '#d1cfd1'
   fgcolor: black
 
 - name: tips
-  description: Outdoor Tips
-  bgcolor: lightblue
+  description: Tips
+  bgcolor: '#a277a3'
   fgcolor: black
 
 - name: gear
   description: Gear Lists
-  bgcolor: lightblue
+  bgcolor: '#a277a3'
   fgcolor: black
 
 - name: stories
-  description: Stories from Adventures
-  bgcolor: lightblue
+  description: Stories
+  bgcolor: '#a277a3'
   fgcolor: black
 
 - name: canoeing
-  description: Canoeing Adventures
-  bgcolor: lightblue
+  description: Canoeing
+  bgcolor: '#a277a3'
   fgcolor: black
 
 - name: hiking
-  description: Hiking Adventures
-  bgcolor: lightblue
+  description: Hiking
+  bgcolor: '#a277a3'
+  fgcolor: black
+
+- name: travel
+  description: Travel
+  bgcolor: '#a277a3'
   fgcolor: black
 

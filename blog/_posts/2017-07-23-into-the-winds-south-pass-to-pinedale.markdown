@@ -8,7 +8,7 @@ slug: into-the-winds-south-pass-to-pinedale
 title: Into the Winds- South Pass to Pinedale
 wordpress_id: 1053
 tags:
-- Continental Divide Trail
+- CDT
 tagimg: 'https://eloiserobbins.files.wordpress.com/2017/07/img_20170722_161213_235.jpg'
 ---
 

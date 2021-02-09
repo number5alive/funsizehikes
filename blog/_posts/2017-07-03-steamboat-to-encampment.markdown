@@ -8,7 +8,7 @@ slug: steamboat-to-encampment
 title: Steamboat to Encampment
 wordpress_id: 1007
 tags:
-- Continental Divide Trail
+- CDT
 tagimg: 'https://eloiserobbins.files.wordpress.com/2017/07/20170704_075535.jpg'
 ---
 

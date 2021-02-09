@@ -8,7 +8,7 @@ slug: campo-to-mile-77
 title: Campo to Mile 77
 wordpress_id: 272
 tags:
-- Pacific Crest Trail
+- PCT
 tagimg: 'http://eloiserobbins.files.wordpress.com/2016/04/wp-1461637835251.jpg'
 ---
 

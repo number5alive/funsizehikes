@@ -8,7 +8,7 @@ slug: before
 title: Before.
 wordpress_id: 595
 tags:
-- Continental Divide Trail
+- CDT
 tagimg: 'http://eloiserobbins.files.wordpress.com/2017/02/wp-image-937220953jpg.jpg'
 ---
 

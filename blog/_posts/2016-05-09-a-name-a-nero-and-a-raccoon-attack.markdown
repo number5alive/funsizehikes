@@ -8,7 +8,7 @@ slug: a-name-a-nero-and-a-raccoon-attack
 title: A name, a Nero and a raccoon attack.
 wordpress_id: 306
 tags:
-- Pacific Crest Trail
+- PCT
 tagimg: 'http://eloiserobbins.files.wordpress.com/2016/05/wp-1462728539141.jpg'
 ---
 

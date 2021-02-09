@@ -8,7 +8,7 @@ slug: kennedy-meadows-to-kearsarge-pass
 title: Kennedy Meadows to Kearsarge Pass
 wordpress_id: 395
 tags:
-- Pacific Crest Trail
+- PCT
 tagimg: 'http://eloiserobbins.files.wordpress.com/2016/06/wp-1466348699011.jpg'
 ---
 

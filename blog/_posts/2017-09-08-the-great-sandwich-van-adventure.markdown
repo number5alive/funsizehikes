@@ -8,7 +8,7 @@ slug: the-great-sandwich-van-adventure
 title: The great Sandwich Van adventure
 wordpress_id: 1191
 tags:
-- Continental Divide Trail
+- CDT
 tagimg: 'https://eloiserobbins.files.wordpress.com/2017/09/20170905_103349.jpg'
 ---
 

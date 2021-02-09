@@ -1,10 +1,12 @@
+{% assign displayname=include.tag %}
 {% assign tooltip="" %}
 {% for ptag in site.data.tags %}
   {% if ptag.name == include.tag %}
     {% assign tooltip="bs-data-toggle='tooltip' data-bs-placement='top' title='" | append: ptag.description | append: "'" %}
+    {% assign displayname=ptag.description %}
   {% endif %}
 {% endfor %}
-<span class="badge rounded-pill tagfmt tagfmt-{{include.tag}}" {{tooltip}}>{{include.tag}}</span>
+<span class="badge rounded-pill tagfmt tagfmt-{{include.tag}}" {{tooltip}}>{{displayname}}</span>
 {% unless pagehasscript %}
   <script>
     var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'))

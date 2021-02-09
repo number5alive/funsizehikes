@@ -8,7 +8,7 @@ slug: tehachapi-to-kennedy-meadows
 title: Tehachapi to Kennedy Meadows
 wordpress_id: 379
 tags:
-- Pacific Crest Trail
+- PCT
 tagimg: 'http://eloiserobbins.files.wordpress.com/2016/06/wp-1464973401284.jpg'
 ---
 

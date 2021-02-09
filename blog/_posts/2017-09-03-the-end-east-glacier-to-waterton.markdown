@@ -8,7 +8,7 @@ slug: the-end-east-glacier-to-waterton
 title: The End. (East Glacier to Waterton )
 wordpress_id: 1177
 tags:
-- Continental Divide Trail
+- CDT
 tagimg: 'https://eloiserobbins.files.wordpress.com/2017/09/20170829_131853.jpg'
 ---
 

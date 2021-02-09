@@ -8,7 +8,7 @@ slug: wrightwood-to-casa-de-luna
 title: Wrightwood to Casa de Luna
 wordpress_id: 346
 tags:
-- Pacific Crest Trail
+- PCT
 tagimg: 'http://eloiserobbins.files.wordpress.com/2016/05/wp-14641000071961.jpg'
 ---
 

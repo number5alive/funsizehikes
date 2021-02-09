@@ -8,7 +8,7 @@ slug: gearing-up-for-something-big
 title: Gearing up for something big
 wordpress_id: 260
 tags:
-- Pacific Crest Trail
+- PCT
 tagimg: 'https://eloiserobbins.files.wordpress.com/2016/03/dsc_9559-1.jpg'
 ---
 

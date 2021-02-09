@@ -8,7 +8,7 @@ slug: the-beginning-amicalola-to-hiawassee
 title: The beginning (Amicalola to Hiawassee)
 wordpress_id: 1307
 tags:
-- Appalachian Trail
+- AT
 tagimg: 'https://eloiserobbins.files.wordpress.com/2018/02/20180203_092924.jpg'
 ---
 

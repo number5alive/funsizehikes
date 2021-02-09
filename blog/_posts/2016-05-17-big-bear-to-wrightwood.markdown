@@ -8,7 +8,7 @@ slug: big-bear-to-wrightwood
 title: Big Bear to Wrightwood
 wordpress_id: 327
 tags:
-- Pacific Crest Trail
+- PCT
 tagimg: 'http://eloiserobbins.files.wordpress.com/2016/05/wp-1463335371624.jpg'
 ---
 

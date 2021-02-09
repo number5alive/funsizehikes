@@ -11,7 +11,7 @@ tags:
 - Grand Canyon
 - Rafting
 - South West
-- Travel
+- travel
 tagimg: 'https://eloiserobbins.files.wordpress.com/2015/10/fullsizerender-2.jpg?w=300'
 ---
 

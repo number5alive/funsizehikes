@@ -8,7 +8,7 @@ slug: san-jacinto
 title: San Jacinto
 wordpress_id: 295
 tags:
-- Pacific Crest Trail
+- PCT
 tagimg: 'http://eloiserobbins.files.wordpress.com/2016/05/wp-14625779249381.jpg'
 ---
 

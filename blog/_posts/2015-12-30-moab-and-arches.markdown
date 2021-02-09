@@ -9,7 +9,7 @@ title: Moab and Arches
 wordpress_id: 116
 tags:
 - South West
-- Travel
+- travel
 tagimg: 'https://eloiserobbins.files.wordpress.com/2015/12/image18.jpeg'
 ---
 

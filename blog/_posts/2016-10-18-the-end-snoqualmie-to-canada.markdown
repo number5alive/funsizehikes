@@ -8,7 +8,7 @@ slug: the-end-snoqualmie-to-canada
 title: The end (Snoqualmie to Canada)
 wordpress_id: 538
 tags:
-- Pacific Crest Trail
+- PCT
 tagimg: 'http://eloiserobbins.files.wordpress.com/2016/10/wp-image-82706162jpg.jpg'
 ---
 

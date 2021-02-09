@@ -8,7 +8,7 @@ slug: skunks-and-snow-watuaga-lake-to-massie-gap
 title: 'Skunks and Snow: Watuaga Lake to Massie Gap'
 wordpress_id: 1379
 tags:
-- Appalachian Trail
+- AT
 tagimg: 'https://eloiserobbins.files.wordpress.com/2018/03/20180307_082528.jpg'
 ---
 

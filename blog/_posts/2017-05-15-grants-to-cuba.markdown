@@ -8,7 +8,7 @@ slug: grants-to-cuba
 title: Grants to Cuba
 wordpress_id: 758
 tags:
-- Continental Divide Trail
+- CDT
 tagimg: 'https://eloiserobbins.files.wordpress.com/2017/05/img_20170511_130106.jpg'
 ---
 

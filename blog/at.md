@@ -1,6 +1,6 @@
 ---
 layout: blogcategory
 title: Appalachian Trail Blog
-filter: 'Appalachian Trail'
+filter: AT
 permalink: blog/at
 ---

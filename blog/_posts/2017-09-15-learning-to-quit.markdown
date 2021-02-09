@@ -8,7 +8,7 @@ slug: learning-to-quit
 title: Learning to quit.
 wordpress_id: 1205
 tags:
-- Continental Divide Trail
+- CDT
 tagimg: 'https://eloiserobbins.files.wordpress.com/2017/09/20170912_1656480.jpg'
 ---
 

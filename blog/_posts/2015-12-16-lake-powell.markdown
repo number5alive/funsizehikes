@@ -9,7 +9,7 @@ title: Lake Powell
 wordpress_id: 96
 tags:
 - South West
-- Travel
+- travel
 tagimg: 'https://eloiserobbins.files.wordpress.com/2015/11/image.jpg'
 ---
 

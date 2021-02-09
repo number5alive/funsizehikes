@@ -9,7 +9,7 @@ title: Zion and Bryce
 wordpress_id: 100
 tags:
 - South West
-- Travel
+- travel
 tagimg: 'https://eloiserobbins.files.wordpress.com/2015/12/image10.jpeg'
 ---
 

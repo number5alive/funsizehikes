@@ -1,6 +1,6 @@
 ---
 layout: blogcategory
 title: Pacific Crest Trail Blog
-filter: 'Pacific Crest Trail'
+filter: PCT
 permalink: blog/pct
 ---

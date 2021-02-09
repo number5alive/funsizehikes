@@ -8,7 +8,7 @@ slug: chester-to-ashland
 title: Chester to Ashland.
 wordpress_id: 454
 tags:
-- Pacific Crest Trail
+- PCT
 tagimg: 'http://eloiserobbins.files.wordpress.com/2016/08/wp-image-652223958jpg.jpg'
 ---
 

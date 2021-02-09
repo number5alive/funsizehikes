@@ -8,7 +8,7 @@ slug: anaconda-to-helena
 title: Anaconda to Helena
 wordpress_id: 1106
 tags:
-- Continental Divide Trail
+- CDT
 tagimg: 'https://eloiserobbins.files.wordpress.com/2017/08/20170814_202059.jpg'
 ---
 

@@ -8,7 +8,7 @@ slug: chama-to-del-norte-the-great-divide-alternate
 title: Chama to Del Norte (The Great Divide Alternate)
 wordpress_id: 861
 tags:
-- Continental Divide Trail
+- CDT
 tagimg: 'https://eloiserobbins.files.wordpress.com/2017/05/img_20170526_162241.jpg'
 ---
 

@@ -8,7 +8,7 @@ slug: julian-to-warner-springs
 title: Julian to Warner Springs
 wordpress_id: 277
 tags:
-- Pacific Crest Trail
+- PCT
 tagimg: 'http://eloiserobbins.files.wordpress.com/2016/04/wp-1461874764048.jpg'
 ---
 

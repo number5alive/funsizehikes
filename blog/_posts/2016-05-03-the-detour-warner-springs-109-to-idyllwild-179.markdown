@@ -8,7 +8,7 @@ slug: the-detour-warner-springs-109-to-idyllwild-179
 title: The detour (Warner Springs 109 to Idyllwild 179)
 wordpress_id: 286
 tags:
-- Pacific Crest Trail
+- PCT
 tagimg: 'http://eloiserobbins.files.wordpress.com/2016/05/wp-1462308300982.jpg'
 ---
 

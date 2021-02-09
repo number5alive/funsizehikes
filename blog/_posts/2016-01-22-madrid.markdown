@@ -8,7 +8,7 @@ slug: madrid
 title: Madrid
 wordpress_id: 169
 tags:
-- Travel
+- travel
 tagimg: 'https://eloiserobbins.files.wordpress.com/2016/01/image29.jpeg'
 ---
 

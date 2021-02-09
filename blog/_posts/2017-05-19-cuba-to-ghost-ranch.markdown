@@ -8,7 +8,7 @@ slug: cuba-to-ghost-ranch
 title: Cuba to Ghost Ranch
 wordpress_id: 804
 tags:
-- Continental Divide Trail
+- CDT
 tagimg: 'https://eloiserobbins.files.wordpress.com/2017/05/img_20170517_115625.jpg'
 ---
 

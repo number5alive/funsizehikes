@@ -8,7 +8,7 @@ slug: you-cant-cross-the-same-river-twice-silver-city-to-pie-town
 title: You can't cross the same river twice - Silver City to Pie Town
 wordpress_id: 695
 tags:
-- Continental Divide Trail
+- CDT
 tagimg: 'https://eloiserobbins.files.wordpress.com/2017/05/img_20170422_181656.jpg'
 ---
 

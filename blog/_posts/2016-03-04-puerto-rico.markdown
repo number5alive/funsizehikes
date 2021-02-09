@@ -9,7 +9,7 @@ title: Puerto Rico
 wordpress_id: 223
 tags:
 - Puerto Rico
-- Travel
+- travel
 tagimg: 'https://eloiserobbins.files.wordpress.com/2016/03/image10.jpeg'
 ---
 

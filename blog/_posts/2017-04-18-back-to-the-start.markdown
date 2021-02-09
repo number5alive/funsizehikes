@@ -8,7 +8,7 @@ slug: back-to-the-start
 title: Back to the start.
 wordpress_id: 617
 tags:
-- Continental Divide Trail
+- CDT
 tagimg: 'https://eloiserobbins.files.wordpress.com/2017/04/img_20170414_1047462.jpg'
 ---
 

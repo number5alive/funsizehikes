@@ -8,9 +8,9 @@ slug: pie-town-to-grants
 title: Pie Town to Grants
 wordpress_id: 730
 tags:
-- Continental Divide Trail
+- CDT
 - South West
-- Travel
+- travel
 tagimg: 'https://eloiserobbins.files.wordpress.com/2017/05/img_20170504_174649.jpg'
 ---
 

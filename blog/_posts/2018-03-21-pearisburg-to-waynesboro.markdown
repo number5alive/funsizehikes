@@ -8,7 +8,7 @@ slug: pearisburg-to-waynesboro
 title: Pearisburg to Waynesboro
 wordpress_id: 1424
 tags:
-- Appalachian Trail
+- AT
 tagimg: 'https://eloiserobbins.files.wordpress.com/2018/03/20180319_092006.jpg'
 ---
 

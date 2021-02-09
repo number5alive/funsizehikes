@@ -8,7 +8,7 @@ slug: denver-to-rmnp-to-steamboat
 title: Denver to RMNP to Steamboat.
 wordpress_id: 1006
 tags:
-- Continental Divide Trail
+- CDT
 tagimg: 'https://eloiserobbins.files.wordpress.com/2017/07/20170629_150419.jpg'
 ---
 

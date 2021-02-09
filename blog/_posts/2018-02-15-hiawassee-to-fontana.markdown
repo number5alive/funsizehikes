@@ -8,7 +8,7 @@ slug: hiawassee-to-fontana
 title: Hiawassee to Fontana
 wordpress_id: 1321
 tags:
-- Appalachian Trail
+- AT
 tagimg: 'https://eloiserobbins.files.wordpress.com/2018/02/img_20180215_121003_963.jpg'
 ---
 

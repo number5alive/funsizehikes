@@ -1,6 +1,6 @@
 ---
 layout: blogcategory
 title: Continental Divide Trail Blog
-filter: 'Continental Divide Trail'
+filter: CDT
 permalink: blog/cdt
 ---

@@ -8,7 +8,7 @@ slug: augusta-to-east-glacier
 title: Augusta to East Glacier
 wordpress_id: 1140
 tags:
-- Continental Divide Trail
+- CDT
 tagimg: 'https://eloiserobbins.files.wordpress.com/2017/08/img_20170828_131758_576.jpg'
 ---
 

@@ -7,9 +7,9 @@ link: https://eloiserobbins.wordpress.com/2017/12/18/gear/
 title: Post Triple Crown Gear
 wordpress_id: 1208
 tags:
-- Appalachian Trail
 - AT
-- Continental Divide Trail
+- CDT
+- gear
 tagimg: 'https://eloiserobbins.files.wordpress.com/2017/09/img_20170709_202902912.jpg'
 ---
 

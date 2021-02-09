@@ -8,7 +8,7 @@ slug: lincoln-to-augusta
 title: Lincoln to Augusta
 wordpress_id: 1122
 tags:
-- Continental Divide Trail
+- CDT
 tagimg: 'https://eloiserobbins.files.wordpress.com/2017/08/20170821_192620.jpg'
 ---
 

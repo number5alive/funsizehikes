@@ -8,7 +8,7 @@ slug: return-to-the-desert-encampment-to-rawlins
 title: Return to the Desert- Encampment to Rawlins
 wordpress_id: 1037
 tags:
-- Continental Divide Trail
+- CDT
 tagimg: 'https://eloiserobbins.files.wordpress.com/2017/07/20170710_061745.jpg'
 ---
 

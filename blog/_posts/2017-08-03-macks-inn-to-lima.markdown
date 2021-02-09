@@ -8,7 +8,7 @@ slug: macks-inn-to-lima
 title: Macks Inn to Lima
 wordpress_id: 1078
 tags:
-- Continental Divide Trail
+- CDT
 tagimg: 'https://eloiserobbins.files.wordpress.com/2017/08/img_20170805_212545_207.jpg'
 ---
 

@@ -8,7 +8,7 @@ slug: the-trail-might-be-trying-to-kill-me-del-norte-to-salida
 title: The trail might be trying to kill me... Del Norte to Salida
 wordpress_id: 894
 tags:
-- Continental Divide Trail
+- CDT
 tagimg: 'https://eloiserobbins.files.wordpress.com/2017/06/img_20170601_105752.jpg'
 ---
 

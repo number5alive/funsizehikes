@@ -8,7 +8,7 @@ slug: most-of-oregon-ashland-to-timberline-lodge
 title: Most of Oregon (Ashland to Timberline Lodge)
 wordpress_id: 473
 tags:
-- Pacific Crest Trail
+- PCT
 tagimg: 'http://eloiserobbins.files.wordpress.com/2016/09/wp-image-1198867546jpg.jpg'
 ---
 

@@ -8,7 +8,7 @@ slug: she-was-a-day-tripper-grand-lake-to-denver
 title: She was a day tripper...Grand Lake to... Denver???
 wordpress_id: 991
 tags:
-- Continental Divide Trail
+- CDT
 tagimg: 'https://eloiserobbins.files.wordpress.com/2017/06/img_20170626_143250.jpg'
 ---
 

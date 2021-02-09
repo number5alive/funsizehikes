@@ -8,7 +8,7 @@ slug: the-great-feed-fun-size-detour-leadville-to-silverthorne
 title: The Great Feed Fun Size Detour- Leadville to Silverthorne
 wordpress_id: 964
 tags:
-- Continental Divide Trail
+- CDT
 tagimg: 'https://eloiserobbins.files.wordpress.com/2017/06/img_20170617_102550.jpg'
 ---
 

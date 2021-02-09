@@ -8,7 +8,7 @@ slug: dubois-to-macks-inn-yellowstone
 title: Dubois to Macks Inn (Yellowstone!)
 wordpress_id: 1077
 tags:
-- Continental Divide Trail
+- CDT
 tagimg: 'https://eloiserobbins.files.wordpress.com/2017/08/img_20170802_183636_021.jpg'
 ---
 

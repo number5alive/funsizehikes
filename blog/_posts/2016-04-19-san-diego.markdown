@@ -8,7 +8,7 @@ slug: san-diego
 title: San Diego
 wordpress_id: 267
 tags:
-- Travel
+- travel
 tagimg: 'http://eloiserobbins.files.wordpress.com/2016/04/wp-1461106857482.jpg'
 ---
 

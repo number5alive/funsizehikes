@@ -8,7 +8,7 @@ slug: denmark
 title: Denmark
 wordpress_id: 137
 tags:
-- Travel
+- travel
 tagimg: 'https://eloiserobbins.files.wordpress.com/2016/01/image7.jpeg'
 ---
 

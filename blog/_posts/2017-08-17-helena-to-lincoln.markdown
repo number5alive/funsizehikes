@@ -8,7 +8,7 @@ slug: helena-to-lincoln
 title: Helena to Lincoln
 wordpress_id: 1107
 tags:
-- Continental Divide Trail
+- CDT
 tagimg: 'https://eloiserobbins.files.wordpress.com/2017/08/20170818_074356.jpg'
 ---
 

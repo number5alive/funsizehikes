@@ -8,7 +8,7 @@ slug: lima-to-anaconda
 title: Lima to Anaconda
 wordpress_id: 1099
 tags:
-- Continental Divide Trail
+- CDT
 tagimg: 'https://eloiserobbins.files.wordpress.com/2017/08/img_20170812_105127_604.jpg'
 ---
 

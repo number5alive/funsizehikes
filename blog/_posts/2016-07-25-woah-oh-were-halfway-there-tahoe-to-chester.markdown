@@ -8,7 +8,7 @@ slug: woah-oh-were-halfway-there-tahoe-to-chester
 title: Woah-oh, we're halfway there. Tahoe to Chester.
 wordpress_id: 435
 tags:
-- Pacific Crest Trail
+- PCT
 tagimg: 'http://eloiserobbins.files.wordpress.com/2016/07/wp-image-1299919470jpg.jpg'
 ---
 

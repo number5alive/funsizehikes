@@ -10,7 +10,7 @@ wordpress_id: 1041
 post_format:
 - Gallery
 tags:
-- Continental Divide Trail
+- CDT
 tagimg: 'https://eloiserobbins.files.wordpress.com/2017/07/20170713_1746581.jpg'
 ---
 
