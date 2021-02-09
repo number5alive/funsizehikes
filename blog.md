@@ -6,7 +6,9 @@ sitemap:
  changefreq: 'weekly'
  priority: 0.8
 ---
+{% include blognav.html %}
  
+{% comment %}
   <div class="container text-center mb-1">
     <span class="fst-italic">Filter Posts: </span>
      
@@ -19,7 +21,6 @@ sitemap:
     {% endfor %}
      
   </div>
-{% comment %}
 {% endcomment %}
    
   <div class="container infocard">
