@@ -5,18 +5,18 @@ date: 2017-06-27 21:43:19+00:00
 layout: blog
 link: https://eloiserobbins.wordpress.com/2017/06/27/she-was-a-day-tripper-grand-lake-to-denver/
 slug: she-was-a-day-tripper-grand-lake-to-denver
-title: She was a day tripper...Grand Lake to... Denver???
+title: Grand Lake to... Denver???
 wordpress_id: 991
 tags:
 - CDT
 tagimg: 'https://eloiserobbins.files.wordpress.com/2017/06/img_20170626_143250.jpg'
 ---
 
-High on the Continental divide, there is a meadow. It is lush and green and surrounded by snowy mountains. There are two small ponds, one with lillies in it. And from there, a brown trickle flows. I stand with my feet on either side of it and watch leeches bury in the mud. From here, hundreds of snowmelt streams feed into this one tiny stream. It grows and swells, before being tamed by dam after dam. It passes through lake and reservoir. And then, hundreds of miles away in Arizona, it carves through red and pink sandstone cliffs. This tiny river, so small I could dam it with my hands, will become the mighty Colorado, sculpture of the Grand Caynon.
+High on the Continental divide, there is a meadow. It is lush and green and surrounded by snowy mountains. There are two small ponds, one with lillies in it. And from there, a brown trickle flows. I stand with my feet on either side of it and watch leeches bury in the mud. From here, hundreds of snowmelt streams feed into this one tiny stream. It grows and swells, before being tamed by dam after dam. It passes through lakes and reservoirs. And then, hundreds of miles away in Arizona, it carves through red and pink sandstone cliffs. This tiny river, so small I could dam it with my hands, will become the mighty Colorado, sculpter of the Grand Caynon.
 
 
 ![she-was-a-day-tripper-grand-lake-to-denver](https://eloiserobbins.files.wordpress.com/2017/06/img_20170626_143250.jpg)
-High on the Continental divide, there is a meadow. It is lush and green and surrounded by snowy mountains. There are two small ponds, one with lillies in it. And from there, a brown trickle flows. I stand with my feet on either side of it and watch leeches bury in the mud. From here, hundreds of snowmelt streams feed into this one tiny stream. It grows and swells, before being tamed by dam after dam. It passes through lake and reservoir. And then, hundreds of miles away in Arizona, it carves through red and pink sandstone cliffs. This tiny river, so small I could dam it with my hands, will become the mighty Colorado, sculpture of the Grand Caynon.
+High on the Continental divide, there is a meadow. It is lush and green and surrounded by snowy mountains. There are two small ponds, one with lillies in it. And from there, a brown trickle flows. I stand with my feet on either side of it and watch leeches bury in the mud. From here, hundreds of snowmelt streams feed into this one tiny stream. It grows and swells, before being tamed by dam after dam. It passes through lakes and reservoirs. And then, hundreds of miles away in Arizona, it carves through red and pink sandstone cliffs. This tiny river, so small I could dam it with my hands, will become the mighty Colorado, sculpter of the Grand Caynon.
 
 ![she-was-a-day-tripper-grand-lake-to-denver](https://eloiserobbins.files.wordpress.com/2017/06/img_20170625_074134.jpg)
 I find the hostel in the morning. Glimmer, Arcade and Wild Land are all there. I saw Wild Land north of Twin Lakes, but I haven't seen Glimmer and Arcade since Lordsburg. There's a chili cook off down town and we go crash it, eating chili until my mouth burns and my stomach bubbles. There are so many dogs there and Glimmer and I chase them around, spending as much time petting them as eating. My favourite is a Boston terrier in a wheelchair. I'd put her in my pack and carry her to Canada.

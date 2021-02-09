@@ -21,7 +21,7 @@ In the middle of the night, a bear crashes into the campsite. At least, that's w
 ![the-end-east-glacier-to-waterton](https://eloiserobbins.files.wordpress.com/2017/09/20170829_175921.jpg)
 We're all groggy in the morning, and get coffee and breakfast. Glimmer has seamlessly been folded into our trail family. And then we head out, climbing up to a high ridge. The smoke rolls in, but the view is still the best I've seen since the winds. I feel like so much of the CDT has been unspectacular- brown lumps, rolling grassland, cow fields. But the fantastic bits? They are some of the best hiking I've ever done.
 ![the-end-east-glacier-to-waterton](https://eloiserobbins.files.wordpress.com/2017/09/20170830_102010.jpg)
-There are a million day hikers and they are all grumpy- it's too hot, too Smokey etc. But I find a quiet switchback and sit alone, eating an apple, watching the mountains ghost in and out of the smoke, and I am wildly happy. This is where I belong.
+There are a million day hikers and they are all grumpy- it's too hot, too smokey etc. But I find a quiet switchback and sit alone, eating an apple, watching the mountains ghost in and out of the smoke, and I am wildly happy. This is where I belong.
 ![the-end-east-glacier-to-waterton](https://eloiserobbins.files.wordpress.com/2017/09/20170830_102323.jpg)
 We make the 10 miles to Twin Medicine easily. Wild Land has sorted out our permits with the ranger there. We have a few shorter days than we wanted, but oh well. We will still finish three days before my birthday, our target end date. Our miles for the day done, we raid the store for soda and ice cream, then sit by the lake, alternating between watching the people and the landscape.
 ![the-end-east-glacier-to-waterton](https://eloiserobbins.files.wordpress.com/2017/09/20170830_150025.jpg)
@@ -42,7 +42,7 @@ We climb Swiftcurrent pass, easy in the cool evening air. Near the top, I have a
 ![the-end-east-glacier-to-waterton](https://eloiserobbins.files.wordpress.com/2017/09/20170901_092435.jpg)
 ![the-end-east-glacier-to-waterton](https://eloiserobbins.files.wordpress.com/2017/09/20170901_102720.jpg)
 ![the-end-east-glacier-to-waterton](https://eloiserobbins.files.wordpress.com/2017/09/20170901_123028.jpg)
-I don't sleep well. Some animal crashes t through our campground, which reminds me about the granola bar I forgot about in my pack. Every time someone turns over, it convinces me I'm about the be eaten. In the morning, we're high on the high line trail, contouring ridges. I find bear poop so fresh it's practically steaming, and bear prints over the tracks in front of me. I wait for Glimmer, who is closest behind, and we hike together until lunch.
+I don't sleep well. Some animal crashes through our campground, which reminds me about the granola bar I forgot about in my pack. Every time someone turns over, it convinces me I'm about to be eaten. In the morning, we're high on the high line trail, contouring ridges. I find bear poop so fresh it's practically steaming, and bear prints over the tracks in front of me. I wait for Glimmer, who is closest behind, and we hike together until lunch.
 ![the-end-east-glacier-to-waterton](https://eloiserobbins.files.wordpress.com/2017/09/20170901_175454.jpg)
 ![the-end-east-glacier-to-waterton](https://eloiserobbins.files.wordpress.com/2017/09/20170901_175513.jpg)
 ![the-end-east-glacier-to-waterton](https://eloiserobbins.files.wordpress.com/2017/09/20170901_180530.jpg)

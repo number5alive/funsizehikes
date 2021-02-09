@@ -12,14 +12,14 @@ tags:
 tagimg: 'https://eloiserobbins.files.wordpress.com/2017/08/20170818_074356.jpg'
 ---
 
-Wild Land's parents drive us into Helena. The first stop is a Chinese buffet, where I match Wild Lands dad plate for plate, except my plates have twice as much food. I can barely move on the way back to the hotel. I feel ok, but by 9pm, I'm nauseated, dizzy, and I go puke my guts up in the bathroom.
+Wild Land's parents drive us into Helena. The first stop is a Chinese buffet, where I match Wild Land's dad plate for plate, except my plates have twice as much food. I can barely move on the way back to the hotel. I feel ok, but by 9pm, I'm nauseated, dizzy, and I go puke my guts up in the bathroom.
 
 
 ![helena-to-lincoln](https://eloiserobbins.files.wordpress.com/2017/08/20170818_074356.jpg)
-Wild Land's parents drive us into Helena. The first stop is a Chinese buffet, where I match Wild Lands dad plate for plate, except my plates have twice as much food. I can barely move on the way back to the hotel. I feel ok, but by 9pm, I'm nauseated, dizzy, and I go puke my guts up in the bathroom.
+Wild Land's parents drive us into Helena. The first stop is a Chinese buffet, where I match Wild Land's dad plate for plate, except my plates have twice as much food. I can barely move on the way back to the hotel. I feel ok, but by 9pm, I'm nauseated, dizzy, and I go puke my guts up in the bathroom.
 
 ![helena-to-lincoln](https://eloiserobbins.files.wordpress.com/2017/08/20170818_192123.jpg)
-I feel better in the morning, but I'm still light headed and sick. Wild Land was already planning on zeroing, but I'd hoped to head out. Oh well. Wild Lands parents take us to the wildlife center, where they have a scale. It reads 110lbs for me. Great. Time to eat more, even if I don't feel fantastic. We bum around town and meet back up with Thatch, who had been off having his own town adventures.
+I feel better in the morning, but I'm still light headed and sick. Wild Land was already planning on zeroing, but I'd hoped to head out. Oh well. Wild Land's parents take us to the wildlife center, where they have a scale. It reads 110lbs for me. Great. Time to eat more, even if I don't feel fantastic. We bum around town and meet back up with Thatch, who had been off having his own town adventures.
 ![helena-to-lincoln](https://eloiserobbins.files.wordpress.com/2017/08/20170819_071803.jpg)
 In the morning, Wild Land tells us he wants to double zero. I can't stay, so his parents drive me and Thatch to the pass. We hug goodbye. "Hike fast and catch up, you jerk." I tell him. We've said goodbye so many times but this one feels more final.
 ![helena-to-lincoln](https://eloiserobbins.files.wordpress.com/2017/08/20170819_072145.jpg)
@@ -29,7 +29,7 @@ I leave before Thatch in the morning, expecting him to catch me quickly. Someone
 ![helena-to-lincoln](https://eloiserobbins.files.wordpress.com/2017/08/20170819_155356.jpg)
 I stop and wait for Thatch a few times, but I get cold before he catches up. Then, before lunch, I take a wrong turn and have to cut cross country for a hundred feet. Sitting under a scrubby tree is the biggest pile of bear poop I've ever seen. I make it a little further down the ridge and eat lunch, when Thatch finally catches me.
 ![helena-to-lincoln](https://eloiserobbins.files.wordpress.com/2017/08/20170820_111128.jpg)
-We take a break at a fire tower, looking out over Smokey hills. Then we turn a corner and see plumes rising from an adjacent hill. We'll learn later it's a mostly contained fire, but it's still a little worrying.
+We take a break at a fire tower, looking out over smokey hills. Then we turn a corner and see plumes rising from an adjacent hill. We'll learn later it's a mostly contained fire, but it's still a little worrying.
 ![helena-to-lincoln](https://eloiserobbins.files.wordpress.com/2017/08/20170820_111806.jpg)
 I fall asleep just fine, but I wake up at midnight sick to my stomach. I roll over and immediately throw up with no warning. Thank goodness my tarp doesn't have a floor. This continues every half hour or so until it's finally light enough to get up. I throw up one last time as I pack up my tarp. If I had a job, I'd call in sick, but you can't call in sick to hiking. It's 2 miles to a trailhead, where Thatch tentatively suggests hitching to town. It's only another 13 to a busier highway though and I don't feel too bad unless I'm going up hill.
 ![helena-to-lincoln](https://eloiserobbins.files.wordpress.com/2017/08/20170820_113317.jpg)
