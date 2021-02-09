@@ -55,9 +55,9 @@ function onSubmit() {
 <h1 class="fs-5 my-1">Comments</h1>
   {% assign numcomments = 0 %}
   {% for comment in site.data.comments[{{id}}] %}
-    {% increment numcomments %}
+    {% assign numcomments = numcomments | plus:1 %}
     <div class="row border-bottom">
-        <p class="fst-italic my-0">{{ comment.name }} - <span class="text-muted fs-6 fw-lighter">{{ comment.datetime | date: "%B %-d, %Y %H:%M"}}</span></p>
+        <p class="fst-italic my-0">{{ comment.name }} - <span class="text-muted fs-6 fw-lighter">{{ comment.datetime | date: "%B %-d, %Y"}}</span></p>
         <p>{{ comment.comment }}</p>
     </div>
   {% endfor %}
