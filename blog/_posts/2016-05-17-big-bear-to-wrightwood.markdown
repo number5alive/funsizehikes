@@ -33,7 +33,7 @@ We reach Deep Creek hot springs at dusk. A naked man greets us, going the other 
 ![big-bear-to-wrightwood](http://eloiserobbins.files.wordpress.com/2016/05/wp-1463496378929.jpg)
 It's so hard to get up in the morning. We've been warned by friends ahead that the next section is hot. We debate- stay and night hike out, or leave now and siesta? Only a few of us have stronger opinions and I get my way. We beat the heat to the next river crossing, where we find more friends and a trail angel with nail polish.
 ![big-bear-to-wrightwood](http://eloiserobbins.files.wordpress.com/2016/05/wp-1463496531239.jpg)
-She suggests black polish with glitter on the top. I've never painted my nails before, but I do it. I send Jerami a picture and he asks what is wrong with my feet. Everything- they are swollen, I have blisters and deep foot pain in both balls and heels, but I finally am accepting my gross hiker feet.
+She suggests black polish with glitter on the top. I've never painted my nails before, but I do it. What is wrong with my feet? Everything- they are swollen, I have blisters and deep foot pain in both balls and heels, but I finally am accepting my gross hiker feet.
 ![big-bear-to-wrightwood](http://eloiserobbins.files.wordpress.com/2016/05/wp-1463496723969.jpg)
 We head out as the day cools and are met by Coppertone, a famous trail angel. He gives us bananas and root beer floats and sends us on our way. We hike through the sunset.
 ![big-bear-to-wrightwood](http://eloiserobbins.files.wordpress.com/2016/05/wp-1463496980194.jpg)
@@ -47,7 +47,7 @@ Then we are in a 25 mile dry stretch and the trail just goes up. If the PCT can 
 ![big-bear-to-wrightwood](http://eloiserobbins.files.wordpress.com/2016/05/wp-1463498588328.jpg)
 As it gets dark, we rise above the clouds, just in time for sunset. None of us are excited for night hiking, but we stand transfixed. Then, it's headlamps out. We've only been hiking for half an hour when I see it- spiky green leaves rising out of an ashy grey stem that someone has obviously tried to kill. Poodle Dog Bush!
 ![big-bear-to-wrightwood](http://eloiserobbins.files.wordpress.com/2016/05/wp-1463498766673.jpg)
-Poodle Dog has been our bogey man for a long time. We've been told we'll know it when we see it, but having never seen it before, we jump at ever spikey leaved plant with purple flowers. It is worth being scared of- worse than poison oak, it leaves you with puss filled blisters and can put you in the hospital. We have no idea how much we have walked through before I spotted it. Oh well. Nothing we can do about it now.
+Poodle Dog has been our bogey man for a long time. We've been told we'll know it when we see it, but having never seen it before, we jump at every spikey leaved plant with purple flowers. It is worth being scared of- worse than poison oak, it leaves you with puss filled blisters and can put you in the hospital. We have no idea how much we have walked through before I spotted it. Oh well. Nothing we can do about it now.
 ![big-bear-to-wrightwood](http://eloiserobbins.files.wordpress.com/2016/05/wp-1463499105563.jpg)
 We camp on Gobblers Knob. The sunrise wakes us. A friend with a stove makes coffee and melts a snickers into it. He passes it around. Hot coffee has become even more of a treat since I am stoveless.
 ![big-bear-to-wrightwood](http://eloiserobbins.files.wordpress.com/2016/05/wp-1463499286865.jpg)

@@ -12,13 +12,13 @@ tags:
 tagimg: 'http://eloiserobbins.files.wordpress.com/2016/05/wp-1462308300982.jpg'
 ---
 
-We leave the tent city at Warner Springs and hike up to camp at Agua Caliente Creek. The name is a misnomer- my steripen flashes it's snowflake at me when I treat my water.
+We leave the tent city at Warner Springs and hike up to camp at Agua Caliente Creek. The name is a misnomer- my steripen flashes its snowflake at me when I treat my water.
 
 
-We leave the tent city at Warner Springs and hike up to camp at Agua Caliente Creek. The name is a misnomer- my steripen flashes it's snowflake at me when I treat my water.
+We leave the tent city at Warner Springs and hike up to camp at Agua Caliente Creek. The name is a misnomer- my steripen flashes its snowflake at me when I treat my water.
 
 ![the-detour-warner-springs-109-to-idyllwild-179](http://eloiserobbins.files.wordpress.com/2016/05/wp-1462307602067.jpg)
-And then we are climbing, up, up and up. I leave camp first, and no one catches me until near the top. We walk through a boulder field, pink rocks the size of cars. We eat lunch in the shade of a house sized boulder and then we are dropping down to Mike's place, for a burger, beer and Water.
+And then we are climbing, up, up and up. I leave camp first, and no one catches me until near the top. We walk through a boulder field, pink rocks the size of cars. We eat lunch in the shade of a house sized boulder and then we are dropping down to Mike's place, for a burger, beer and water.
 ![the-detour-warner-springs-109-to-idyllwild-179](http://eloiserobbins.files.wordpress.com/2016/05/wp-1462307619894.jpg)
 We climb up to a ridge under bluebird skies. We set up to cowboy camp, but as the light fades, the clouds roll in. We hem and haw and set up our tents as the wind picks up.
 ![the-detour-warner-springs-109-to-idyllwild-179](http://eloiserobbins.files.wordpress.com/2016/05/wp-1462307639828.jpg)
