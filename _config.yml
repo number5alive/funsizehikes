@@ -4,6 +4,12 @@ baseurl: ""
 url: "https://funsizehikes.com"
 
 permalink: /:categories/:title:output_ext
+
+paginate: 10
+paginate_path: "/blog/page:num/"
+
+plugins:
+ - jekyll-paginate
  
 defaults:
  - scope:
@@ -15,7 +21,6 @@ author:
   - name: Eloise Robbins
   - email: eloise@funsizehikes.com
   - url: "https://funsizehikes.com"
-
  
 # Leave off the development files and any other cruft so it doesn't go into the page
 exclude:

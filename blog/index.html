@@ -1,0 +1,53 @@
+---
+layout: list
+title: Blog
+titleimg: /images/banners/windriverpanorama-2048.jpg
+sitemap:
+ changefreq: 'weekly'
+ priority: 0.8
+---
+{% include blognav.html %}
+ 
+  <div class="container infocard">
+    <div class="text-center fst-italic">Do you want to be notified when there are new blog posts? <a href="https://feedburner.google.com/fb/a/mailverify?uri=FunSizeHikes&amp;loc=en_US" title="Subscribe">Click here for email notifications</a>.
+    </div>
+  </div>
+
+<!-- This loops through the paginated posts -->
+{% for post in paginator.posts %}
+    {% include actioncard.html 
+          title=post.title
+          image=post.tagimg
+          leftimg=true
+          text=post.excerpt
+          link=post.url
+          postdate=post.date
+    %}
+{% endfor %}
+ 
+<!-- pagination -->
+{% if paginator.total_pages > 1 %}
+<div class="pagination justify-content-center">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
+  {% else %}
+    <span>&laquo; Prev</span>
+  {% endif %}
+
+  {% for page in (1..paginator.total_pages) %}
+    {% if page == paginator.page %}
+      <span class="webjeda">{{ page }}</span>
+    {% elsif page == 1 %}
+      <a href="/">{{ page }}</a>
+    {% else %}
+      <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+    {% endif %}
+  {% endfor %}
+
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+  {% else %}
+    <span>Next &raquo;</span>
+  {% endif %}
+</div>
+{% endif %}
