@@ -12,11 +12,11 @@ tags:
 tagimg: 'https://eloiserobbins.files.wordpress.com/2017/04/img_20170419_091718.jpg'
 ---
 
-We're out of the hotel by 8am, which has to be a record for us. Shake n Bake repeatedly tries to "snooze" me in the morning, but I've been awake since 5am and I'm ready to hike! We road walk out of town and then cut cross country. There are signs warning us to stay within ten feet of the trail. It's funny because there's no real trail and the only way I think I could stick that close to the trail in this section is if I check my GPS every five seconds.
+We're out of the hotel by 8am, which has to be a record for us. Shake'nBake repeatedly tries to "snooze" me in the morning, but I've been awake since 5am and I'm ready to hike! We road walk out of town and then cut cross country. There are signs warning us to stay within ten feet of the trail. It's funny because there's no real trail and the only way I think I could stick that close to the trail in this section is if I check my GPS every five seconds.
 
 
 ![lordsburg-to-silver-city](https://eloiserobbins.files.wordpress.com/2017/04/img_20170419_091718.jpg)
-We're out of the hotel by 8am, which has to be a record for us. Shake n Bake repeatedly tries to "snooze" me in the morning, but I've been awake since 5am and I'm ready to hike! We road walk out of town and then cut cross country. There are signs warning us to stay within ten feet of the trail. It's funny because there's no real trail and the only way I think I could stick that close to the trail in this section is if I check my GPS every five seconds.
+We're out of the hotel by 8am, which has to be a record for us. Shake'nBake repeatedly tries to "snooze" me in the morning, but I've been awake since 5am and I'm ready to hike! We road walk out of town and then cut cross country. There are signs warning us to stay within ten feet of the trail. It's funny because there's no real trail and the only way I think I could stick that close to the trail in this section is if I check my GPS every five seconds.
 
 ![IMG_20170419_142615](https://eloiserobbins.files.wordpress.com/2017/04/img_20170419_142615.jpg)
 We make a few detours, including scrambling up a sheer dirt cliff taller than me. I'm starting to feel woozy and lethargic so I call for a siesta. By the time we head out, my thighs are bright red. Did I forget to put on sunscreen? Big mistake!
@@ -32,7 +32,7 @@ The trail climbs a few thousand feet, but I'm slowed by a drip of water on my le
 ![IMG_20170419_152434](https://eloiserobbins.files.wordpress.com/2017/04/img_20170419_152434.jpg)
 We climb quickly, and soon we are under huge pine trees. Trees! I missed them so much! I stop to hug a few as we contour up the Ridgeline. And then we plunge back down, as fast as we climbed. At the bottom, a junction.
 ![IMG_20170420_130323](https://eloiserobbins.files.wordpress.com/2017/04/img_20170420_130323.jpg)
-Here, the CDT splits. Our maps tell us to go one way, my GPS another. Both ways involve road walking, but one way shaves off an entire day. I want Shake n Bake to see some of the Gilla river with me, so I choose the shorter option.
+Here, the CDT splits. Our maps tell us to go one way, my GPS another. Both ways involve road walking, but one way shaves off an entire day. I want Shake'nBake to see some of the Gilla river with me, so I choose the shorter option.
 ![IMG_20170420_152557](https://eloiserobbins.files.wordpress.com/2017/04/img_20170420_152557.jpg)
 We head down Dead man's Canyon, looking for the seep. Just when we've given up hope of finding it, it appears. We find a camp spot under the watchful eyes of a cow. In the morning, we have a dirt road walk until the highway, where we see signs warning of a bike race. Did we choose the wrong route? A cop stands at the race turn around and I'm worried he'll turn us back but he just tells us to stay on the shoulder. And then our first racer is heading towards us. We hoot and holler and cheer.
 ![IMG_20170420_160800](https://eloiserobbins.files.wordpress.com/2017/04/img_20170420_160800.jpg)

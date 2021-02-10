@@ -12,18 +12,18 @@ tags:
 tagimg: 'http://eloiserobbins.files.wordpress.com/2016/05/wp-14646162030401.jpg'
 ---
 
-We decide at Casa de Luna that we're going to hitch the next fire detour. It's a 12 mile road walk and we've walked every other detour so far, so we feel like we've earned it. But as we walk down to the road, something sits heavy in my gut, and I can see by the looks on Bear Bait and Shake n Bake's faces that they feel the same. We say goodbye to Down Time and Clammy, who get a ride almost immediately and start the long walk.
+We decide at Casa de Luna that we're going to hitch the next fire detour. It's a 12 mile road walk and we've walked every other detour so far, so we feel like we've earned it. But as we walk down to the road, something sits heavy in my gut, and I can see by the looks on Bear Bait and Shake'nBake's faces that they feel the same. We say goodbye to Down Time and Clammy, who get a ride almost immediately and start the long walk.
 
 
 ![casa-de-luna-to-tehachapi](http://eloiserobbins.files.wordpress.com/2016/05/wp-14646162030401.jpg)
-We decide at Casa de Luna that we're going to hitch the next fire detour. It's a 12 mile road walk and we've walked every other detour so far, so we feel like we've earned it. But as we walk down to the road, something sits heavy in my gut, and I can see by the looks on Bear Bait and Shake n Bake's faces that they feel the same. We say goodbye to Down Time and Clammy, who get a ride almost immediately and start the long walk.
+We decide at Casa de Luna that we're going to hitch the next fire detour. It's a 12 mile road walk and we've walked every other detour so far, so we feel like we've earned it. But as we walk down to the road, something sits heavy in my gut, and I can see by the looks on Bear Bait and Shake'nBake's faces that they feel the same. We say goodbye to Down Time and Clammy, who get a ride almost immediately and start the long walk.
 
 ![casa-de-luna-to-tehachapi](http://eloiserobbins.files.wordpress.com/2016/05/wp-14646163433201.jpg)
 We set rules as we walk. We will take a hitch, but only if it is unsolicited. And only if we like the car the person is driving. We make it to the bar at the halfway point with no offers. I devour a burger and fries, then ponder pie too. Hiker hunger is relentless and I am never full.
 ![casa-de-luna-to-tehachapi](http://eloiserobbins.files.wordpress.com/2016/05/wp-14646165505741.jpg)
 After lunch, the temperature soars. A man stops almost immediately to offer a lift and we jump in. I feel only a little bad. And then we are climbing, back up to the trail and the 500 mile mark.
 ![casa-de-luna-to-tehachapi](http://eloiserobbins.files.wordpress.com/2016/05/wp-14646167115521.jpg)
-Bear Bait puts the Proclaimers on his phone and we celebrate with a mojito-off. Shake n Bake and I have been talking about packing something out for 500 for weeks, which devolved into a disagreement about ingredients and a challenge. His tastes like drain cleaner and mine tastes like mouthwash and the only way we can manage to choke them down is to mix them together.
+Bear Bait puts the Proclaimers on his phone and we celebrate with a mojito-off. Shake'nBake and I have been talking about packing something out for 500 for weeks, which devolved into a disagreement about ingredients and a challenge. His tastes like drain cleaner and mine tastes like mouthwash and the only way we can manage to choke them down is to mix them together.
 ![casa-de-luna-to-tehachapi](http://eloiserobbins.files.wordpress.com/2016/05/wp-1464616960783.jpg)
 And then we are dropping down towards the desert floor and the scary, waterless desert that we have so far avoided. We camp low and set our alarms for 4am. It's time to walk the aqueduct.
 ![casa-de-luna-to-tehachapi](http://eloiserobbins.files.wordpress.com/2016/05/wp-14646171915731.jpg)

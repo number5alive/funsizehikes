@@ -27,7 +27,7 @@ I slip on the first stream crossing and my wet feet are soon numb from the snow.
 ![IMG_20170517_115344](https://eloiserobbins.files.wordpress.com/2017/05/img_20170517_115344.jpg)
 Slush, snow and ice water cover about ten miles of the trail all told. We finally start to drop down, and just as the snow becomes the odd patch, the blowdowns start. Suddenly I feel like I'm back in Oregon as we struggle through tangles of downed trees, looking for the trail the entire time.
 ![IMG_20170517_143556](https://eloiserobbins.files.wordpress.com/2017/05/img_20170517_143556.jpg)
-We reach a stream and I stop to grab water. Tennesteve checks his maps: we've done 22 and a half miles through mountains and snow and it's not even 6pm yet. We decide to stop, camping by the creek. My second night camping with someone since Shake n Bake left!
+We reach a stream and I stop to grab water. Tennesteve checks his maps: we've done 22 and a half miles through mountains and snow and it's not even 6pm yet. We decide to stop, camping by the creek. My second night camping with someone since Shake'nBake left!
 ![IMG_20170518_061818](https://eloiserobbins.files.wordpress.com/2017/05/img_20170518_061818.jpg)
 I wake up in the middle of the night to the soft brush of snow on cuben fiber and the claustrophobic dip of my tarp. I push gently on the walls and the snow avalanches. In the morning, there's an inch or so of powder on everything. My shoes are so frozen that I can't move the laces and am forced to knot them loosely. I pack up with painful fingers despite my gloves, and by the time I'm finished, my feet are completely numb. I tell Tennesteve I'll see him down the trail and roll out.
 ![IMG_20170518_071949](https://eloiserobbins.files.wordpress.com/2017/05/img_20170518_071949.jpg)

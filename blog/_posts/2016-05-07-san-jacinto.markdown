@@ -12,10 +12,10 @@ tags:
 tagimg: 'http://eloiserobbins.files.wordpress.com/2016/05/wp-14625779249381.jpg'
 ---
 
-We are itchy in Idyllwild, impatient to hike. Our motel gives us a ride to the trailhead. I pull out my camera to take a photo and it gives me an error message. I turn it off and back on again. Still no luck. Great. The most beautiful part of the trail and I have to rely on my cell phone. I chase Shake and Bake and Bear Bait down the trail, asking them to take photos for me.
+We are itchy in Idyllwild, impatient to hike. Our motel gives us a ride to the trailhead. I pull out my camera to take a photo and it gives me an error message. I turn it off and back on again. Still no luck. Great. The most beautiful part of the trail and I have to rely on my cell phone. I chase Shake'nBake and Bear Bait down the trail, asking them to take photos for me.
 
 
-We are itchy in Idyllwild, impatient to hike. Our motel gives us a ride to the trailhead. I pull out my camera to take a photo and it gives me an error message. I turn it off and back on again. Still no luck. Great. The most beautiful part of the trail and I have to rely on my cell phone. I chase Shake and Bake and Bear Bait down the trail, asking them to take photos for me.
+We are itchy in Idyllwild, impatient to hike. Our motel gives us a ride to the trailhead. I pull out my camera to take a photo and it gives me an error message. I turn it off and back on again. Still no luck. Great. The most beautiful part of the trail and I have to rely on my cell phone. I chase Shake'nBake and Bear Bait down the trail, asking them to take photos for me.
 
 ![san-jacinto](http://eloiserobbins.files.wordpress.com/2016/05/wp-14625779249381.jpg)
 We climb the Devil's slide trail to rejoin the PCT. Two miles in, most people pitch their tents. I keep mine in my bag- we'll be racing darkness on the way back down and all five of us will fit in there if we have to.

@@ -17,7 +17,7 @@ We take the Devil's Postpile detour from Red's Meadow, heading past day hikers t
 
 We take the Devil's Postpile detour from Red's Meadow, heading past day hikers to the rock formation. Then, we are back on the trail. I'm hot and tired and it is easy to lay my Z light by a fallen tree and nap for a few hours. Then, I am racing to catch my friends back up, through the lupine and cow parsnip, across the mosquito filled meadows. I find them high on a ridge and set up my bug net as the sun goes down.
 
-I get a head start in the morning, climbing up towards Donahue Pass and ten thousand island lake. I stop at a ridge with the view of the minarets and wait for everyone. It is Canada day and the two Canadians in our group are celebrating. Everyone sports Canada tattoos, and Shake n Bake wears a Canadian flag like a cape.
+I get a head start in the morning, climbing up towards Donahue Pass and ten thousand island lake. I stop at a ridge with the view of the minarets and wait for everyone. It is Canada day and the two Canadians in our group are celebrating. Everyone sports Canada tattoos, and Shake'nBake wears a Canadian flag like a cape.
 ![reds-meadow-to-tahoe](http://eloiserobbins.files.wordpress.com/2016/07/wp-image-348453703jpg.jpg)
 We head up to the pass, sipping Canadian Rye. People shoot funny looks at us, until we start wishing them happy Canada day. And then we are up, eating dinner at the crest of the pass while a marmot sneaks closer and closer, to try and steal a bite. 
 ![reds-meadow-to-tahoe](http://eloiserobbins.files.wordpress.com/2016/07/wp-image-890282203jpg.jpg)
@@ -33,7 +33,7 @@ Everyone else is lazy in the morning, but I am up early and ready to hike. I cat
 It is a hard hitch back to Tuolumne. We watch hundreds of tourists drive past- no one wants to pick up smelly hikers. Finally, we get back to the trail and our home.
 
 
-We hike down to the river. I wade across with my shoes on as always and wait on the other side as the others try to find a dry way across. I miss it as they have a misadventure with a log and a waterfall and Shake n Bake walks up soaked to his chest. We've been taking it in turns to fall into rivers lately.
+We hike down to the river. I wade across with my shoes on as always and wait on the other side as the others try to find a dry way across. I miss it as they have a misadventure with a log and a waterfall and Shake'nBake walks up soaked to his chest. We've been taking it in turns to fall into rivers lately.
 
 
 We finish out the little passes- Benson first, and Sevey the next day. There is no snow, but they still exhaust us. We sail over Dorothy Pass and out of Yosemite, and hit one thousand miles at noon. I packed out Scotch for the occasion and we sit and sip it under the pines. Then we climb high, up towards Sonora pass. We camp on a ridge, cowboying for the first time in a while. An owl swoops low overhead, silent until he is past us and we hear a whoosh.

@@ -27,7 +27,7 @@ We check in at the ranger station. She tells us there are problem raccoons and w
 ![a-name-a-nero-and-a-raccoon-attack](http://eloiserobbins.files.wordpress.com/2016/05/wp-1462728950473.jpg)
 We rustle through cliff bars and fun size twix like raccoons. Someone comments that fun size is the best size. " Hey, I'm Fun Size!" I say, like an idiot. Saying "I'm anything" is dangerous when you are waiting for your trail name. Sure enough, within half an hour, everyone is referring to me as Fun Size.
 ![a-name-a-nero-and-a-raccoon-attack](http://eloiserobbins.files.wordpress.com/2016/05/wp-1462729247852.jpg)
-Guac, Shake and Bake and I cuddle puddle under the stars. We point out constellations, and then, suddenly, something furry moves in the field. Raccoon! Shake and Bake rattles a trekking pole at it, and it is unfazed. We shine our lights and yell, and it finally ambles off.
+Guac, Shake'nBake and I cuddle puddle under the stars. We point out constellations, and then, suddenly, something furry moves in the field. Raccoon! Shake'nBake rattles a trekking pole at it, and it is unfazed. We shine our lights and yell, and it finally ambles off.
 ![a-name-a-nero-and-a-raccoon-attack](http://eloiserobbins.files.wordpress.com/2016/05/wp-1462729528301.jpg)
 Guac jumps ship soon after, then the raccoon drags someone else's bag halfway away from their tent. Another raccoon is a few feet from our heads and I go into Bear defense mode, yelling at it. A little later, there is a raccoon at my feet, half in my backpack. In the morning, there is a bite out of my map ziplock, and my ziplock wallet has teeth marks in it.
 ![a-name-a-nero-and-a-raccoon-attack](http://eloiserobbins.files.wordpress.com/2016/05/wp-1462732304983.jpg)
