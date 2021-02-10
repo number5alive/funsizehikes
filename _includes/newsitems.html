@@ -1,10 +1,10 @@
 <!-- show news posts that are a week old (from build time) - will use js to hide if past -->
 {% for post in site.categories.news limit:{{include.limit}} %}
 {% assign datestamp={{post.date | date: "%s"}} %}
-<div class="mt-3 container infocard newsitem" id="news.{{datestamp}}" data-date="{{datestamp}}">
+<div class="mt-3 container-fluid infocard newsitem" id="news.{{datestamp}}" data-date="{{datestamp}}">
   <div class="row row-cols-1 g-1 ">
     <div class="col">
-      <h1 class="fs-5">
+      <h1 class="fs-5 justify-text-center">
         <a href="{{ post.url }}">{{ post.title }}</a>
         <span class="text-muted fs-6"> ({{post.date | date_to_long_string }})</span>
       </h1>
