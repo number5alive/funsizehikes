@@ -11,7 +11,7 @@ tags:
 - Grand Canyon
 - Rafting
 - South West
-tagimg: 'https://eloiserobbins.files.wordpress.com/2015/12/image1.jpeg'
+tagimg: 'https://eloiserobbins.files.wordpress.com/2015/12/image.jpeg'
 ---
 
 Bass camp is sunny and there are great hikes from the camp. We head up Shimuno wash, looking for waterfalls. We see the most impressive ones from above, and then we're in the wash itself, heading towards old Bass camp, where we find old camping paraphernalia- a coffee pot, a stove door, a pick. Then it's back down to camp. I try to patch my drysuit, using almost an entire tube of aquaseal in the process. It's hard to keep it clean- sand is everywhere on the Grand Canyon, and despite my best efforts, there's some on the patch.
