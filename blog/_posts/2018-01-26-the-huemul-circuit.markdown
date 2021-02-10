@@ -9,7 +9,7 @@ title: The Huemul Circuit
 wordpress_id: 1290
 tags:
 - patagonia
-- Travel
+- hiking
 tagimg: 'https://eloiserobbins.files.wordpress.com/2018/01/20180123_202754.jpg'
 ---
  

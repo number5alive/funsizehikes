@@ -9,7 +9,7 @@ title: To the Ends of the Earth- Cabo Froward, Patagonia
 wordpress_id: 1240
 tags:
 - patagonia
-- Travel
+- hiking
 tagimg: 'https://eloiserobbins.files.wordpress.com/2018/01/20180114_115231.jpg'
 ---
 The sea surges to my knees as I wade around the slippery rocks. The salt stings a thousand tiny cuts on my legs. The wind throws fistfulls of rain in my face. You are made up of mostly water, I remind myself. This is your element. 

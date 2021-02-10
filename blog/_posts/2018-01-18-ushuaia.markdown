@@ -9,7 +9,7 @@ title: Ushuaia
 wordpress_id: 1243
 tags:
 - patagonia
-- Travel
+- hiking
 tagimg: 'https://eloiserobbins.files.wordpress.com/2018/01/20180115_124918.jpg'
 ---
 We score a deal on car rental in Punta Arenas from our waiter, so we drive south. Flat plains are filled with guanaco, which look like skinny llama. We hop a ferry and then we are on Isla de tierra del fuego. A few more hours and we have an uneventful border crossing into Argentina.
