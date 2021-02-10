@@ -14,15 +14,17 @@ sitemap:
 
 {% if page.url contains "/rev" %}
   {% assign sorted = site.categories.blog | sort: 'date' %}
+  {% assign sortedby = "oldest" %}
   {% assign btnurl = "/blog" %}
-  {% assign btntext = "Newest First" %}
+  {% assign btntext = "newest first" %}
 {% else %}
   {% assign sorted = site.categories.blog | sort: 'date' | reverse %}
+  {% assign sortedby = "newest" %}
   {% assign btnurl = "/blog/rev" %}
-  {% assign btntext = "Oldest First" %}
+  {% assign btntext = "oldest first" %}
 {% endif %}
 
-<a class="btn btn-link fs-6 text-muted" href="{{btnurl}}/{{page.name | replace: ".md", ""}}" role="button">{{btntext}}</a>
+<a class="btn btn-link text-muted" href="{{btnurl}}/{{page.name | replace: ".md", ""}}" role="button">Sorted {{sortedby}} first, click here to switch to {{btntext}}</a>
  
 {% for post in sorted %}
   {% if post.tags contains page.filter %}
