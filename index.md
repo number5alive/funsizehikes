@@ -53,7 +53,7 @@ sitemap:
       <div class="col">
         <div class="card shadow-sm">
           <div class="bg-image">
-            <a href="/blog.html">
+            <a href="/blog">
             <picture>
               <!-- Somewhat non-intuitively, this picture is bigger at middle screen sizes
                    because the cards get stacked -->
