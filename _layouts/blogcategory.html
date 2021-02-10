@@ -12,7 +12,19 @@ sitemap:
     </div>
   </div>
 
-{% for post in site.categories.blog %}
+{% if page.url contains "/rev" %}
+  {% assign sorted = site.categories.blog | sort: 'date' %}
+  {% assign btnurl = "/blog" %}
+  {% assign btntext = "Newest First" %}
+{% else %}
+  {% assign sorted = site.categories.blog | sort: 'date' | reverse %}
+  {% assign btnurl = "/blog/rev" %}
+  {% assign btntext = "Oldest First" %}
+{% endif %}
+
+<a class="btn btn-link fs-6 text-muted" href="{{btnurl}}/{{page.name | replace: ".md", ""}}" role="button">{{btntext}}</a>
+ 
+{% for post in sorted %}
   {% if post.tags contains page.filter %}
 
     {% include actioncard.html 
