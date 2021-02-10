@@ -4,8 +4,8 @@
 <div class="mt-3 container-fluid infocard newsitem" id="news.{{datestamp}}" data-date="{{datestamp}}">
   <div class="row row-cols-1 g-1 ">
     <div class="col">
-      <h1 class="fs-5 justify-text-center">
-        <a href="{{ post.url }}">{{ post.title }}</a>
+      <h1 class="fs-5 text-center">
+        {{ post.title }}
         <span class="text-muted fs-6"> ({{post.date | date_to_long_string }})</span>
       </h1>
       {{ post.excerpt }}
