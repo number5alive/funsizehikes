@@ -1,7 +1,7 @@
 ---
 author: eloiserobbins
 comments: true
-date: 2016-06-19 23:40:02+00:00
+date: 2016-06-19 23:35:41+00:00
 layout: blog
 link: https://eloiserobbins.wordpress.com/2016/06/19/tehachapi-to-kennedy-meadows/
 slug: tehachapi-to-kennedy-meadows
