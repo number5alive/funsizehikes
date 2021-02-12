@@ -23,10 +23,11 @@ titleimg: /images/banners/roundislandlake-2048.jpg
 </div>
  
 {% include actioncard.html 
-      title="Dirtbag Diaries (Coming Soon!)" 
-      image="/images/withfs/dirtylegs-320.webp"
+      title="Dirtbag Diaries Podcast"
+      image="https://dirtbagdiaries.com/wordpress/wp-content/uploads/2021/02/LittleWhiteCanoe_TC_3-1536x1536.jpg"
       leftimg=false
-      text="Coming Soon..."
+      text="I am so excited (and a little terrified) to share my Dirtbag Diaries short with you. It's about thru-hiking, canoeing, and moving to Canada. But most of all, it's about love. You can find it wherever you normally listen to podcasts. Please go listen!"
+      link="https://dirtbagdiaries.com/the-shorts-little-white-canoe/"
 %}
 {% include actioncard.html 
       title="12 Time-Saving Tips So You Can Hike More Miles" 
