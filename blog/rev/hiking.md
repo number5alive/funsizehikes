@@ -1,6 +1,7 @@
 ---
 layout: blogcategory
 title: Hiking Posts
+titleimg: /images/banners/rockytrail-2048.jpg
 filter: hiking
 ---
 
