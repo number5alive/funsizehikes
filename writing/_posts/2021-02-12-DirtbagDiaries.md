@@ -7,4 +7,4 @@ link: "https://dirtbagdiaries.com/the-shorts-little-white-canoe/"
 priority: 1
 ---
 
-I am so excited (and a little terrified) to share my Dirtbag Diaries short with you. It's about thru-hiking, canoeing, and moving to Canada. But most of all, it's about love. You can find it wherever you normally listen to podcasts. Please go listen!
+The canoe wasn’t much to look at. She used to be a rental. Her hull was covered in scratches, some poorly disguised with white paint. Her yoke was rotting, water seeping under the old varnish so it bubbled up and flaked. The seats creaked and flexed alarmingly. But she was beautiful to me.
