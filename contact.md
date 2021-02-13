@@ -18,7 +18,7 @@ title: Contact Me
     </div>
     <div class="col">
        
-      <form id="contactform" action="{{brainsurl}}/comments/{{id}}" method="POST" target="formresponse" onsubmit="onSubmit()">
+      <form id="contactform" action="{{brainsurl}}/funsizehikes/contact" method="POST" target="formresponse" onsubmit="onSubmit()">
         <p class="text-center">I would love to hear from you. Please use this form to send me a message.</p>
         <div class="mb-3">
           <input class="form-control" type="text" name="name" placeholder="Name" aria-label="name">
