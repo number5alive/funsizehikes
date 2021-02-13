@@ -1,5 +1,6 @@
 ---
 layout: news
+hidden: true
 title: "Dirtbag Diaries Podcast"
 tagimg: "https://dirtbagdiaries.com/wordpress/wp-content/uploads/2021/02/LittleWhiteCanoe_TC_3-1536x1536.jpg"
 link: "https://dirtbagdiaries.com/the-shorts-little-white-canoe/"

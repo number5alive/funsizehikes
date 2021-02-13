@@ -1,5 +1,6 @@
 ---
 layout: news
+hidden: true
 title: Last Minute Gift Ideas for the Hiker who Already Has Everything
 tagimg: "https://is.thetrek.co/w600-h400-cfill/wp-content/uploads/2020/12/14185800/TheTrek-LastMinuteGifts-2.jpg"
 link: "https://thetrek.co/last-minute-gift-ideas-for-the-thru-hiker-who-already-has-everything/" 

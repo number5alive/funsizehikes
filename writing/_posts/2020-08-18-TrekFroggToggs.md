@@ -1,5 +1,6 @@
 ---
 layout: news
+hidden: true
 title: Why $20 Frogg Toggs Are the Ideal Rain Gear for a Thru-Hike
 tagimg: "https://is.thetrek.co/w600-h400-cfill/wp-content/uploads/2020/08/18114043/20170725_062705-scaled.jpg"
 link: "https://thetrek.co/why-20-frogg-toggs-are-the-ideal-rain-gear-for-a-thru-hike/" 

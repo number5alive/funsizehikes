@@ -1,5 +1,6 @@
 ---
 layout: news
+hidden: true
 title: 12 Time-Saving Tips So You Can Hike More Miles
 tagimg: "https://is.thetrek.co/w600-h400-cfill/wp-content/uploads/2021/02/03081659/Time-Saving-Tips-Featured-Image-e1612365471838.jpg"
 link: "https://thetrek.co/12-time-saving-tips-so-you-can-hike-more-miles/"

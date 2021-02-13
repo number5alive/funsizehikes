@@ -1,5 +1,6 @@
 ---
 layout: news
+hidden: true
 title: Is an AT Winter Thru-Hike Right For You?
 tagimg: "https://is.thetrek.co/w600-h400-cfill/wp-content/uploads/2020/10/08131927/Winter-AT-Hiking-Featured-Image-scaled-e1602184848866.png"
 link: "https://thetrek.co/appalachian-trail/should-you-start-the-at-in-winter/" 

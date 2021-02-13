@@ -1,5 +1,6 @@
 ---
 layout: news
+hidden: true
 title: How to Lose Base Weight Without Replacing Your Big Three
 tagimg: "https://is.thetrek.co/w600-h400-cfill/wp-content/uploads/2020/09/24080925/baseweight-resize.png"
 link: "https://thetrek.co/how-to-lose-base-weight-without-replacing-your-big-three/" 

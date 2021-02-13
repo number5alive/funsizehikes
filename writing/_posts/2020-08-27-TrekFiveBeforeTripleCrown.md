@@ -1,5 +1,6 @@
 ---
 layout: news
+hidden: true
 title: Five Things I Wish I’d Known Before Hiking the Triple Crown
 tagimg: "https://is.thetrek.co/w600-h400-cfill/wp-content/uploads/2020/08/26164311/Five-Things-Before-the-Triple-Crown-The-Trek.png"
 link: "https://thetrek.co/five-things-i-wish-id-known-before-hiking-the-triple-crown/"

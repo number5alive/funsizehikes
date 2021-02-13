@@ -1,5 +1,6 @@
 ---
 layout: news
+hidden: true
 title: Gear Suggestions for an Appalachian Trail Winter Thru HIke
 tagimg: "https://is.thetrek.co/w600-h400-cfill/wp-content/uploads/2020/11/18082454/Winter-AT-Gear-List-Featured-Image2-1.png"
 link: "https://thetrek.co/appalachian-trail/gear-suggestions-for-an-appalachian-trail-winter-thru-hike/" 
