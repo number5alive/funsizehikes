@@ -1,7 +1,12 @@
+{% if include.image and include.image != "" %}
+  {% assign imgpath=include.image %}
+{% else %}
+  {% assign imgpath='/images/icons/logo-200.png' %}
+{% endif %}
 
 {% capture imagepart %}
     <div class="col-3">
-      <img style="width:100%" class="card-img-bottom rounded" src="{{ include.image }}" alt="{{ include.title }}">
+      <img style="width:100%" class="card-img-bottom rounded" src="{{ imgpath }}" alt="{{ include.title }}">
     </div>
 {% endcapture %}
  
