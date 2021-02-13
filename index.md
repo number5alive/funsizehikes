@@ -20,92 +20,49 @@ sitemap:
 {% include newsitems.html limit="1" %}
 
 <div class="album py-2 bg-light">
-  <div class="container">
+  <div class="container-fluid">
 
     <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+
+      {% include titlecard.html 
+          title="Professional Writing" 
+          ref="/writing"
+          imgroot="/images/withfs/patagonia"
+      %}
        
-      <div class="col">
-        <div class="card shadow-sm">
-          <div class="bg-image">
-            <a href="/writing.html">
-            <picture>
-              <!-- Somewhat non-intuitively, this picture is bigger at middle screen sizes
-                   because the cards get stacked -->
-              <source type="image/webp" media="(max-width:350px)" srcset="/images/withfs/patagonia-320.webp">
-              <source type="image/webp" media="(max-width:580px)" srcset="/images/withfs/patagonia-1024.webp">
-              <source type="image/webp" media="(min-width:551px)" srcset="/images/withfs/patagonia-640.webp">
-              <img src="/images/withfs/patagonia-1024.jpg" class="img-fluid" alt="Professional Writing Background"/>
-            </picture>
-            <div class="mask" style="background-color: rgba(0, 0, 0, 0.6)">
-              <div class="d-flex justify-content-center align-items-center h-100">
-                <p class="text-white mb-0">Professional Writing</p>
-              </div>
-            </div>
-            </a>
-          </div>          
-
-          <div class="card-body">
-            <p class="card-text">A summary of some of my professional freelance articles.</p>
-          </div>
-        </div>
-      </div>
+      {% include titlecard.html 
+          title="Adventure Blogs" 
+          ref="/blog"
+          imgroot="/images/withoutfs/tentcarcajoue"
+      %}
        
-      <div class="col">
-        <div class="card shadow-sm">
-          <div class="bg-image">
-            <a href="/blog">
-            <picture>
-              <!-- Somewhat non-intuitively, this picture is bigger at middle screen sizes
-                   because the cards get stacked -->
-              <source type="image/webp" media="(max-width:350px)" srcset="/images/withoutfs/tentcarcajoue-320.webp">
-              <source type="image/webp" media="(max-width:580px)" srcset="/images/withoutfs/tentcarcajoue-1024.webp">
-              <source type="image/webp" media="(min-width:551px)" srcset="/images/withoutfs/tentcarcajoue-640.webp">
-              <img src="/images/withoutfs/tentcarcajoue-1024.jpg" class="img-fluid" alt="Adventure Blogs"/>
-            </picture>
-            <div class="mask" style="background-color: rgba(0, 0, 0, 0.6)">
-              <div class="d-flex justify-content-center align-items-center h-100">
-                <p class="text-white mb-0">Adventure Blogs</p>
-              </div>
-            </div>
-            </a>          
-          </div>          
-
-          <div class="card-body">
-            <p class="card-text">Blogs from my PCT, CDT, AT, and Long Trail thru hikes.</p>
-          </div>
-        </div>
-      </div>
-
-      <div class="col">
-        <div class="card shadow-sm">
-          <div class="bg-image">
-            <a href="/about.html">
-            <picture>
-              <!-- Somewhat non-intuitively, this picture is bigger at middle screen sizes
-                   because the cards get stacked -->
-              <source type="image/webp" media="(max-width:350px)" srcset="/images/justfs/atshelter-320.webp">
-              <source type="image/webp" media="(max-width:580px)" srcset="/images/justfs/atshelter-1024.webp">
-              <source type="image/webp" media="(min-width:551px)" srcset="/images/justfs/atshelter-640.webp">
-              <img src="/images/justfs/atshelter-1024.jpg" class="img-fluid" alt="More About Me"/>
-            </picture>
-            <div class="mask" style="background-color: rgba(0, 0, 0, 0.6)">
-              <div class="d-flex justify-content-center align-items-center h-100">
-                <p class="text-white mb-0">More About Me</p>
-              </div>
-            </div>
-            </a>
-          </div>          
-
-          <div class="card-body">
-            <p class="card-text">A little bit more about myself, my adventures, and what's coming up next.</p>
-          </div>
-        </div>
-      </div>
+      {% include titlecard.html 
+          title="More About Me" 
+          ref="/about"
+          imgroot="/images/justfs/atshelter"
+      %}
 
     </div>
   </div>
 </div>
 
+<h1 class="text-center pt-4 fs-4 fst-italic">Latest Blog Post</h1>
+{% for post in site.categories.blog limit: 1 %}
+    {% include actioncard.html 
+          title=post.title
+          image=post.tagimg
+          leftimg=true
+          text=post.excerpt
+          link=post.url
+          postdate=post.date
+    %}
+{% endfor %}
+
+<div class="container-fluid infocard">
+  <div class="text-center fst-italic">Do you want to be notified when there are new blog posts? <a href="https://feedburner.google.com/fb/a/mailverify?uri=FunSizeHikes&amp;loc=en_US" title="Subscribe">Click here for email notifications</a>.
+  </div>
+</div>
+   
 <!-- Add a small section on the adventures on our horizon -->
 {% include horizon.html %}
  

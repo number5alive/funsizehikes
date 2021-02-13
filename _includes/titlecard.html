@@ -1,0 +1,27 @@
+{% comment %}
+ \title - the name to display
+ \imgroot - the image to display (expects variants as shown to exist)
+ \ref - where to send the user when they click
+{% endcomment %}
+<div class="col">
+  <a href="{{include.ref}}" class="text-decoration-none">
+    <div class="card shadow-sm">
+      <div class="bg-image">
+        <picture>
+          <!-- Somewhat non-intuitively, this picture is bigger at middle screen sizes
+               because the cards get stacked -->
+               <source type="image/webp" media="(max-width:350px)" srcset="{{include.imgroot}}-320.webp">
+               <source type="image/webp" media="(max-width:580px)" srcset="{{include.imgroot}}-1024.webp">
+               <source type="image/webp" media="(min-width:551px)" srcset="{{include.imgroot}}-640.webp">
+               <img src="{{include.imgroot}}-1024.jpg" class="img-fluid" alt="{{include.title}}"/>
+        </picture>
+        <div class="mask" style="background-color: rgba(0, 0, 0, 0.6)">
+          <div class="d-flex justify-content-center align-items-center h-100">
+            <p class="text-white fs-4 mb-0">{{include.title}}</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
