@@ -6,10 +6,10 @@ sitemap:
  priority: 0.7
 ---
 
-<section class="py-5 text-center jumbotron" id="jumbotron">
+<section class="py-5 text-center jumbotron container-fluid" id="jumbotron">
   <div class="row py-lg-5">
-    <div class="col-lg-4 col-md-2"></div>
-    <div class="col-lg-6 col-md-8 mx-auto textcontainer">
+    <div class="col-md-4 col-2"></div>
+    <div class="col-md-6 col-8 textcontainer">
       <h1 class="fw-light"><b>Eloise (Fun Size) Robbins</b></h1>
       <p class="fw-light"><b>Adventurer, Triple-Crowner, Freelance Adventure Writer</b></p>
     </div>
