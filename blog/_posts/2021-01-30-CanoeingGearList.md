@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Canoeing Gear List
-tagimg: https://lh3.googleusercontent.com/pw/ACtC-3eOVZJU7GLwt7YOlYlX2l5E_F5x8jVLY0v9VXsWWqD0PtYLIsByYE6MvS1cVhYQWXBnw3h1mhlLUHkz7Na2VT_xqcbyTmsCySY-LQnGM6qe1RQhzEsoTb_X2iSvOfdlyEWrA6sOIhoU0O1RIX8S63kj5g=w320-no?authuser=0
+tagimg: https://ik.imagekit.io/funsizehikes/P_20200905_115735_vHDR_Auto_HP_paPidENiq.jpg?tr=w-320
 titleimg: /images/banners/roundislandlake-2048.jpg
 tags: gear canoeing
 ---

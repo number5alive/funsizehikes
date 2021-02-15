@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Winter Adventure Gear List
-tagimg: https://lh3.googleusercontent.com/pw/ACtC-3dFcN-UZzKW5QC2JDp9LfOQhtL-TmIqX3uxgVRfn0ns7MGjMnmCIDdlLMjecrQjOTJSqTgZwZopucBY_m7KEA9Ze_-sQ_z34S6oHY8NkdjCJGK2nMT_3lSRcA42mLHrxUXxDSjublbbvQhZUCx1CXKLZg=w320-no?authuser=0
+tagimg: https://ik.imagekit.io/funsizehikes/P_20201115_082101_vHDR_Auto_gqT-rpzZg.jpg?tr=w-320
 tags: gear
 ---
 

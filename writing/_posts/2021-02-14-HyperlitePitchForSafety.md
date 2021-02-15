@@ -2,7 +2,7 @@
 layout: news
 hidden: true
 title: A Quick Pitch for Safety on the Continental Divide Trail
-tagimg: "https://lh3.googleusercontent.com/pw/ACtC-3dYjEzcQ7ezgrQ9JnPIrhZwZ84YwvGHO_aU8zhu8-4xEk8BuyZE0jmaiAFLxP6wGo5dY6g1_K-Iatg9UKUOKJ82hfxKF9yGGf_qsM-30tX5EYdoVdpy8-HC9NlcLOVMOTTbY4Qw_e-FE4E-lKekvRCz3g=w320-no?authuser=0"
+tagimg: https://ik.imagekit.io/funsizehikes/IMG_20170429_183809_roXeKAC4O7.jpg?tr=w-320
 link: "https://www.hyperlitemountaingear.com/blogs/ultralight/a-quick-pitch-for-safety-on-the-continental-divide-trail"
 priority: 1
 ---
