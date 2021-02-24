@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Minus 22 Degrees: Crown Land Winter Camping
+title: "Minus 22 Degrees: Crown Land Winter Camping"
 tags: hiking winter
 tagimg: "https://ik.imagekit.io/funsizehikes/PXL_20210220_171821241_zinMu2fCE.jpg"
 ---
@@ -10,7 +10,7 @@ About an hour after we leave the car, my jaw unclenches and my shoulders drop. I
 
 About an hour after we leave the car, my jaw unclenches and my shoulders drop. I feel the tension start to burn away, like early morning mist. It's been a long month and a half stuck in lockdown, unable to leave the house. But now we can camp again. It doesn’t matter that the forecast is bitterly cold, or that no one has packed down the trails. We’re finally outside, where we belong. 
 
-![](https://ik.imagekit.io/funsizehikes/PXL_20210220_004126277.NIGHT_5ZlvXJjX6.jpg?tr=w-640)
+![Reading by the fire](https://ik.imagekit.io/funsizehikes/PXL_20210220_004126277.NIGHT_5ZlvXJjX6.jpg?tr=w-640)
 
 In the autumn, facing another long winter without travel and mountains, Shake ‘n Bake and I bought winter sleeping bags. We decided we wouldn’t stop camping. We’d commit to going at least once a month, no matter what the weather threw at us. We learned how to melt snow, and start fires when everything was covered in ice after freezing rain. We figured out how to stamp down a sleeping area in the snow, and build benches to sit around the fire. We didn’t travel huge distances. But just learning how to survive outside in the winter seemed like enough. 
 
