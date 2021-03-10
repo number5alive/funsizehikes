@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Training Levels"
-tags: Hiking Stories Winter
+tags: hiking stories winter
 tagimg: "https://ik.imagekit.io/funsizehikes/PXL_20210307_153454895_0zXhM0thm.jpg?tr=w-320"
 ---
 
