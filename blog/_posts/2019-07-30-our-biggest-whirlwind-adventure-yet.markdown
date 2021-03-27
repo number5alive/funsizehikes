@@ -9,7 +9,7 @@ title: Our biggest whirlwind adventure yet.
 wordpress_id: 1698
 tags:
 - PCT
-- Travel
+- travel
 - canoeing
 - stories
 tagimg: 'https://eloiserobbins.files.wordpress.com/2019/07/p_20190519_101626_vhdr_auto_hp8172422141467015326.jpg'

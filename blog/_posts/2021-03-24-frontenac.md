@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Frontenac"
-tags: Hiking stories winter
+tags: hiking stories winter
 tagimg: "https://ik.imagekit.io/funsizehikes/PXL_20210320_154546978_JigxCblMB.jpg?tr=w-320"
 ---
 

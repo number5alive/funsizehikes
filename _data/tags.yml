@@ -48,6 +48,11 @@
   bgcolor: '#a277a3'
   fgcolor: black
 
+- name: winter 
+  description: Winter
+  bgcolor: '#a277a3'
+  fgcolor: black
+
 - name: travel
   description: Travel
   bgcolor: '#a277a3'
