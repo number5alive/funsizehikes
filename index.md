@@ -66,7 +66,6 @@ sitemap:
           leftimg=true
           text=post.excerpt
           link=post.url
-          postdate=post.date
     %}
 {% endfor %}
 <div class="container-fluid infocard">
