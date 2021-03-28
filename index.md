@@ -58,7 +58,19 @@ sitemap:
     %}
 {% endfor %}
 
+<h1 class="text-center pt-4 fs-4 fst-italic">Latest Professional Writing</h1>
+{% for post in site.categories.writing limit: 1 %}
+    {% include actioncard.html 
+          title=post.title
+          image=post.tagimg
+          leftimg=true
+          text=post.excerpt
+          link=post.url
+          postdate=post.date
+    %}
+{% endfor %}
 <div class="container-fluid infocard">
+ 
   <div class="text-center fst-italic">Do you want to be notified when there are new blog posts? <a href="https://feedburner.google.com/fb/a/mailverify?uri=FunSizeHikes&amp;loc=en_US" title="Subscribe">Click here for email notifications</a>.
   </div>
 </div>
