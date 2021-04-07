@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "How to Survive Quarentine"
+title: "How to Survive Quarantine"
 tags: gear bikepacking
 tagimg: "https://ik.imagekit.io/funsizehikes/P_20200517_103058_vHDR_Auto_xvF4CBDI1.jpg?tr=w-320"
 ---
@@ -38,3 +38,4 @@ We switched to canoe camping for a while, but later in the summer, we drove to t
  title="Chester loves bikepacking"
  image="https://ik.imagekit.io/funsizehikes/P_20200517_100121_vHDR_Auto_HP_9VRYONspJ.jpg"
 %}
+ 
