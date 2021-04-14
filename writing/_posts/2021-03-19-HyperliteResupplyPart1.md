@@ -1,7 +1,7 @@
 ---
 layout: news
 hidden: true
-title: "Keep your feet on the gas: how to resupply like a champ on a thru hike, part 1"
+title: "Keep Your Feet on the Gas: How to Resupply Like a Champ on a Thru Hike, part 1"
 tagimg: https://cdn.shopify.com/s/files/1/3004/4846/files/2021-MARCH-BLOG-Resupply-3_2048x2048.jpg?v=1615382764
 link: "https://www.hyperlitemountaingear.com/blogs/ultralight/keep-your-feet-on-the-gas-how-to-resupply-like-a-champ-on-a-thru-hike-part-1"
 priority: 1
