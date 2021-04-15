@@ -7,5 +7,5 @@ link: "https://thetrek.co/six-triple-crown-spots-to-visit-if-you-cant-thru-hike-
 priority: 1
 ---
 
-Tell anyone you hike long distances, and one of the first questions they'll ask you is about food. What do you eat? How do you carry all of your food for five months? (Spoiler alert, you don't.) Luckily there's a variety of different strategies that will make sure you don't go hungry. 
+Hopefully, this article will either help you choose a section, or will spark some daydreams about when it’s finally time to thru-hike. You should be able to visit all of these spots without needing to resupply in town. There are also suggestions on how to shuttle or out and back, so you can avoid hitchhiking.
 

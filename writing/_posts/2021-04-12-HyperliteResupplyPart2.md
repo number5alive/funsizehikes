@@ -7,5 +7,5 @@ link: "https://www.hyperlitemountaingear.com/blogs/ultralight/keep-your-feet-on-
 priority: 1
 ---
 
-Tell anyone you hike long distances, and one of the first questions they'll ask you is about food. What do you eat? How do you carry all of your food for five months? (Spoiler alert, you don't.) Luckily there's a variety of different strategies that will make sure you don't go hungry. 
+There is an overwhelming number of food options for backcountry adventures. From dehydrated meals to gourmet eggs and bacon, there’s something for everyone. How do you know what will work for you? Your strategy will vary depending on the type of trip you’re on.
 
