@@ -32,6 +32,7 @@ title: Contact Me
           <label for="exampleFormControlTextarea1" class="form-label">Message</label>
           <textarea class="form-control" name="comment" placeholder="Leave me a message here" id="exampleFormControlTextarea1" rows="3"></textarea>
         </div>
+        <div class="g-recaptcha" data-sitekey="6LcPy8caAAAAAAmPmxwWcjwxGV41BdJqXvjvQ3p9"></div>
         <button type="submit" class="btn btn-primary">Submit</button>
       </form>
       <iframe name='formresponse' class="visually-hidden" style="width:100; height:50"></iframe>
@@ -41,6 +42,9 @@ title: Contact Me
     </div>
   </div>
 </div>
+ 
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+ 
 <script>
 function onSubmit() {
   var elform=document.getElementById("contactform");
