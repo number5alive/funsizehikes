@@ -28,6 +28,7 @@ titleimg: /images/banners/roundislandlake-2048.jpg
         leftimg=doleft
         text=post.content
         link=post.link
+        linktotab=true
   %}
   {% assign articlecount = articlecount | plus: 1 | modulo: 2 %}
 {% endfor %}

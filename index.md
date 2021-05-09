@@ -66,6 +66,7 @@ sitemap:
           leftimg=true
           text=post.excerpt
           link=post.link
+          linktotab=true
     %}
 {% endfor %}
 <div class="container-fluid infocard">

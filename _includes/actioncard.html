@@ -3,6 +3,13 @@
 {% else %}
   {% assign imgpath='/images/icons/logo-200.png' %}
 {% endif %}
+ 
+ 
+{% if include.linktotab and include.linktotab != "false" %}
+  {% assign linktarget="_blank" %}
+{% else %}
+  {% assign linktarget="" %}
+{% endif %}
 
 {% capture imagepart %}
     <div class="col-3">
@@ -12,7 +19,7 @@
  
 <div class="container-fluid infocard">
   {% if include.link %}
-    <a class="text-decoration-none" style="color:inherit" href="{{ include.link }}">
+    <a class="text-decoration-none" style="color:inherit" href="{{ include.link }}" target="{{ linktarget }}">
   {% endif %}
   <div class="row" style="width:100%">
   {% if include.leftimg %}
