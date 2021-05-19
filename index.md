@@ -59,7 +59,7 @@ sitemap:
 {% endfor %}
 
 <h1 class="text-center pt-4 fs-4 fst-italic">Latest Professional Writing</h1>
-{% for post in site.categories.writing limit: 1 %}
+{% for post in site.categories.writing limit: 2 %}
     {% include actioncard.html 
           title=post.title
           image=post.tagimg
