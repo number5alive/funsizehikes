@@ -4,22 +4,24 @@
  title="description of the image"
 {% endcomment %}
 
-{% assign id={{include.image | replace:'/','' | replace:':','' | replace:'.',''}} %}
+
+{% comment %}
+ We make an 'id' to link the unclicked picture to the modal window that will pop up
+ This is just the image name
+{% endcomment %}
+{% assign id={{include.image | split: '/' | last | split: '.' | first }} %}
  
-<!--
-  <button type="button" class="btn btn-primary blogimage" data-bs-toggle="modal" data-bs-target="#modal_{{id}}" aria-label="{{include.title}}" style="background-image:url('{{ include.image }}?tr=w-640')"></button>
-   
-<button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#modal_{{id}}" aria-label="{{include.title}}"> <img src="{{ include.image }}?tr=w-640"/></button>
--->
+<!-- The unclicked picture -->
 <button type="button" class="btn blogimage" data-bs-toggle="modal" data-bs-target="#modal_{{id}}" aria-label="{{include.title}}"> 
-  <img class="blogimage" src="{{ include.image }}?tr=w-640"/>
+  <img class="blogimage" src="{{ include.image | split: "?" | first }}?tr=w-640"/>
 </button>
    
+<!-- The clicked picture (shows larger, in a modal window) -->
 <div class="modal fade" id="modal_{{id}}" tabindex="-1" aria-labelledby="modal_{{id}}Title" aria-hidden="true">
   <div class="modal-dialog modal-dialog-centered modal-xl">
     <div class="modal-content">
       <div class="modal-body">
-        <div class="picturecard" style="background-image:url('{{ include.image }}?tr=w-1024')"></div>
+        <div class="picturecard" style="background-image:url('{{ include.image | split: "?" | first }}?tr=w-1024')"></div>
         <div class="text-center">{{include.title}}</div>
       </div>
       <div class="modal-footer">
