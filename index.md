@@ -57,6 +57,11 @@ sitemap:
           postdate=post.date
     %}
 {% endfor %}
+ 
+<h1 class="text-center pt-4 fs-4 fst-italic">Blogs by Category</h1>
+<div class="container-fluid infocard">
+{% include blognav.html %}
+</div>
 
 <h1 class="text-center pt-4 fs-4 fst-italic">Latest Professional Writing</h1>
 {% for post in site.categories.writing limit: 2 %}
@@ -74,10 +79,4 @@ sitemap:
   <div class="text-center fst-italic">Do you want to be notified when there are new blog posts? <a href="https://feedburner.google.com/fb/a/mailverify?uri=FunSizeHikes&amp;loc=en_US" title="Subscribe">Click here for email notifications</a>.
   </div>
 </div>
-   
-<!-- Add a small section on the adventures on our horizon -->
-{% include horizon.html %}
  
-<!-- Add our block of instagram pictures to this page -->  
-{% include instagram.html %}
-
