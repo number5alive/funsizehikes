@@ -45,6 +45,11 @@ sitemap:
     </div>
   </div>
 </div>
+ 
+<h1 class="text-center pt-4 fs-4 fst-italic">Blogs by Category</h1>
+<div class="container-fluid infocard">
+{% include blognav.html %}
+</div>
 
 <h1 class="text-center pt-4 fs-4 fst-italic">Latest Blog Post</h1>
 {% for post in site.categories.blog limit: 1 %}
@@ -57,11 +62,6 @@ sitemap:
           postdate=post.date
     %}
 {% endfor %}
- 
-<h1 class="text-center pt-4 fs-4 fst-italic">Blogs by Category</h1>
-<div class="container-fluid infocard">
-{% include blognav.html %}
-</div>
 
 <h1 class="text-center pt-4 fs-4 fst-italic">Latest Professional Writing</h1>
 {% for post in site.categories.writing limit: 2 %}
