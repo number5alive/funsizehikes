@@ -67,7 +67,7 @@ The climb from the lake is brutal: long, steep and exposed. I hike as fast as I 
 
 {% include blogimg.html
  title=""
- image=https://ik.imagekit.io/funsizehikes/PXL_20220430_191247665_GC4mRjFxQ.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655127281336""
+ image="https://ik.imagekit.io/funsizehikes/PXL_20220430_191247665_GC4mRjFxQ.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1655127281336"
 %}
 
 I reach the top as the heat of the day begins to break. The trail is still rough, contouring around the burnt hillside at steep side angles. There’s only a few places to camp, and most are wind scoured and exposed. Finally, I find a sheltered manzanita grove. Bees buzz around me, drunk on nectar. There’s a view of the lake, shining in the last light of the day.
