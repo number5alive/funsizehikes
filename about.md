@@ -14,7 +14,7 @@ titleimg: /images/banners/glaciercalves-2048.jpg
     </picture>
   </div>
   <div class="col-sm-8 col-lg-6 pt-2">
-    <p> I am a long distance adventurer and writer, who loves being outside more than just about anything else. I completed the Triple Crown of hiking in just over two years. I’ve hiked the Pacific Crest Trail, Continental Divide Trail, Appalachian Trail, Long Trail, and many other shorter treks. I love any form of human powered transport, but particularly canoeing, bikepacking, rock climbing, and various types of winter exploration. I have also completed a 24 day raft trip on the Colorado river through the Grand Canyon.  I have lived in Scotland and Alaska, although I now make my home in Canada.  </p>
+    <p> I am a long distance adventurer and writer, who loves being outside more than just about anything else. I completed the Triple Crown of hiking in just over two years. I’ve hiked the Pacific Crest Trail, Continental Divide Trail, Appalachian Trail, Long Trail, Arizona Trail, Great Divide Trail and many other shorter treks. I love any form of human powered transport, but particularly canoeing, bikepacking, rock climbing, and various types of winter exploration. I have also completed a 24 day raft trip on the Colorado river through the Grand Canyon.  I have lived in Scotland and Alaska, although I now make my home in Canada.  </p>
 
     <p> I have worked as a writer, editor and communications manager for a diverse set of companies, including book publishers, nonprofits and law firms. My writing has appeared in multiple outdoor publications, including noted thru-hiking website <a href="https://thetrek.co/author/eloise-robbins/">The Trek</a> and popular outdoor podcast <a href="https://dirtbagdiaries.com/">Dirtbag Diaries</a>.</p>
 
@@ -30,7 +30,7 @@ titleimg: /images/banners/glaciercalves-2048.jpg
       title="Thru-Hiking" 
       image="/images/withfs/dirtylegs-320.webp"
       leftimg=true
-      text="I’ve been hiking for over two decades. I started backpacking as a teenager in Scotland while completing the Duke of Edinburgh’s award. I hiked the Pacific Crest Trail in 2016, the Continental Divide Trail in 2017 and the Appalachian Trail in 2018. In 2019, I hiked the Long Trail with Chester the nine pound Biewer Terrier. I have continued to hike all over the world, and have completed treks in Alaska, Patagonia, Canada, Scotland, and across the US. In 2021, I plan to hike the Great Divide Trail, a 800 mile route through the Canadian Rockies."
+      text="I’ve been hiking for over two decades. I started backpacking as a teenager in Scotland while completing the Duke of Edinburgh’s award. I hiked the Pacific Crest Trail in 2016, the Continental Divide Trail in 2017 and the Appalachian Trail in 2018. In 2021, I hiked Canada's Great Divide Trail. I have continued to hike all over the world, and have completed treks in Alaska, Patagonia, Canada, Scotland, and across the US. "
 %}
 {% include actioncard.html 
       title="Canoeing" 
@@ -42,7 +42,7 @@ titleimg: /images/banners/glaciercalves-2048.jpg
       title="Bikepacking" 
       image="/images/withoutfs/bikepackchester-320.webp"
       leftimg=true
-      text="I’m a long time bike commuter and winter cyclist. I particularly love fat biking, mostly in Alaska. I recently made the switch to bikepacking. I made bike bags for myself and husband from scratch, developing my own patterns. Chester the dog enjoys coming along for the ride as well."
+      text="I’m a long time bike commuter and winter cyclist. I particularly love fat biking, mostly in Alaska. I recently made the switch to bikepacking. I made bike bags for myself and husband from scratch, developing my own patterns. Chester the dog enjoys coming along for the ride as well. In 2022, we set out on our first big bikepacking trip, and covered over 2,000 miles between Jasper, Alberta, and the New Mexico/Colorado border on the Great Divide Mountain Bike Route."
 %}
 {% include actioncard.html 
       title="Winter Camping" 
