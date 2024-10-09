@@ -118,7 +118,7 @@ We dropped down to cross Belcourt creek, then began the long climb up to Amisk l
 
 {% include blogimg.html
  title=""
- image="https://ik.imagekit.io/funsizehikes/PXL_20240828_154639070%20(1)_lGl6651Lc.jpg?updatedAt=1728493992944"
+ image="https://ik.imagekit.io/funsizehikes/PXL_20240828_212410380_Xr10UgpSo.jpg?updatedAt=1728494098963"
 %}
 
 The wind howled all night, and in the morning, rain pattered on the tent. Steve checked the weather on the InReach- zero percent chance of precipitation today, he told me, despite the rain currently falling. We packed up and then climbed towards an unnamed pass under dramatic skies. The wind blew the rain away, though we kept our rain gear on due to the dark clouds flitting past. A moose ran through a meadow far below us, chased by her calf. We bushwhacked down to Paksumo pass, which seemed to take an eternity. Even when they were the same distance, the alpine sections flew by, while we crawled through the bushwhacks. 
